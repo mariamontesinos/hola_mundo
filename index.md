@@ -44,7 +44,7 @@ de esto no se vera el material -->
 <!-- Comentarios para borrar codigo -->
 <section>
 	<header class="major">
-		<h2>Ipsum sed dolor</h2>
+		<h2>Contenidos</h2>
 	</header>
 	<div class="posts">
 		<article>
