@@ -57,15 +57,15 @@ de esto no se vera el material -->
 			<h3>Rojinegro es un sentimiento</h3>
 			<p>Para entender la historia del Club de Accionariado Popular Ciudad de Murcia, debemos remontarnos al 1999, año en el Quique Pina funda el Club de Fútbol Ciudad de Murcia S.A.D, un equipo que rápidamente sube a Segunda B y posteriormente asciende a Segunda División, donde se mantuvo durante cuatro temporadas.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="#" class="button">Más</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/guimos.jpg" alt="" /></a>
 			<h3>Cervezas Guimo's</h3>
 			<p>Malta, lúpulo, levadura y agua es todo lo que necesita una buena cerveza para deleitar nuestro paladar. Estos son los ingredientes que podemos encontrar en la Guimo’s, la única marca de cerveza artesana que se produce en el municipio de Murcia.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="#" class="button">Más</a></li>
 			</ul>
 		</article>
 		<article>
@@ -73,7 +73,7 @@ de esto no se vera el material -->
 			<h3>Verduras felices</h3>
 			<p>Alfonso y Paco son Del Bancal a Casa, un proyecto la mar de bonico sobre agricultura ecológica nacido en la pedanía murciana de El Esparragal que comenzó hace algo más de tres años, y que desde entonces, se encarga de reflotar huertos abandonados para convertirlos en terrenos cultivables y ecológicos.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="#" class="button">Más</a></li>
 			</ul>
 		</article>
 		<article>
@@ -81,7 +81,7 @@ de esto no se vera el material -->
 			<h3>Moda ética a ritmo de punk</h3>
 			<p>Alexandra Cánovas y Martaé Martínez son Las CulpaSS. Dos diseñadoras murcianas que, cansadas del discurso habitual que encontraban en el mundo de la moda, decidieron crear su propia marca de ropa y complementos para mujeres y hombres reales alejadas de los eslóganes dañinos de la industria consumista.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="#" class="button">Más</a></li>
 			</ul>
 		</article>
 		<article>
@@ -89,7 +89,7 @@ de esto no se vera el material -->
 			<h3>Mucho más que negror</h3>
 			<p>Manuel Romero más conocido como L.Warlock, es un artista multidisciplinar de la escena Hip Hop murciana que además de su trayectoria como pinchadiscos, cineasta, locutor y amante y conocedor del negreo en su máximo esplendor; recientemente también nos ha sorprendido estrenándose como productor. Todo un genio y figura del underground murciano al que no podíamos dejar de hacerle un hueco en este, nuestro Encuentro Divergente.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="#" class="button">Más</a></li>
 			</ul>
 		</article>
 	</div>
