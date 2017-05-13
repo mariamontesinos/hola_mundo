@@ -51,6 +51,9 @@ de esto no se vera el material -->
 			<a href="#" class="image"><img src="assets/images/MurciaEntiende.jpg" alt="" /></a>
 			<h3>Murcia Entiende Así</h3>
 			<p>El día 13 de mayo darán comienzo las distintas actividades que engloba la edición 2017 de “Murcia Entiende Así”, entre las que cabe destacar la XII Muestra de Cine LGTBI en la Filmoteca Regional y el Desfile del Orgullo LGTBI 2017.</p>
+			<ul class="actions">
+				<li><a href="#" class="button">Más</a></li>
+			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/Ciudad3.jpg" alt="" /></a>
