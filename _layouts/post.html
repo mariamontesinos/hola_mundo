@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+                {% include header.html %}
+
+                <!-- Content -->
+                <!-- Banner -->
+            <section id="banner">
+              <div class="content">
+                <header>
+                  <h1>{{ page.title }}</h1>
+                </header>
+                {{ content }}
+              </div>
+
+                {% if page.image %}
+                <span class="image object">
+                  <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="" />
+                </span>
+                 {% endif %}
+
+            </section>
+
+
+            </div>
+            
+
+            </div>
+        </div>
+
+          {% include sidebar.html %}
+
+      </div>
+
+      {% include footer.html %}
+
+</body>
+
+</html>
