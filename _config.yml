@@ -4,7 +4,7 @@ subtitle: (Página en construcción)
 email: murciadivergente@gmail.com
 description: Un proyecto emergente para la cultura alternativa
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://murciadivergente.es/" # the base hostname & protocol for your site
+url: "http://murciadivergente.es" # the base hostname & protocol for your site
 author: Maria Montesinos
 street_address: Calle paralela
 city: Murcia 
