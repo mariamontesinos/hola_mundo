@@ -3,6 +3,5 @@ layout: page
 title: Generic
 image: assets/images/pic11.jpg
 ---
-
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
-                                
+            
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1MRq6WPANn0xvUAqsMVHCvYbQY3ppx6BTCXNp3RDj1X4&amp;font=Abril-DroidSans&amp;lang=es&amp;initial_zoom=2&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
