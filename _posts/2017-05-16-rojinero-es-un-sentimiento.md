@@ -34,3 +34,5 @@ Ante la pregunta de por qué en Murcia nunca ha habído un equipo que haya puest
 
 Actualmente tienen su sede en el nº2 de la Plaza José Barnés, muy próxima al campo, en donde cualquier persona que quiera conocer el club, aseguran, es bienvenida. Además, mandan un mensaje a los interesados en la parcela social “estamos abiertos a cualquier tipo de jornadas y acciones sociales”.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12577.382845629607!2d-1.136573!3d37.992396!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63818ab5624cef%3A0x4c07a0216f8b3179!2sPlaza+Jos%C3%A9+Barnes%2C+30009+Murcia%2C+Espa%C3%B1a!5e0!3m2!1ses!2ses!4v1495361170375" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
