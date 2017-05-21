@@ -53,7 +53,7 @@ Nos reunimos con ellas para charlar y que nos cuenten más sobre sus inicios, la
 
 **Alexandra:** De las camisetas y sudaderas si que producimos más, pero también, y por lo general, sacamos unas poquitas y si se venden bien sacamos algunas más, y sino, pues no se venden. Eso es cosa del slow fashion, no fabricar a destajo para vender al precio que sea y meterle la producción a la gente por los ojos hasta la saciedad.
 
-**Martaé:** Nuestro proyecto en concreto depende mucho de lo que quiere la gente. Si hemos llegado hasta aquí es porque había gente que estaba demandando un proyecto como el de _**Las CulpaSS_**. Se trata de tener un diálogo constante con la gente para saber que es lo que quieren.
+**Martaé:** Nuestro proyecto en concreto depende mucho de lo que quiere la gente. Si hemos llegado hasta aquí es porque había gente que estaba demandando un proyecto como el de _**Las CulpaSS**_. Se trata de tener un diálogo constante con la gente para saber que es lo que quieren.
 
 **Habéis mencionado el _slow fashion_, ¿qué significa realmente ese término?**
 
