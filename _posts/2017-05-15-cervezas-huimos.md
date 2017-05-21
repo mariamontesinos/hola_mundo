@@ -5,4 +5,78 @@ excerpt: "Malta, lúpulo, levadura y agua es todo lo que necesita una buena cerv
 image: guimos.jpg
 categories: solidaridad
 ---
-El día 13 de mayo darán comienzo las distintas actividades que engloba la edición 2017 de “Murcia Entiende Así”, entre las que cabe destacar la XII Muestra de Cine LGTBI en la Filmoteca Regional y el Desfile del Orgullo LGTBI 2017.
+Malta, lúpulo, levadura y agua es todo lo que necesita una buena cerveza para deleitar nuestro paladar. Estos son los ingredientes que podemos encontrar en la _**Guimo’s**_, la única marca de cerveza artesana que se produce en el municipio de Murcia.
+Nos reunimos para charlar con Jorge de Verastegui, socio y productor de la marca cervecera, para que nos cuente más sobre cual es el proceso que sigue la cerveza desde que se muele el grano hasta que llega a nuestra mesa. Además de las dificultades que encuentra una pequeña marca artesana como esta para hacerse hueco en un mercado en auge.
+
+**¿Cuántas personas formáis el equipo Guimo’s?**
+
+Somos dos, mi socio Guillermo López y yo.
+
+**Bueno, ¿y cómo os da por poneros a producir cerveza artesana?**
+
+Pues Guillermo empezó en 2014, y año y medio más tarde me incorporé yo. Yo ya tenía una tienda online de suministros cerveceros y me puse en contacto con él, empezamos a trabajar juntos y finalmente nos fusionamos. Así fue como montamos la Cooperativa Cervecera del Sureste.
+
+**¿Qué productos podemos encontrar bajo la marca Guimo’s?**
+
+Ahora mismo tenemos tres referencias: _la Munich_, _la Pale Ale_ y _La Morenica_. La _Munich_ es de perfil belga, la _Pale Ale_ inglesa y _La Morenica_ es una cerveza oscura de trigo que no llega a ser negra.
+
+imagen
+
+**¿Cuáles son los ingredientes que tiene una Guimo’s?**
+
+Únicamente malta –de cebada o de trigo- levadura, lúpulo y agua.
+
+**Entonces, ¿las tres cervezas se componen de los mismos ingredientes?**
+
+A rasgos generales sí. Una lleva trigo y las demás no, otra lleva tres maltas –una malta caramelo que le da un cierto sabor dulce- y la _Pale Ale_ es más seca y amarga. El sabor varía según el tipo de malta.
+Eso sí, ninguna lleva adjuntos como arroz o maíz, que son ingredientes que se les echa a las cervezas para darles más consistencia, cuerpo... nosotros solo usamos eso cuatro elementos para crear nuestra cerveza.
+
+**¿Cuál es la procedencia de vuestros ingredientes?**
+
+La malta es de procedencia alemana. El lúpulo tiene mucha más variedad, hay lúpulos ingleses, alemanes, belgas… según el estilo de cerveza lleva uno u otro. La _Pale Ale_ lleva lúpulos ingleses, la _Munich_ lúpulos alemanes y _La Morenica__ lleva mezcla.
+
+**¿Cuál es el proceso que se sigue para cocinar la cerveza?**
+
+Lo primero que hay que hacer es extraer los azúcares. Para ello, se selecciona el grano que se quiere cocinar según la receta, se muele para partirlo y que coja los almidones de dentro que se han generado después del malteado. Una vez que esta molido, lo echamos en un recipiente con agua calentado entre 60 y 70ºC y lo cocinamos durante 60-90 minutos aproximadamente. Cuando termina, lo llevamos a la olla dónde le añadimos los lúpulos para meterle amargor, aroma y sabor. Los lúpulos también actúan como conservantes -ya que son antioxidantes-, aprovechamos esa cualidad que tienen para jugar con el amargor de la cerveza.
+
+**Eso sin contar la preparación de los materiales, ¿cuánto tiempo puede tardar el proceso completo?**
+
+Calentar el agua, mover de un lado a otro la cerveza, esperar que vuelva a hervir… el proceso completo de cocinado puede llevar entre  6 y 7 horas sin problema.
+Y qué hay del proceso de reposado... ¿cuánto hay que esperar para que la cerveza pueda ser consumida?
+Depende del tipo de cerveza, puede tardar unas 3 semanas como mínimo. Una vez terminada la primera fase del proceso que es la cocina, llevamos la cerveza a fermentación una vez fría. Dependiendo del estilo, cada una fermenta a una temperaturas distintas. Ahí dejamos que fermente entre 5 días y 15 días.
+Cuando ha terminado ese proceso se va al embotellado. Allí, se prepara un almíbar y se mezcla con la cerveza para hacer una segunda fermentación en botella, ésta segunda fermentación no se debe hacer a más de 20º. Hay cervezas que se beben más verdes, recién hechas y se pueden servir ya y hay otras que necesitan madurar un poco –una, dos semanas o incluso un mes- en frío para que suavice el sabor.
+
+gif
+
+**Háblanos de La producción, ¿aproximadamente cuantos litros sacáis?**
+
+No hacemos una producción programada, la hacemos en funciona de la demanda y el estocaje que tenemos. Cada vez que cocinamos cerveza sacamos unos 200 litros aproximadamente, unos 600 semanales.
+
+**Actualmente, ¿dónde podemos encontrar la Guimo’s?*+
+
+Intentamos estar en todos lados. Ahora mismo estamos en algunos supermercados y pequeños bares y restaurantes más enfocados a la gastronomía y el tema _gourmet_. También en enotecas y algunos locales de noche.
+
+**¿Se queda la comercialización en la Región de Murcia?**
+
+Ahora mismo sí. Tenemos algo fuera, en Sevilla y Alicante pero casi toda se queda en la Región de Murcia por el momento.
+
+**Ultimamente vivimos un auge de marcas de cerveza artesana, no solo en Murcia, si no a nivel nacional, ¿a crees que se debe el aumento de este tipo de producción en los últimos años?**
+
+Creo que se debe al trabajo que se está haciendo por parte de los productores y desde los locales comercializadores de dar a conocer los productos, mostrar los valores añadidos que tienen, y sobre todo la calidad de una cerveza que no tiene nada que ver con la industrial. Al final pasa como con todo, no se puede comparar la calidad de la producción intensiva con otra más extensiva o pausada.
+
+**¿Qué diferencia a la Guimo’s de otras cerveza artesana?**
+
+El primer lugar, se trata de la única cerveza que se produce en el municipio de Murcia. Aunque existen otras muchas en la Región, la Guimo’s es la única que se trabaja aquí. Por otro lado, nosotros siempre hemos querido hacer una cerveza que se pueda beber, no hacerla muy amarga o con mucho alcohol para que se distinga del resto por esas cualidades. Hacemos cervezas que le gusten a la gente y para que cualquiera que las pruebe pueda disfutarlas, no solo para eruditos de la cerveza.
+
+imagen
+
+**¿Qué dificultades encuentra una pequeña marca artesana como la vuestra a la hora de comercializar su producto?**
+
+Las dificultades son la red de distribución y la red comercial. Al final somos empresas muy pequeñas que nos dedicamos a hacerlo todo nosotros. Habrá gente que tenga comerciales en la calle y les resultará más fácil, pero en nuestro caso, nos gusta venderlas nosotros mismos y tener una relación con el cliente.
+También está el tema del precio, aunque poco a poco parece que la gente va aprendiendo que nuestro producto no es igual, se elabora de forma manual y sin maquinaria. Se trata de un proceso más laborioso, lo que hace que el precio final no sea el mismo que el de una cerveza industrial. 
+
+**Qué hay de los kits de cerveza, porque no sólo producís si no que además vendéis suministros de cerveza para que quién quiera pueda hacer su propia cerveza artesana en casa.**
+
+Hay muchos tipos de kits. Tenemos uno pensado para elaborar cerveza en casa sin tener que hacer ninguna inversión ni usar cocinas más grandes de las que podemos encontrar en cualquier hogar. Son latas de preparado que se diluyen en agua, se mezcla con levadura, se deja fermentar y listo. Además incluye los accesorios necesarios para rellenar tus botellas. Luego, tenemos uno kits más elaborados con maceradores -o bien de fuego o tipo neveras- con lo que se pueden hacer desde cinco hasta 100 litros, dependiendo de la inversión que cada uno quiera hacer.
+
+imagen
