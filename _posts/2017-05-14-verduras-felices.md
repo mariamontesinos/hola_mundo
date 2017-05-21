@@ -5,7 +5,7 @@ excerpt: "Alfonso y Paco son Del Bancal a Casa, un proyecto la mar de bonico sob
 image: bancal.jpg
 categories: solidaridad
 ---
-			<span class="image fit"><img src="assets/images/bancal/bancal.jpg" alt="" /></span>
+			<span class="image fit"><img src="{{ site.baseurl }}"assets/images/bancal/bancal.jpg" alt="" /></span>
 		
 
 Alfonso y Paco son Del Bancal a Casa, un proyecto la mar de bonico sobre agricultura ecológica nacido en la pedanía murciana de El Esparragal que comenzó hace algo más de tres años, y que desde entonces, se encarga de reflotar huertos abandonados para convertirlos en terrenos cultivables y ecológicos.
