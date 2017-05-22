@@ -36,7 +36,7 @@ title: Quiénes somos
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-		<!-- Text stuff -->
+<!-- Text stuff -->
 			<h3>Text</h3>
 			<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 			This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -49,13 +49,13 @@ title: Quiénes somos
 			<hr />
 			<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 
-		<!-- Lists -->
+<!-- Lists -->
 			<h3>Lists</h3>
 			<div class="row">
 				<div class="6u 12u$(small)">
 
-					<h4>Unordered</h4>
-					<ul>
+<h4>Unordered</h4>
+<ul>
 						<li>Dolor etiam magna etiam.</li>
 						<li>Sagittis lorem eleifend.</li>
 						<li>Felis dolore viverra.</li>
