@@ -3,7 +3,7 @@ layout: post
 title:  "Rojinegro es un sentimiento"
 excerpt: "Para entender la historia del Club de Accionariado Popular Ciudad de Murcia, debemos remontarnos al 1999, año en el Quique Pina funda el Club de Fútbol Ciudad de Murcia S.A.D, un equipo que rápidamente sube a Segunda B y posteriormente asciende a Segunda División, donde se mantuvo durante cuatro temporadas."
 image: Ciudad3.jpg
-categories: solidaridad
+categories: post
 ---
 
 Para entender la historia del **Club de Accionariado Popular Ciudad de Murcia**, debemos remontarnos al 1999, año en el Quique Pina funda el Club de Fútbol Ciudad de Murcia S.A.D, un equipo que rápidamente sube a Segunda B y posteriormente asciende a Segunda División, donde se mantuvo durante cuatro temporadas. Con la llegada de la época de los pelotazos urbanísticos, y puesto que la Condomina no reunía las condiciones necesarias que debía de tener el estadio para estar en Segunda División, Quique Pina quiso crear su propia ciudad deportiva -como ya había hecho el Real Murcia con la construcción del estadio de la Nueva Condomina-,pero el Ayuntamiento de Murcia le negó el apoyo necesario para llevarlo a cabo. Como consecuencia, y durante la temporada 2006-2007, Quique Pina vende el equipo al empresario granadino Carlos Marsá, el cual se lo llevaría a Granada.

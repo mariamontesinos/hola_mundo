@@ -3,7 +3,7 @@ layout: post
 title: "28 años luchando por la diversidad"
 excerpt: "La lucha por la normalización de la diversidad sexual y afectiva es el estandarte por el que vela el colectivo murciano **No te Prives**. Una asociación que trabaja desde hace más de 28 años por la igualdad y los derechos sociales de los ciudadanos LGTBI en la Región de Murcia. Hablamos con Jesús Costa, actual presidente del colectivo, para que nos cuente más sobre su trabajo a lo largo de estos años."
 image: noteprives1.jpg
-categories: solidaridad
+categories: post
 ---
 
 La lucha por la normalización de la diversidad sexual y afectiva es el estandarte por el que vela el colectivo murciano **No te Prives**. Una asociación que trabaja desde hace más de 28 años por la igualdad y los derechos sociales de los ciudadanos LGTBI en la Región de Murcia. Hablamos con Jesús Costa, actual presidente del colectivo, para que nos cuente más sobre su trabajo a lo largo de estos años.

@@ -3,7 +3,7 @@ layout: post
 title:  "Cervezas Guimo's"
 excerpt: "Malta, lúpulo, levadura y agua es todo lo que necesita una buena cerveza para deleitar nuestro paladar. Estos son los ingredientes que podemos encontrar en la Guimo’s, la única marca de cerveza artesana que se produce en el municipio de Murcia."
 image: guimos.jpg
-categories: solidaridad
+categories: post
 ---
 Malta, lúpulo, levadura y agua es todo lo que necesita una buena cerveza para deleitar nuestro paladar. Estos son los ingredientes que podemos encontrar en la _**Guimo’s**_, la única marca de cerveza artesana que se produce en el municipio de Murcia.
 Nos reunimos para charlar con Jorge de Verastegui, socio y productor de la marca cervecera, para que nos cuente más sobre cual es el proceso que sigue la cerveza desde que se muele el grano hasta que llega a nuestra mesa. Además de las dificultades que encuentra una pequeña marca artesana como esta para hacerse hueco en un mercado en auge.
