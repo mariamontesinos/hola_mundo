@@ -103,4 +103,4 @@ imagen
 
 **Alexandra:** Sí, poder movernos un poquito. Que nos de la empresa para eso [risas].
 
-<div class="4u"><span class="image fit"><img src="assets/images/culpass2.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="assets/images/culpass.jpg" alt="" /></span></div>
