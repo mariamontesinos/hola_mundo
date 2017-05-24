@@ -42,7 +42,7 @@ Cuando sale la marea de la educación, nosotros tenemos que estar ahí porque la
 <p align="justify">Tenemos el WhatsApp amigo, que es un servicio de atención a jóvenes contra la LGTBFOBIA vía WhatsApp atendido por voluntarios.
 Además, hacemos la prueba rápida de VIH en saliva de forma confidencial en nuestro local tres días por semana.</p>
 
-imagen
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/no te prives/lgtbi.jpg" alt="" /></span>
 
 <p align="justify">En  mayo de 2016 entra en vigor la Ley de igualdad social de las lesbianas, gais, bisexuales, transexuales, transgénero e intersexuales, y de políticas públicas contra la discriminación por orientación sexual e identidad de género en la Comunidad Autónoma de la Región de Murcia.</p>
 
