@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "28 años luchando por la diversidad"
-excerpt: "La lucha por la normalización de la diversidad sexual y afectiva es el estandarte por el que vela el colectivo murciano **No te Prives**. Una asociación que trabaja desde hace más de 28 años por la igualdad y los derechos sociales de los ciudadanos LGTBI en la Región de Murcia. Hablamos con Jesús Costa, actual presidente del colectivo, para que nos cuente más sobre su trabajo a lo largo de estos años."
+excerpt: "La lucha por la normalización de la diversidad sexual y afectiva es el estandarte por el que vela el colectivo murciano 'No te Prives'. Una asociación que trabaja desde hace más de 28 años por la igualdad y los derechos sociales de los ciudadanos LGTBI en la Región de Murcia. Hablamos con Jesús Costa, actual presidente del colectivo, para que nos cuente más sobre su trabajo a lo largo de estos años."
 image: noteprives1.jpg
 categories: post
 ---
@@ -84,7 +84,6 @@ Sí, y debemos reivindicarla como memoria histórica pero no nos podemos quedar 
 
 Yo no puedo pedir visibilidad, normalización e igualdad de derechos y luego hacer mi propio mundo aparte. En un momento dado estaba justificado porque salías a la calle y podías morir por ello, o te metían a la cárcel. Yo ahí sólo puedo reconocer el mérito que tienen todos los travestis -o travelos como los llamaban en su momento- que salían a la calle y que estaban discriminados por tener pluma y ser amanerados, pero en realidad eran los que tenían un par de cojones para hacerlo con Franco gobernando. Venían los grises y los metían a la cárcel y hacían lo que querían con ellos. Ahora, son mariconas viejas. Lo digo como un insulto que se les da, no reconocemos que tuvieron mil veces más valor del que tengo yo antes de morirme. Por que a mí no me van a meter a la cárcel por maricón. Una de las cosas que queremos hacer es recuperar esa memoria histórica. La pluma de plata del año que viene queremos que vaya por ahí, en reconocer el valor y exigir la memoria histórica de las personas LGTBI del Franquismo que fueron las ultimas en salir de la cárcel. Cuando comenzaron a darse los indultos y a salir los presos políticos fueron las últimas personas en hacerlo, y en muchas ocasiones enviados a posteriori a campos de concentración, por ejemplo en Francia.
 
-<span class="image object">
       <img src="assets/images/vagosymaleantes.jpg" alt="" />
     </span>
 
