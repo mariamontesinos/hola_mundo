@@ -6,11 +6,8 @@ image: culpass.jpg
 categories: post
 ---
 
-<span class="image fit"><img src="assets/images/culpass2.jpg" alt="" /></span>
-					
 
-Alexandra Cánovas y Martaé Martínez son _**Las CulpaSS**_. Dos diseñadoras murcianas que, cansadas del discurso habitual que encontraban en el mundo de la moda, decidieron crear su propia marca de ropa y complementos para mujeres y hombres reales alejadas de los eslóganes dañinos de la industria consumista. 
-Nos reunimos con ellas para charlar y que nos cuenten más sobre sus inicios, la situación actual de la marca y cuáles son sus planes futuros, así como sobre el trasfondo social de este proyecto tan bonico.
+Alexandra Cánovas y Martaé Martínez son _**Las CulpaSS**_. Dos diseñadoras murcianas que, cansadas del discurso habitual que encontraban en el mundo de la moda, decidieron crear su propia marca de ropa y complementos para mujeres y hombres reales alejadas de los eslóganes dañinos de la industria consumista. Nos reunimos con ellas para charlar y que nos cuenten más sobre sus inicios, la situación actual de la marca y cuáles son sus planes futuros, así como sobre el trasfondo social de este proyecto tan bonico.
 
 **Empezasteis en 2010 a raíz de estudiar diseño de moda y joyería, ¿cómo es ese momento en el que os sentáis juntas y decís “vamos a crear una marca de ropa en común que son _Las CulpaSS_”?**
 
@@ -82,7 +79,7 @@ Nos reunimos con ellas para charlar y que nos cuenten más sobre sus inicios, la
 
 **Martaé:** La última, _**Culpables de la extinción de los dinosaurios**_ es por una amiga que le dice mucho culpable a sus perros y entonces fue en plan “culpables hasta de la extinción de los dinosaurios” [risas].
 
-imagen
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/bancal/coliflor.jpg" alt="" /></span>
 
 **También hay otros más serios como es el caso de Evolución o Barbarie, ¿qué me decís de ese?**
 
