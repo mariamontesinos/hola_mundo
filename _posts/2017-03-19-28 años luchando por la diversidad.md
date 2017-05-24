@@ -24,7 +24,7 @@ Cuando sale la marea de la educación, nosotros tenemos que estar ahí porque la
 
 Sí, es que es así. Yo lloré con esa película porque además está basada en hechos reales: un cuerpo de mineros de lo más heterosexual y gallito en la época de la Tatcher se dan cuenta de que hay otro colectivo social preocupado porque tienen unos derechos que no se les están reconociendo, y son capaces de ponerse en su lugar y encontrar la unión ello. Me pareció genial.</p>
 
-<iframe src="https://giphy.com/embed/HWwgenm1w5VL2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HWwgenm1w5VL2">via GIPHY</a></p>
+<p align="justify"><iframe src="https://giphy.com/embed/HWwgenm1w5VL2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HWwgenm1w5VL2">via GIPHY</a></p></p>
 
 **¿Cuántos socios y cuántos voluntarios sois en la asociación?**
 
