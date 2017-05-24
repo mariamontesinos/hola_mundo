@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  Editorial by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 
@@ -21,19 +21,27 @@
 
                 <!-- Content -->
                 <!-- Banner -->
-            <section id="banner">
+            <section>
               <div class="content">
+              
+              <div class="row">
+                <div class="12u 12u$(small)">
                 <header>
                   <h1>{{ page.title }}</h1>
                 </header>
-                {{ content }}
-              </div>
-
                 {% if page.image %}
-                <span class="image object">
+                <span class="image right">
                   <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="" />
                 </span>
                  {% endif %}
+
+                {{ content }}                
+
+                </div>
+
+              </div>  
+              
+              </div>
 
             </section>
 
@@ -41,8 +49,9 @@
             </div>
             
 
-          </div>
-      
+            </div>
+        </div>
+
           {% include sidebar.html %}
 
       </div>
