@@ -46,7 +46,7 @@ Eso sí, ninguna lleva adjuntos como arroz o maíz, que son ingredientes que se 
 
 **Eso sin contar la preparación de los materiales, ¿cuánto tiempo puede tardar el proceso completo?**
 
-C<p align="justify">alentar el agua, mover de un lado a otro la cerveza, esperar que vuelva a hervir… el proceso completo de cocinado puede llevar entre  6 y 7 horas sin problema.
+<p align="justify">Calentar el agua, mover de un lado a otro la cerveza, esperar que vuelva a hervir… el proceso completo de cocinado puede llevar entre  6 y 7 horas sin problema.
 Y qué hay del proceso de reposado... ¿cuánto hay que esperar para que la cerveza pueda ser consumida?
 Depende del tipo de cerveza, puede tardar unas 3 semanas como mínimo. Una vez terminada la primera fase del proceso que es la cocina, llevamos la cerveza a fermentación una vez fría. Dependiendo del estilo, cada una fermenta a una temperaturas distintas. Ahí dejamos que fermente entre 5 días y 15 días.
 Cuando ha terminado ese proceso se va al embotellado. Allí, se prepara un almíbar y se mezcla con la cerveza para hacer una segunda fermentación en botella, ésta segunda fermentación no se debe hacer a más de 20º. Hay cervezas que se beben más verdes, recién hechas y se pueden servir ya y hay otras que necesitan madurar un poco –una, dos semanas o incluso un mes- en frío para que suavice el sabor.</p>
@@ -57,7 +57,7 @@ Cuando ha terminado ese proceso se va al embotellado. Allí, se prepara un almí
 
 <p align="justify">No hacemos una producción programada, la hacemos en funciona de la demanda y el estocaje que tenemos. Cada vez que cocinamos cerveza sacamos unos 200 litros aproximadamente, unos 600 semanales.</p>
 
-**Actualmente, ¿dónde podemos encontrar la Guimo’s?*+
+**Actualmente, ¿dónde podemos encontrar la Guimo’s?**
 
 <p align="justify">Intentamos estar en todos lados. Ahora mismo estamos en algunos supermercados y pequeños bares y restaurantes más enfocados a la gastronomía y el tema _gourmet_. También en enotecas y algunos locales de noche.</p>
 
