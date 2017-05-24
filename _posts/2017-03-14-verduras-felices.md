@@ -20,7 +20,7 @@ Alfonso y Paco son Del Bancal a Casa, un proyecto la mar de bonico sobre agricul
 
 Hace ya unos años empezaron a introducirse los productos químicos y aquello cada vez fue a más. Por ponerte un ejemplo: antiguamente se escardaban las lechugas, es decir, se le quitaba la hierba, dos veces antes de cortarlas. Poco a poco las fumigaciones fueron avanzando y ya se escardaba solo una vez, hasta que, incluso llegó el momento en el que ya se fumigaba y no se le quitaba la hierbas. Una práctica que fue a más porque de la otra manera lleva mucho tiempo, y sin embargo así abaratas muchos costes. Cuando fumigas, pagas por un líquido que te dan, que no sabes ni siquiera que contiene. Te aseguran que sigue unas medidas de seguridad y que no pasa nada. Poco a poco, te vas dando cuenta que la única forma que tienes de saber lo que lleva es cultivando tu mismo.
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/bancal/alfonsoypaco.jpg" alt="" /></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/bancal/alfonsoypaco.jpg" alt="" /></span>
 
 **¿Todo esto lo sacáis adelante vosotros solos?**
 
@@ -35,7 +35,7 @@ Al principio si que éramos solo nosotros. Esto empezó poco a poco, y teníamos
 
 **Alfonso:** Los huertos son arrendados. Los dueños siguen siendo los mismos, nosotros llegamos a un acuerdo con ellos: o bien por dinero o a cambio de tener un bancal limpio, eso depende del dueño. Nosotros somos los encargados de ponerlos de nuevo en marcha.
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/bancal/coliflor.jpg" alt="" /></span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/bancal/coliflor.jpg" alt="" /></span>
 
 **Alfonso:** Se sigue un proceso diferente, primero se pone un mato verde -un abono verde vegetal- que nos ayuda a sacar todas las malas hierbas y las semillas de la tierra.
 
