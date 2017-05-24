@@ -26,13 +26,13 @@ Sí, es que es así. Yo lloré con esa película porque además está basada en 
 
 <iframe src="https://giphy.com/embed/HWwgenm1w5VL2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HWwgenm1w5VL2">via GIPHY</a></p>
 
-<p align="justify">**¿Cuántos socios y cuántos voluntarios sois en la asociación?**
+**¿Cuántos socios y cuántos voluntarios sois en la asociación?**
 
-No hablaría tanto de socios como de participantes, porque el número de socios va fluctuando. Una veces hay más y otras veces hay menos. Unos se asocian por ayudar económicamente y luego hay quien hace donaciones puntuales. Luego también están los que nos preguntan qué tipo de prestaciones tienen por ser socios. Próximamente vamos a hacer una lista de locales colaboradores que van a efectuar descuentos a los socios como es el caso de la Filmoteca Regional.
+<p align="justify">No hablaría tanto de socios como de participantes, porque el número de socios va fluctuando. Una veces hay más y otras veces hay menos. Unos se asocian por ayudar económicamente y luego hay quien hace donaciones puntuales. Luego también están los que nos preguntan qué tipo de prestaciones tienen por ser socios. Próximamente vamos a hacer una lista de locales colaboradores que van a efectuar descuentos a los socios como es el caso de la Filmoteca Regional.</p>
 
 **¿Qué hay de la gente más joven que pertenece al colectivo?**
 
-Yo creo que la gente joven tiene asumida una libertad que es maravillosa pero creo que ellos no se dan cuenta que hay que seguir reivindicando esas libertades, esa lucha que viene de atrás. Ellos salen a la calle con tanta normalidad que creen que no tienen por qué hacerla valer. Y la cosa está en hacerles saber la importancia que tiene que ellos mismos se pongan esa “etiqueta”. Si un chico/a que tiene asumida su condición sea cual sea y es lo suficientemente valiente de decirlo llegado el momento, por ejemplo en las escuelas, otros chicos y chicas van a ver en él un referente de su misma edad. 
+<p align="justify">Yo creo que la gente joven tiene asumida una libertad que es maravillosa pero creo que ellos no se dan cuenta que hay que seguir reivindicando esas libertades, esa lucha que viene de atrás. Ellos salen a la calle con tanta normalidad que creen que no tienen por qué hacerla valer. Y la cosa está en hacerles saber la importancia que tiene que ellos mismos se pongan esa “etiqueta”. Si un chico/a que tiene asumida su condición sea cual sea y es lo suficientemente valiente de decirlo llegado el momento, por ejemplo en las escuelas, otros chicos y chicas van a ver en él un referente de su misma edad.</p> 
 
 Ahora tenemos una cuna de zagales y zagalas que están recogiendo toda esa estela del activismo por esta lucha. Un grupo trans, un grupo de familias… no de familias monoparentales sino de familias que tienen algún miembro LGTBI dentro de la estructura familiar y que están luchando por esa normalización. 
 
@@ -44,7 +44,7 @@ Además, hacemos la prueba rápida de VIH en saliva de forma confidencial en nue
 
 imagen
 
-En  mayo de 2016 entra en vigor la Ley de igualdad social de las lesbianas, gais, bisexuales, transexuales, transgénero e intersexuales, y de políticas públicas contra la discriminación por orientación sexual e identidad de género en la Comunidad Autónoma de la Región de Murcia.</p> 
+En  mayo de 2016 entra en vigor la Ley de igualdad social de las lesbianas, gais, bisexuales, transexuales, transgénero e intersexuales, y de políticas públicas contra la discriminación por orientación sexual e identidad de género en la Comunidad Autónoma de la Región de Murcia.
 
 imagen
 
