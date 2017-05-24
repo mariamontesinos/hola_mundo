@@ -46,8 +46,6 @@ Además, hacemos la prueba rápida de VIH en saliva de forma confidencial en nue
 
 <p align="justify">En  mayo de 2016 entra en vigor la Ley de igualdad social de las lesbianas, gais, bisexuales, transexuales, transgénero e intersexuales, y de políticas públicas contra la discriminación por orientación sexual e identidad de género en la Comunidad Autónoma de la Región de Murcia.</p>
 
-imagen
-
 **Entre los derechos que contempla la Ley se encuentra la necesidad de educar a los jóvenes en la diversidad afectivo sexual, ¿esto se está llevando a cabo?**
 
 <p align="justify">No. Es más, tenemos las webs bloqueadas en los centros educativos, tanto públicos como privados. Si un profesor está interesado en ponerse en contacto con nosotros para llevar a cabo una charla en el centro escolar no puede encontrarnos. Los profesores para poder llegar hasta nosotros tienen que hacerlo desde sus casas. Por supuesto los chicos y chicas que quieran encontrarnos tampoco pueden hacerlo desde sus centros escolares, cosa que va en contra de lo que la ley de igualdad LGTBI establece.</p>
@@ -84,7 +82,7 @@ Datos extraídos del informe realizado por el área de Educación de FELGTB (201
 
 Yo no puedo pedir visibilidad, normalización e igualdad de derechos y luego hacer mi propio mundo aparte. En un momento dado estaba justificado porque salías a la calle y podías morir por ello, o te metían a la cárcel. Yo ahí sólo puedo reconocer el mérito que tienen todos los travestis -o travelos como los llamaban en su momento- que salían a la calle y que estaban discriminados por tener pluma y ser amanerados, pero en realidad eran los que tenían un par de cojones para hacerlo con Franco gobernando. Venían los grises y los metían a la cárcel y hacían lo que querían con ellos. Ahora, son mariconas viejas. Lo digo como un insulto que se les da, no reconocemos que tuvieron mil veces más valor del que tengo yo antes de morirme. Por que a mí no me van a meter a la cárcel por maricón. Una de las cosas que queremos hacer es recuperar esa memoria histórica. La pluma de plata del año que viene queremos que vaya por ahí, en reconocer el valor y exigir la memoria histórica de las personas LGTBI del Franquismo que fueron las ultimas en salir de la cárcel. Cuando comenzaron a darse los indultos y a salir los presos políticos fueron las últimas personas en hacerlo, y en muchas ocasiones enviados a posteriori a campos de concentración, por ejemplo en Francia.</p>
 
-<a href="#" class="image"><img src="{{ site.baseurl }}/assets/images/vagosymaleantes.jpg" alt="" /></a>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/no te prives/vagosymaleantes.jpg" alt="" /></span>
 
 **Volviendo ahora a un tema más desenfadado... ¿desde cuándo celebráis el Orgullo en Murcia?**
 
