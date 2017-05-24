@@ -16,17 +16,17 @@ Yo me metí de cabeza en 2012 y desde entonces lo que hemos querido ha sido camb
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hALhELykdyNOZsB58uc4eaoC9NIfVRx9J3jphoTsN-A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-Yo creo que todos los movimientos sociales tenemos en común que estamos luchando por unos derechos. El colectivo no puede estar pidiendo la lucha a gente que tiene sus problemas con su hipoteca, su trabajo y que vengan con nosotros al Orgullo, y luego cuándo hay otra manifestación u otra lucha ajena no estar nosotros presentes en ella. La lucha de la igualdad de las mujeres es la lucha de la igualdad de los gays y las lesbianas.
+<p align="justify">Yo creo que todos los movimientos sociales tenemos en común que estamos luchando por unos derechos. El colectivo no puede estar pidiendo la lucha a gente que tiene sus problemas con su hipoteca, su trabajo y que vengan con nosotros al Orgullo, y luego cuándo hay otra manifestación u otra lucha ajena no estar nosotros presentes en ella. La lucha de la igualdad de las mujeres es la lucha de la igualdad de los gays y las lesbianas.
 
 Cuando sale la marea de la educación, nosotros tenemos que estar ahí porque la educación nos afecta. En el proceso educativo no se trabaja la diversidad afectivo sexual y la ley pide que se trabaje, ¿tenemos que estar? claro, y con una bandera bien grande. Cuando la Ley Mordaza, nosotros salimos con una bandera y una pancarta porque oprime nuestros derechos.
 
 **Me está recordando muchísimo esto que me cuentas a la película ‘Pride’...**
 
-Sí, es que es así. Yo lloré con esa película porque además está basada en hechos reales: un cuerpo de mineros de lo más heterosexual y gallito en la época de la Tatcher se dan cuenta de que hay otro colectivo social preocupado porque tienen unos derechos que no se les están reconociendo, y son capaces de ponerse en su lugar y encontrar la unión ello. Me pareció genial.
+Sí, es que es así. Yo lloré con esa película porque además está basada en hechos reales: un cuerpo de mineros de lo más heterosexual y gallito en la época de la Tatcher se dan cuenta de que hay otro colectivo social preocupado porque tienen unos derechos que no se les están reconociendo, y son capaces de ponerse en su lugar y encontrar la unión ello. Me pareció genial.</p>
 
 <iframe src="https://giphy.com/embed/HWwgenm1w5VL2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HWwgenm1w5VL2">via GIPHY</a></p>
 
-**¿Cuántos socios y cuántos voluntarios sois en la asociación?**
+<p align="justify">**¿Cuántos socios y cuántos voluntarios sois en la asociación?**
 
 No hablaría tanto de socios como de participantes, porque el número de socios va fluctuando. Una veces hay más y otras veces hay menos. Unos se asocian por ayudar económicamente y luego hay quien hace donaciones puntuales. Luego también están los que nos preguntan qué tipo de prestaciones tienen por ser socios. Próximamente vamos a hacer una lista de locales colaboradores que van a efectuar descuentos a los socios como es el caso de la Filmoteca Regional.
 
@@ -40,11 +40,11 @@ Ahora tenemos una cuna de zagales y zagalas que están recogiendo toda esa estel
 
 Tenemos el WhatsApp amigo, que es un servicio de atención a jóvenes contra la LGTBFOBIA vía WhatsApp atendido por voluntarios.
 
-Además, hacemos la prueba rápida de VIH en saliva de forma confidencial en nuestro local tres días por semana. 
+Además, hacemos la prueba rápida de VIH en saliva de forma confidencial en nuestro local tres días por semana.
 
 imagen
 
-En  mayo de 2016 entra en vigor la Ley de igualdad social de las lesbianas, gais, bisexuales, transexuales, transgénero e intersexuales, y de políticas públicas contra la discriminación por orientación sexual e identidad de género en la Comunidad Autónoma de la Región de Murcia. 
+En  mayo de 2016 entra en vigor la Ley de igualdad social de las lesbianas, gais, bisexuales, transexuales, transgénero e intersexuales, y de políticas públicas contra la discriminación por orientación sexual e identidad de género en la Comunidad Autónoma de la Región de Murcia.</p> 
 
 imagen
 
