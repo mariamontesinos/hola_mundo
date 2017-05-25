@@ -21,6 +21,8 @@ categories: post
 
 Aparte de eso he estado pinchado en Murcia en casi todos los lados aunque haya sido una vez. Estuve un par de meses fijo en la Sala Musik y en Plan 9 también estuve de residente bastante tiempo. Y ya de ahí han ido surgiendo cosas, en el año 2013 gané un concurso de DJ’s en el festival <i>Slap!</i> de Zaragoza y al año siguiente estuve pinchando allí compartiendo cartel con <b>R de Rumba</b> y <b>Kase.O</b> lo cual fue una experiencia bastante potente para mí. También estuve en el Record Store Day un par de años y lo último, lo más reciente, estuve pinchando en el festival Mr. People de Mula, un festival especializado en música negra.</p>
 
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/warlock/warlock1.jpg" alt="" /></span>
+
 **También eres el creador del programa de radio _La Gestapo Negra_, a partir del cual muchos te hemos conocido…**
 
 <p align="justify">Sí, con ello empecé allá por el 2011, un programa orientado a la música negra en general. Y he estado desarrollándolo hasta hace bien poco pero he tenido que ir dejándolo de lado porque es algo que para hacerlo bien requiere un grado de dedicación que, bueno, si no está monetizado no llega a ningún lado. Necesita que estés a lo que sale, que lo escuches y que generes una opinión, lleva su tiempo. Tienes que tener algo que decir, si fuese un programa de radio normal, quizá pondría un tema y no me calentaría la cabeza pero resulta que es que me gusta calentarme la cabeza, esa es la diferencia.</p>
@@ -42,6 +44,8 @@ Claro, es que lo último que hice fueron 52 sesiones en algunas de las cuales, h
 **¿Y en qué punto estás ahora respecto a esta faceta radiofónica tuya?**
 
 <p align="justify">Pues igual que con el tema de pinchar: intento hacerlo de la forma más espontánea posible. Los últimos programas que he estado haciendo, a parte de estos experimentos que te comentaba, han sido programas con invitados. Cuándo alguien ha sacado un disco recientemente le he invitado y hemos mantenido una entrevista: como fue el caso de la TRK que sacó disco el pasado año o con CK1 de Peligro Records que sacan referencias sobre raperos locales, ahora me imagino que en unos meses sacaremos otro programa con Piezas & Jayder… Y bueno, esa es la historia que te digo. Algo lo más espontáneo posible. Tiene que ser así, cuando yo me veo que estoy haciendo las cosas forzado y tal no es lo mismo.</p>
+
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/warlock/warlock2.jpg" alt="" /><sup><b><i>Foto: LasCulpass</i></b></sup></span>
 
 **En cuanto a la producción en la que recientemente te has embarcado, ¿en qué proyectos te encuentras ahora mismo?**
 
