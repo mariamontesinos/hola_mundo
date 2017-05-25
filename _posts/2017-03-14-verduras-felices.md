@@ -54,7 +54,7 @@ Al principio si que éramos solo nosotros. Esto empezó poco a poco, y teníamos
 
 Respondiendo a tu pregunta sobre qué dificultades nos encontramos al cultivar de forma ecológica y que no tenga la agricultura tradicional... creo que en general, estamos más expuestos a perder parte de la cosecha de lo que lo están otro tipo de agricultores.</p>  
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/bancal/bancal1.jpg" alt="" /><sup><b>Del Bancal a Casa en el mercado</b></sup></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/bancal/bancal1.jpg" alt="" /><sup><b>Del Bancal a Casa en el mercado</b></sup></span>
 
 **Y a la hora de darle salida a vuestra producción, ¿encontráis respuesta por parte del consumidor?**
 
