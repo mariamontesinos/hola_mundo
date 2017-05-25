@@ -34,15 +34,15 @@ Al principio si que éramos solo nosotros. Esto empezó poco a poco, y teníamos
 
 <span class="image right"><img src="{{ site.baseurl }}/assets/images/bancal/coliflor.jpg" alt="" /></span>
 
-**Alfonso:** Se sigue un proceso diferente, primero se pone un mato verde -un abono verde vegetal- que nos ayuda a sacar todas las malas hierbas y las semillas de la tierra.
+<p align="justify"><b>Alfonso:</b> Se sigue un proceso diferente, primero se pone un mato verde -un abono verde vegetal- que nos ayuda a sacar todas las malas hierbas y las semillas de la tierra.</p>
 
-<p align="justify"><b>Paco:</b> Después le pegas un riego y labras, plantas hierba y vuelves a labrar. Seguidamente metemos las maquinaría... los tractores son los que empiezan a dejártelo parejo para que puedas trabajar. 
+<p align="justify"><b>Paco:</b> Después le pegas un riego y labras, plantas hierba y vuelves a labrar. Seguidamente metemos las maquinaría... los tractores son los que empiezan a dejártelo parejo para que puedas trabajar.</p> 
 
-<b>Alfonso:</b> Se continua poniendo una capa de estiércol ecológico... como ves, son muchas fases y mucho tiempo el que se invierte hasta la que tierra empieza a dar sus frutos.</p>
+<p align="justify"><b>Alfonso:</b> Se continua poniendo una capa de estiércol ecológico... como ves, son muchas fases y mucho tiempo el que se invierte hasta la que tierra empieza a dar sus frutos.</p>
 
 **¿Con qué dificultades os encontráis al producir de forma ecológica, que no tiene la agricultura convencional?**
 
-**Alfonso:** Desde los bichos y las plagas -ya que no lo podemos tratarlas igual-, hasta lo vecinos. Tenemos que proteger nuestros cultivos de los cultivos vecinos a los que se les echa veneno.
+<p align="justify"><b>Alfonso:</b> Desde los bichos y las plagas -ya que no lo podemos tratarlas igual-, hasta lo vecinos. Tenemos que proteger nuestros cultivos de los cultivos vecinos a los que se les echa veneno.</p>
 
 **¿Y eso cómo se logra?**
 
@@ -60,8 +60,8 @@ Respondiendo a tu pregunta sobre qué dificultades nos encontramos al cultivar d
 
 **Me comentabais que empezasteis con lechugas, ahora aquí veo coles, repollos… ¿cuántos cultivos trabajáis ahora?**
 
-<p align="justify"><b>Alfonso:</b> todo lo que sea de temporada que te puedas imaginar. 
+<p align="justify"><b>Alfonso:</b> todo lo que sea de temporada que te puedas imaginar.</p> 
 
-<b>Paco:</b> incluso cosas que no se utilizan o que no se gastan mucho por aquí porque la gente no las conoce: como el kale o la coliflor púrpura. Además tenemos apio, ajos, brocolí, rúcula… muchas cosas, aunque también nos faltan otras tantas, cada vez queremos cultivar más y claro, la tierra es la que es y tiene su ritmo, no puede ir más rápido de lo que va [risas].</p> 
+<p align="justify"><b>Paco:</b> incluso cosas que no se utilizan o que no se gastan mucho por aquí porque la gente no las conoce: como el kale o la coliflor púrpura. Además tenemos apio, ajos, brocolí, rúcula… muchas cosas, aunque también nos faltan otras tantas, cada vez queremos cultivar más y claro, la tierra es la que es y tiene su ritmo, no puede ir más rápido de lo que va [risas].</p> 
 
 
