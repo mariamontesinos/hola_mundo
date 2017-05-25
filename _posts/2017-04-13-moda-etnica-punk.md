@@ -41,6 +41,7 @@ categories: post
 <p align="justify"><b>Martaé:</b> Es el término contrapuesto al fast fashion. Nosotras sacamos la ropa de verano cuando se acerca el verano y la ropa de invierno cuando es invierno. Y no hay más [risas].</p>
 **En cuánto a la calidad de vuestra prendas, tengo entendido que intentáis que mantenga ciertos estándares, ¿es cierto?**
 <p align="justify"><b>Alexandra:</b> Sí, intentamos que así sea. Aunque de vez en cuando tenemos algún chasco... sabemos que no somos perfectas [risas] y alguna vez nos ha salido una prenda un poco rana, pero intentamos que las cosas sean duraderas y que si te compras algo nuestro hoy, dentro de cinco años te siga gustando, te lo sigas poniendo y te dure.</p>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/culpass/culpas1.jpg" alt="" /></span>
 **¿Cómo es el proceso creativo que lleváis a cabo con cada colección? ¿Decidís sentaros y poneros manos a la obra o es más bien cuando a una se le ocurre algo lo comenta a la otra y así comienza todo?**
 <p align="justify"><b>Martaé:</b> Si que hay un momento puntual en el que toca fase diseño pero previamente, bueno, casi todo el tiempo suele ser “se me ha ocurrido esto” y se apunta en el sitio de las ideas para que cuando nos pongamos a diseñar podamos recurrir a ellas.</p>
 <p align="justify"><b>Alexandra:</b> Normalmente hay tema que queremos tratar o cosas que nos inquietan más. Por ejemplo, en un momento determinado queremos centrarnos en la regla -porque es un tema que nos ronda la cabeza- y cuando vamos a sacar colección recurrimos a él.</p>
@@ -48,9 +49,7 @@ categories: post
 **Y los nombres de vuestras colecciones cómo se os ocurren, porque son super graciosos, ¿primero os viene el nombre y luego sacáis la colección?**
 <p align="justify"><b>Alexandra:</b> Van de la mano. A veces se nos ha ocurrido el nombre, o simplemente nos gusta y queremos usarlo como el de <b><i>¿Somos punkis o gominolas?</i></b> Que es una frase que dicen los colegas y nos hace mucha gracia, o en el caso de <b><i>Periodo de guerra</i></b> -que fue una colección sobre la menstruación- nos surgió a raíz de un <i>brainstorming</i> de palabras que tuviesen relación con el tema.</p>
 <p align="justify"><b>Martaé:</b> La última, <b><i>Culpables de la extinción de los dinosaurios</i></b> es por una amiga que le dice mucho culpable a sus perros y entonces fue en plan “culpables hasta de la extinción de los dinosaurios” [risas].</p>
-
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/bancal/coliflor.jpg" alt="" /></span>
-
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/culpass/culpass2.jpg" alt="" /></span>
 **También hay otros más serios como es el caso de Evolución o Barbarie, ¿qué me decís de ese?**
 <p align="justify"><b>Alexandra:</b> Sí, bueno. Ese es el menos gracioso. Ahí estábamos muy cabreadas [risas] lo cual tampoco esta mal para transmitirlo de vez en cuando.</p>
 **Sin duda, habéis logrado crear una buena comunidad culpable...**
@@ -61,4 +60,4 @@ categories: post
 <p align="justify"><b>Martaé:</b> A parte de eso, participar en todo lo que nos propongan. Este año queremos viajar más. Nos gustaría subir a Bilbao para ver si podemos movernos más por el Norte.</p>
 <p align="justify"><b>Alexandra:</b> Sí, poder movernos un poquito. Que nos de la empresa para eso [risas].</p>
 
-<div class="4u"><span class="image fit"><img src="assets/images/culpass.jpg" alt="" /></span></div>
+
