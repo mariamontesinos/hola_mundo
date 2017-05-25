@@ -105,7 +105,7 @@ También se le dio al Ayuntamiento y fue muy criticado. Nos acusaron de peperos 
 Después de aquello se la dimos a Pedro Zerolo, que como ya estaba muy enfermo no pudo venir a recogerla, pero nos acogió en su casa en un acto que fue muy emotivo. En 2016 se la dimos a Carla Antonelli, y este año tengo el orgullo de dársela a Fernando Grande Marlasca que viene a recibirla aquí a Murcia.</p>
 
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/no te prives/zerolo.jpg" alt="" /></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/no te prives/zerolo2.jpg" alt="" /></span>
 
 
 
