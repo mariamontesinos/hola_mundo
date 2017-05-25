@@ -6,7 +6,7 @@ image: bancal.jpg
 categories: post
 ---
 		
-<p align="justify">Alfonso y Paco son Del Bancal a Casa, un proyecto la mar de bonico sobre agricultura ecológica nacido en la pedanía murciana de El Esparragal que comenzó hace algo más de tres años, y que desde entonces, se encarga de reflotar huertos abandonados para convertirlos en terrenos cultivables y ecológicos.</p>
+<p align="justify">Alfonso y Paco son <b>Del Bancal a Casa</b>, un proyecto la mar de bonico sobre agricultura ecológica nacido en la pedanía murciana de El Esparragal que comenzó hace algo más de tres años, y que desde entonces, se encarga de reflotar huertos abandonados para convertirlos en terrenos cultivables y ecológicos.</p>
 
 **¿Cómo surge la idea de montar vuestro propio huerto?**
 
