@@ -45,7 +45,7 @@ Claro, es que lo último que hice fueron 52 sesiones en algunas de las cuales, h
 
 <p align="justify">Pues igual que con el tema de pinchar: intento hacerlo de la forma más espontánea posible. Los últimos programas que he estado haciendo, a parte de estos experimentos que te comentaba, han sido programas con invitados. Cuándo alguien ha sacado un disco recientemente le he invitado y hemos mantenido una entrevista: como fue el caso de la TRK que sacó disco el pasado año o con CK1 de Peligro Records que sacan referencias sobre raperos locales, ahora me imagino que en unos meses sacaremos otro programa con Piezas & Jayder… Y bueno, esa es la historia que te digo. Algo lo más espontáneo posible. Tiene que ser así, cuando yo me veo que estoy haciendo las cosas forzado y tal no es lo mismo.</p>
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/warlock/warlock2.jpg" alt="" /><sup><b><i>Foto: LasCulpass</i></b></sup></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/warlock/warlock2.jpg" alt="" /><sup><b>L.Warlock durante una pinchada</b></sup></span>
 
 **En cuanto a la producción en la que recientemente te has embarcado, ¿en qué proyectos te encuentras ahora mismo?**
 
@@ -57,6 +57,6 @@ Así fue como hace un año aproximadamente me puse a trabajar en esa línea y sa
 
 <p align="justify">De momento no. Al no tener una capacidad para desarrollar como cualquier otro productor, en cuanto a finura de acabado todavía no he colaborado con ningún MC, aunque es cuestión de tiempo.</p>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Amurcia_divergente%3Aplaylist%3A4p6foyPZG88yLcWSPyUu91" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Amurcia_divergente%3Aplaylist%3A4p6foyPZG88yLcWSPyUu91" width="300" height="380" frameborder="0" allowtransparency="true"></iframe> <sup>Selección magrosa para Murcia Divergente por L.Warlock 
+</sup> 
 
