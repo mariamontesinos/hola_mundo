@@ -54,6 +54,8 @@ Al principio si que éramos solo nosotros. Esto empezó poco a poco, y teníamos
 
 Respondiendo a tu pregunta sobre qué dificultades nos encontramos al cultivar de forma ecológica y que no tenga la agricultura tradicional... creo que en general, estamos más expuestos a perder parte de la cosecha de lo que lo están otro tipo de agricultores.</p>  
 
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/bancal/bancal1.jpg" alt="" />sup><b><i>Del Bancal a Casa en el mercado</i></b></sup></span>
+
 **Y a la hora de darle salida a vuestra producción, ¿encontráis respuesta por parte del consumidor?**
 
 <p align="justify"><b>Paco:</b> eso es lo mejor. A la gente en cuanto le dices que has sido tu quien la ha cultivado y de dónde viene... les damos nuestra web e incluso los invitamos a venir a los huertos para que ellos mismos comprueben que nuestra producción es ecológica, que no fumigamos ni gastamos químicos. Además la gente quiere productos frescos de aquí, de temporada. Que estén recién cortados y sean producto local. Quién los prueba, repite.</p> 
