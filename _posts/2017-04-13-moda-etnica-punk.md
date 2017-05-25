@@ -7,13 +7,12 @@ categories: post
 ---
 
 
-Alexandra Cánovas y Martaé Martínez son _**Las CulpaSS**_. Dos diseñadoras murcianas que, cansadas del discurso habitual que encontraban en el mundo de la moda, decidieron crear su propia marca de ropa y complementos para mujeres y hombres reales alejadas de los eslóganes dañinos de la industria consumista. Nos reunimos con ellas para charlar y que nos cuenten más sobre sus inicios, la situación actual de la marca y cuáles son sus planes futuros, así como sobre el trasfondo social de este proyecto tan bonico.
+<p align="justify">Alexandra Cánovas y Martaé Martínez son _**Las CulpaSS**_. Dos diseñadoras murcianas que, cansadas del discurso habitual que encontraban en el mundo de la moda, decidieron crear su propia marca de ropa y complementos para mujeres y hombres reales alejadas de los eslóganes dañinos de la industria consumista. Nos reunimos con ellas para charlar y que nos cuenten más sobre sus inicios, la situación actual de la marca y cuáles son sus planes futuros, así como sobre el trasfondo social de este proyecto tan bonico.</p>
 
 **Empezasteis en 2010 a raíz de estudiar diseño de moda y joyería, ¿cómo es ese momento en el que os sentáis juntas y decís “vamos a crear una marca de ropa en común que son _Las CulpaSS_”?**
 
-**Alexandra:** Nosotras nos conocemos desde los 15 años o por ahí, nos entendíamos bien haciendo parches y pintando camisetas con ideas estéticas. Mientras estuve estudiando el Erasmus en Portugal, hice una ropa para un desfile y le encargué a Marta –que por ese entonces estudiaba en Madrid- la joyería que necesitaba para el desfile de fin de curso. Y nos gustó el resultado. Más tarde nos volvimos a ver en Madrid durante el verano, por aquel entonces acabábamos de terminar de estudiar y no nos veíamos trabajando en Inditex. Así fue como decidimos montar algo en común.
-
-**Martaé:** De primeras no fue “vamos a hacer una marca de ropa”, queríamos hacer algo juntas y decidimos hacer una colección para presentarla a concurso e intentar meternos en este rollo de los certámenes de moda y tal, pero con un discurso alternativo, más subversivo y acorde con lo pensamos.
+<p align="justify"><b>Alexandra:</b> Nosotras nos conocemos desde los 15 años o por ahí, nos entendíamos bien haciendo parches y pintando camisetas con ideas estéticas. Mientras estuve estudiando el Erasmus en Portugal, hice una ropa para un desfile y le encargué a Marta –que por ese entonces estudiaba en Madrid- la joyería que necesitaba para el desfile de fin de curso. Y nos gustó el resultado. Más tarde nos volvimos a ver en Madrid durante el verano, por aquel entonces acabábamos de terminar de estudiar y no nos veíamos trabajando en Inditex. Así fue como decidimos montar algo en común.</p>
+<p align="justify"><b>Martaé:</b> De primeras no fue “vamos a hacer una marca de ropa”, queríamos hacer algo juntas y decidimos hacer una colección para presentarla a concurso e intentar meternos en este rollo de los certámenes de moda y tal, pero con un discurso alternativo, más subversivo y acorde con lo pensamos.</p>
 
 <iframe src="https://giphy.com/embed/Qut6CdOal7qjC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Qut6CdOal7qjC">via GIPHY</a></p>
 
