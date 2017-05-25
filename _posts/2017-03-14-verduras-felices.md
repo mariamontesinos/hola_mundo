@@ -59,11 +59,8 @@ Respondiendo a tu pregunta sobre qué dificultades nos encontramos al cultivar d
 **Y a la hora de darle salida a vuestra producción, ¿encontráis respuesta por parte del consumidor?**
 
 <p align="justify"><b>Paco:</b> eso es lo mejor. A la gente en cuanto le dices que has sido tu quien la ha cultivado y de dónde viene... les damos nuestra web e incluso los invitamos a venir a los huertos para que ellos mismos comprueben que nuestra producción es ecológica, que no fumigamos ni gastamos químicos. Además la gente quiere productos frescos de aquí, de temporada. Que estén recién cortados y sean producto local. Quién los prueba, repite.</p> 
-
 **Me comentabais que empezasteis con lechugas, ahora aquí veo coles, repollos… ¿cuántos cultivos trabajáis ahora?**
-
 <p align="justify"><b>Alfonso:</b> todo lo que sea de temporada que te puedas imaginar.</p> 
-
 <p align="justify"><b>Paco:</b> incluso cosas que no se utilizan o que no se gastan mucho por aquí porque la gente no las conoce: como el kale o la coliflor púrpura. Además tenemos apio, ajos, brocolí, rúcula… muchas cosas, aunque también nos faltan otras tantas, cada vez queremos cultivar más y claro, la tierra es la que es y tiene su ritmo, no puede ir más rápido de lo que va [risas].</p> 
 
 
