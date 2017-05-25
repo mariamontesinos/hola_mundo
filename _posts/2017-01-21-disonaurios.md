@@ -29,7 +29,7 @@ categories: post
 
 <p align="justify"><b>Jero:</b> Yo si que estuve yendo a unas clases de canto porque me di cuenta de que cada vez que cantaba lo hacía de una manera distinta. Creo que fui unas seis o siete veces, hasta que me di cuenta de que valía mucho dinero y ahí fue cuando decidí que ya sabía cantar [risas].</p>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><<sup><b>Disonaurios durante un concierto en la Sala Garaje Beat</b></sup></span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><sup><b>Disonaurios durante un concierto en la Sala Garaje Beat</b></sup></span>
 
 <p align="justify"><b>Torke:</b> Yo estudié percusión en el conservatorio. Tengo otro grupo, Lobos Humanos en el que llevo tocando la batería desde hace nueve años. Además también tengo un proyecto de versiones de los Operation Ivy pendiente, pero son muchas cosas y se hace lo que se puede.</p>
 
@@ -44,7 +44,7 @@ categories: post
 
 De todas formas, para quien quiera escuchar algo de nuestro trabajo, tenemos los temas de la maqueta subidos a nuestro canal de Soundcloud.</p>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/58687780&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sup><b>Soundcloud de Disonaurios</b></sup>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/58687780&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sup><b>Soundcloud de Disonaurios</b></sup><span class="image right"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><sup><b>Disonaurios durante un concierto en la Sala Garaje Beat</b></sup></span>
 
 **Contadnos, ¿en qué próximos eventos podremos ver a Disonaurios?**
 
