@@ -12,6 +12,7 @@ categories: post
 **¿Cómo ha sido el recorrido del colectivo en estos 28 años?**
 
 <p align="justify">El colectivo ha estado más luchador en un tiempo, más en stand by en otro –porque había más gente- pero se ha ido manteniendo. Como sede propia la tenemos desde hace unos años, durante todo este tiempo habíamos estado en  sedes compartidas o nos habían dejado una habitación tres veces por semana otros colectivos y hacíamos lo que podíamos: visionado de películas y debate, prepararse para hacer alguna manifestación...
+
 Yo me metí de cabeza en 2012 y desde entonces lo que hemos querido ha sido cambiar un poco el chip, estar más en la calle, tener más visibilidad, generar una imagen y transmitirla hacia afuera. Es importante organizarnos para que el mensaje que demos sea el de una organización. Aquí estamos gays, lesbianas, transexuales, intersexuales y cada vez se van sumando más letras y claro, tenemos que tener un nexo de unión, que sea una lucha concreta aunque para eso hayan grupos de trabajo y distintas iniciativas.. se puede luchar en muchos ámbitos pero para eso se necesita mucha gente que no sólo opine sino que luego también trabaje por ello. </p>
   
 
@@ -53,19 +54,17 @@ Además, hacemos la prueba rápida de VIH en saliva de forma confidencial en nue
 
 **Y qué hay en lo referente a las operaciones de cambio de sexo, ¿se están llevando a cabo protocolos de actuación desde el Servicio Murciano de Salud en esta área?**  
 
-<p align="justify">Esa es otra de las cosas que dicta la ley, que el Servicio Murciano de Salud reconoce el derecho de las personas transexuales y transgénero a la operación para el cambio de sexo. El tránsito que tienen que pasar es demasiado complicado. Primero al médico, luego al especialista y de ahí al psicólogo. Cada médico lo hace de una manera, no hay un protocolo establecido.
+<p align="justify">Esa es otra de las cosas que dicta la ley, que el <b>Servicio Murciano de Salud</b> reconoce el derecho de las personas transexuales y transgénero a la operación para el cambio de sexo. El tránsito que tienen que pasar es demasiado complicado. Primero al médico, luego al especialista y de ahí al psicólogo. Cada médico lo hace de una manera, no hay un protocolo establecido.
 
 Por ejemplo, yo como ciudadano tengo un pecho prominente y me lo quiero arreglar, voy al médico y me ponen en lista de espera. Tardaré más o menos pero desde el servicio de salud no me pondrán ningún problema. Sin embargo, si soy una persona transexual y declaro que una de las operaciones de mi tránsito es quitarme el pecho o los genitales, tendría problemas porque no está reconocido el proceso a seguir.</p> 
 
 **Entonces se contempla en la Ley pero no se lleva a cabo en la práctica, ¿no?**
 
-<p align="justify">En la nueva Ley de igualdad LGTBI se contempla que hay que hacerlo. Hay que crear una unidad especializada que establezca cómo se van a llevar a cabo esas operaciones. Hasta ahora solo tenemos constancia de que se haya realizado una operación de este tipo y ha sido por petición expresa del médico que lo lleva. Lo que pasa es que no se le ha dado publicidad, lo que es algo bueno porque sin duda el médico lo habrá entendido como algo normal, pero repercute negativamente en el resto de personas que están en la misma situación y no pueden hacerlo porque el médico que tienen les pone trabas.
-
-A raíz de diferentes denuncias que han efectuado personas transexuales, próximamente vamos a tener una reunión con médicos especializados del Hospital Virgen de La Arrixaca para tratar todo lo referente a estas operaciones.</p>
+<p align="justify">En la nueva <b>Ley de igualdad LGTBI</b> se contempla que hay que hacerlo. Hay que crear una unidad especializada que establezca cómo se van a llevar a cabo esas operaciones. Hasta ahora solo tenemos constancia de que se haya realizado una operación de este tipo y ha sido por petición expresa del médico que lo lleva. Lo que pasa es que no se le ha dado publicidad, lo que es algo bueno porque sin duda el médico lo habrá entendido como algo normal, pero repercute negativamente en el resto de personas que están en la misma situación y no pueden hacerlo porque el médico que tienen les pone trabas. A raíz de diferentes denuncias que han efectuado personas transexuales, próximamente vamos a tener una reunión con médicos especializados del Hospital Virgen de La Arrixaca para tratar todo lo referente a estas operaciones.</p>
 
 **Por lo tanto, datos oficiales no tenemos…**
 
-<p align="justify">No, no existen datos. No hay un listado de operaciones a personas _trans_. A partir de ahora, si se reconoce, el Servicio Murciano de Salud podrá hacer mastectomías, reconstrucciones… y así poder contabilizarlos. 
+<p align="justify">No, no existen datos. No hay un listado de operaciones a personas <i>trans</i>. A partir de ahora, si se reconoce, el Servicio Murciano de Salud podrá hacer mastectomías, reconstrucciones… y así poder contabilizarlos. 
 
 Nosotros llevamos tiempo pidiendo un observatorio, que además la ley reconoce, es un arma que nos sirve para reconocer la violencia de odio -casos de homofobia, denuncias…- y crear estadísticas que ayuden a generar políticas apoyadas en los datos que sirvan como herramienta a los colegios, los cuerpos de seguridad y la sanidad para crear protocolos.  
 
@@ -79,7 +78,7 @@ Datos extraídos del informe realizado por el área de Educación de FELGTB (201
 
 **En la Ley aparece reflejada la realidad histórica de las personas que sufrieron represión debido a su condición sexual durante el Franquismo, una realidad que muchas veces se ha obviado cuando se hace memoria de los represariados durante la Dictadura.**
 
-<p align="justify">Sí, y debemos reivindicarla como memoria histórica pero no nos podemos quedar ahí. Te puedes quedar en tu casa viendo el Sálvame y luego salir de copas por el _Tempe_ o puedes venir y participar en el colectivo. ¿Qué hacemos nosotros? pues hincharnos a reuniones con los políticos y recordarles que son todos unos mentirosos. Es tiempo, es esfuerzo… pero entiéndeme, no hablo solamente de este colectivo, esto pasa en todas las asociaciones. Está la queja y luego la acción.
+<p align="justify">Sí, y debemos reivindicarla como memoria histórica pero no nos podemos quedar ahí. Te puedes quedar en tu casa viendo el Sálvame y luego salir de copas por el <i>Tempe</i> o puedes venir y participar en el colectivo. ¿Qué hacemos nosotros? pues hincharnos a reuniones con los políticos y recordarles que son todos unos mentirosos. Es tiempo, es esfuerzo… pero entiéndeme, no hablo solamente de este colectivo, esto pasa en todas las asociaciones. Está la queja y luego la acción.
 
 Yo no puedo pedir visibilidad, normalización e igualdad de derechos y luego hacer mi propio mundo aparte. En un momento dado estaba justificado porque salías a la calle y podías morir por ello, o te metían a la cárcel. Yo ahí sólo puedo reconocer el mérito que tienen todos los travestis -o travelos como los llamaban en su momento- que salían a la calle y que estaban discriminados por tener pluma y ser amanerados, pero en realidad eran los que tenían un par de cojones para hacerlo con Franco gobernando. Venían los grises y los metían a la cárcel y hacían lo que querían con ellos. Ahora, son mariconas viejas. Lo digo como un insulto que se les da, no reconocemos que tuvieron mil veces más valor del que tengo yo antes de morirme. Por que a mí no me van a meter a la cárcel por maricón. Una de las cosas que queremos hacer es recuperar esa memoria histórica. La pluma de plata del año que viene queremos que vaya por ahí, en reconocer el valor y exigir la memoria histórica de las personas LGTBI del Franquismo que fueron las ultimas en salir de la cárcel. Cuando comenzaron a darse los indultos y a salir los presos políticos fueron las últimas personas en hacerlo, y en muchas ocasiones enviados a posteriori a campos de concentración, por ejemplo en Francia.</p>
 
@@ -95,7 +94,7 @@ Yo no puedo pedir visibilidad, normalización e igualdad de derechos y luego hac
 
 **Cuéntanos, ¿qué es _La Pluma de Plata_?**
 
-<p align="justify">Es un premio que realizamos desde hace cuatro años y va de la mano del Orgullo. Empezó todo por sacar la fiesta a la calle. Como te he comentado se han hecho distintas cosas pero creo que por el miedo a pasar vergüenza no se ha llegado a hacer cosas más grandes. Así es como el primer año sacamos 30 coches a la calle, engañando a amigos y tal, lo celebramos de aquella manera con una caravana de coches y salió la gente a bailar y bueno… nos planteamos añadirle algo más a la fiesta del Orgullo y de ahí salió la idea de crear _La Pluma de Plata_. La pluma siempre ha sido un símbolo de vergüenza, un término despectivo hacía el colectivo. Así que decidimos llamarlo así.</p>
+<p align="justify">Es un premio que realizamos desde hace cuatro años y va de la mano del Orgullo. Empezó todo por sacar la fiesta a la calle. Como te he comentado se han hecho distintas cosas pero creo que por el miedo a pasar vergüenza no se ha llegado a hacer cosas más grandes. Así es como el primer año sacamos 30 coches a la calle, engañando a amigos y tal, lo celebramos de aquella manera con una caravana de coches y salió la gente a bailar y bueno… nos planteamos añadirle algo más a la fiesta del Orgullo y de ahí salió la idea de crear <b><i>La Pluma de Plata</i></b>. La pluma siempre ha sido un símbolo de vergüenza, un término despectivo hacía el colectivo. Así que decidimos llamarlo así.</p>
 
 **¿Y a quién la entregáis?**
 
