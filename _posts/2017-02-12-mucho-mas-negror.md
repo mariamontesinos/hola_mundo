@@ -10,7 +10,8 @@ Manuel Romero más conocido como L.Warlock, es un artista multidisciplinar de la
 
 **¿Cómo arranca tu trayectoria dentro de la música?**
 
-Desde pequeño estuve relacionado con ella debido a mi padre, el cuál tuvo un bar en el centro de Murcia llamado Torreta 5 que durante los 80 y los 90 fue bastante puntero. Mis padres se separaron cuando yo tenía 10 años y los fines de semana me tocaba pasarlos con él y claro, me llevaba al bar. Allí fue donde me familiaricé con poner música llegando un punto en el que, más de una vez, mi padre quitaba al DJ que tocaba esa noche para ponerlo de camarero y me ponía a pinchar música a mí. Entiendo que muy mal no lo tenía que hacer como para que mi padre se jugase el negocio familiar por ponerme a mí al frente de los platos [risas].
+<div class="row">
+	<div class="6u 12u$(small)"><p>Desde pequeño estuve relacionado con ella debido a mi padre, el cuál tuvo un bar en el centro de Murcia llamado Torreta 5 que durante los 80 y los 90 fue bastante puntero. Mis padres se separaron cuando yo tenía 10 años y los fines de semana me tocaba pasarlos con él y claro, me llevaba al bar. Allí fue donde me familiaricé con poner música llegando un punto en el que, más de una vez, mi padre quitaba al DJ que tocaba esa noche para ponerlo de camarero y me ponía a pinchar música a mí. Entiendo que muy mal no lo tenía que hacer como para que mi padre se jugase el negocio familiar por ponerme a mí al frente de los platos [risas].</p>
 
 Así fue como tuve mis primeras experiencias con la noche en general. La verdad es que siempre he sido muy alto y parecía mayor de lo que realmente era pero en realidad era un crío de 10 años trasnochando hasta las 07.00 de la mañana.
 
