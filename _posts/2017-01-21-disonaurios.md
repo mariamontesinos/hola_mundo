@@ -4,7 +4,8 @@ title: "Disonaurios"
 excerpt: "Han pasado más de dos años desde que Disonaurios empezó a rodar por la escena punk de la huerta y alrededores. Jero, Paco, Ernesto y Torke son los integrantes de esta banda de estilo cretácico -y muy propio- surgida durante el caluroso verano murciano de 2014. Hoy, y a pocas semanas de lanzar su primer disco, estrenamos Encuentro Divergente con estos zagalicos cien por ciento originales."
 image: disonaurios1.jpg
 categories: post
----  <p align="justify">Han pasado más de dos años desde que <b>Disonaurios</b> empezó a rodar por la escena punk de la huerta y alrededores. Jero, Paco, Ernesto y Torke son los integrantes de esta banda de estilo cretácico -y muy propio- surgida durante el caluroso verano murciano de 2014. Hoy, y a pocas semanas de lanzar su primer disco, estrenamos Encuentro Divergente con estos zagalicos cien por ciento originales.</p>
+--- 
+<p align="justify">Han pasado más de dos años desde que <b>Disonaurios</b> empezó a rodar por la escena punk de la huerta y alrededores. Jero, Paco, Ernesto y Torke son los integrantes de esta banda de estilo cretácico -y muy propio- surgida durante el caluroso verano murciano de 2014. Hoy, y a pocas semanas de lanzar su primer disco, estrenamos Encuentro Divergente con estos zagalicos cien por ciento originales.</p>
 
 **¿Cómo surge Disonaurios?**
 
