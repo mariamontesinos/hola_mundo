@@ -36,15 +36,13 @@ categories: post
 
 <p align="justify"><b>Paco:</b> A mí de siempre me ha gustado la guitarra,y también la música. Empecé con la guitarra española hasta que me compré la eléctrica. Estuve tocando anteriormente en varios grupos en Granada -de donde yo soy- hasta que me mudé a Murcia. Al año y pico de estar por aquí conocí a Jero, me dijo que necesitaba un bajista y que si me apuntaba. Y así fue como empecé a tocar el bajo con los Disonaurios, y ahora, de nuevo la guitarra.</p>
 
-
 **Lleváis tiempo preparando vuestro primer disco, ¿para cuándo esperáis tenerlo terminado?**
-
 
 <p align="justify"><b>Todos:</b> Si no pasa nada para principios de febrero lo mandamos a imprimir. La verdad que nos está costando mucho trabajo... trabajo y dinero [risas]. Eso no lo sabe la gente: son muchas las horas que hay detrás de un disco. Y si es el primero todavía más. Hay que grabarlo, ver quién te hace la portada, buscar quien te lo haga físicamente, además de historias legales... es un proceso que lleva su tiempo, pero para principios de febrero esperamos mandarlo hacer.
 
 De todas formas, para quien quiera escuchar algo de nuestro trabajo, tenemos los temas de la maqueta subidos a nuestro canal de Soundcloud.</p>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/58687780&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sup><b>Soundcloud de Disonaurios</b></sup><span class="image right"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><sup><b>Disonaurios durante un concierto en la Sala Garaje Beat</b></sup></span>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/58687780&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sup><b>Soundcloud de Disonaurios</b></sup>
 
 **Contadnos, ¿en qué próximos eventos podremos ver a Disonaurios?**
 
