@@ -50,10 +50,6 @@ De todas formas, para quien quiera escuchar algo de nuestro trabajo, tenemos los
 
 **Sin embargo, en Murcia hay movimiento... además de juventud...**
 
-<span class="image object">
-      <img src="assets/images/md.png" alt="" />
-    </span>
-    
 <p align="justify"><b>Enesto:</b> Hay juventud, pero yo creo que lo que no hay son circuitos de movimiento como los que había antes. Todos los fines de semana había algo en distintos lugares donde se organizaban conciertos. Ahora la cosa parece que se ha reducido a un sitio o dos: está Garaje, el Retal, a veces el 12 & medio... -y menos mal-. El tema es que somos muchas bandas y es imposible que habiendo una oferta de locales tan limitada todas encuentren espacios donde poder desarrollar su trabajo. Así que por ahora, tendréis que esperar [risas].</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwUWKyfIbvg" frameborder="0" allowfullscreen></iframe>
