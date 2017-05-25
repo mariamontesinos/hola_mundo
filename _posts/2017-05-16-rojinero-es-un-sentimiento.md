@@ -15,7 +15,7 @@ categories: post
 <p align="justify">“Descubrimos una fórmula que se llevaba haciendo un tiempo en Italia L’Azionariato Popolare por parte del <b><i>Unione Venezia</i></b>. Aficionados que juntaban sus acciones en los clubes para tener peso en las reuniones, se manifestaban (...) y al tener peso dentro del club la directiva tenía que ceder sus exigencias. Por otro lado estaban surgiendo clubes como el <b><i>FC United of Manchester</i></b> en Inglaterra gestionado por los propios aficionados. Decidimos hacer un híbrido entre ambos modelos para crear un Club de Accionariado Popular en Murcia”.</p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-k46KPyera8" frameborder="0" allowfullscreen><sup>Reportaje sobre el CAP Ciudad de Murcia emitido por El día Después en Canal+</sup></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-k46KPyera8" frameborder="0" allowfullscreen></iframe><sup>Reportaje sobre el CAP Ciudad de Murcia emitido por El día Después en Canal+</sup> 
 
 
 
