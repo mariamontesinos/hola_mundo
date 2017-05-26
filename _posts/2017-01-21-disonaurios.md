@@ -19,7 +19,7 @@ categories: post
 
 <p align="justify"><b>Jero:</b> Es un Punk enriquecido. Se ha ido enriqueciendo -como Super Ratón [risas]- a partir de distintos estilos. Hay que oír mucha música para hacer una canción que te diga algo, si no te salen como churros, todas iguales. De toda la música que se oye se cogen influencias. Podría definirlo como música ligera, con poca distorsión. No es machacona. Como Marisol: música ligera, española y buena [risas].</p> 
 
-<iframe src="https://giphy.com/embed/vr1qp5EWu3nHO" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vr1qp5EWu3nHO">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/vr1qp5EWu3nHO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vr1qp5EWu3nHO">via GIPHY</a></p>
 
 **¿Cómo empezasteis en esto de la música? ¿Sois todos autodidactas?**
 

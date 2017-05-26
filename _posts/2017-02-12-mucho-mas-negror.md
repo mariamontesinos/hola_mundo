@@ -13,7 +13,7 @@ categories: post
 
 <p align="justify">Así fue como tuve mis primeras experiencias con la noche en general. La verdad es que siempre he sido muy alto y parecía mayor de lo que realmente era pero en realidad era un crío de 10 años trasnochando hasta las 07.00 de la mañana. Cuando tuve los 18 me independicé y empecé a trabajar en un sitio de rock, el <i>Sara Rock Bar</i>, lo que anteriormente fue <i>Storyville</i> y <i>Bessie</i>, sitios que habían estado muy relacionados con la música negra más antigua pero que en esta encarnación, en Sara, era más cercana al Rock y al Hard Rock. Y así fue como empecé como pinchadiscos de bar, y de ahí me surgió trabajar en otro sitio llamado el <i>Lemon Club Café</i> llevado por un tipo que había trabajado con mi padre anteriormente, y que buscaba alguien que pinchase música negra. En aquel lugar fue donde conocí a DJ Morey, quien me enseñó a mezclar, utilizando BPM Estudio -un programa de mezcla en digital de los más antiguos del mercado, de hecho ya lo conocía de la época en la que mi padre tenía el bar-. Eso fue en 2008/2009, allí estuve unos 8 o 9 meses, fue donde aprendí y después de aquello me he ido desarrollando con el tiempo.</p>
 
-<iframe src="https://giphy.com/embed/oaZLufRZdHs40" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oaZLufRZdHs40">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/oaZLufRZdHs40" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/oaZLufRZdHs40">via GIPHY</a></p>
 
 **¿Y Después de aquello?**
 

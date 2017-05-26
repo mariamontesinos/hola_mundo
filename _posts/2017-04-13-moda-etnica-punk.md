@@ -12,7 +12,7 @@ categories: post
 <p align="justify"><b>Alexandra:</b> Nosotras nos conocemos desde los 15 años o por ahí, nos entendíamos bien haciendo parches y pintando camisetas con ideas estéticas. Mientras estuve estudiando el Erasmus en Portugal, hice una ropa para un desfile y le encargué a Marta –que por ese entonces estudiaba en Madrid- la joyería que necesitaba para el desfile de fin de curso. Y nos gustó el resultado. Más tarde nos volvimos a ver en Madrid durante el verano, por aquel entonces acabábamos de terminar de estudiar y no nos veíamos trabajando en Inditex. Así fue como decidimos montar algo en común.</p>
 <p align="justify"><b>Martaé:</b> De primeras no fue “vamos a hacer una marca de ropa”, queríamos hacer algo juntas y decidimos hacer una colección para presentarla a concurso e intentar meternos en este rollo de los certámenes de moda y tal, pero con un discurso alternativo, más subversivo y acorde con lo pensamos.</p>
 
-<iframe src="https://giphy.com/embed/Qut6CdOal7qjC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Qut6CdOal7qjC">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Qut6CdOal7qjC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Qut6CdOal7qjC">via GIPHY</a></p>
 
 **Cuándo empezáis en esto lo hacéis pluriempleadas, con la motivación y el esfuerzo que eso conlleva, ¿cómo fue ese proceso de años trabajando a dos bandas?**
 <p align="justify"><b>Alexandra:</b> Agotador [risas].</p>
