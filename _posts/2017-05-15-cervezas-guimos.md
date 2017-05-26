@@ -30,11 +30,9 @@ Nos reunimos para charlar con Jorge de Verastegui, socio y productor de la marca
 
 <p align="justify">Únicamente malta –de cebada o de trigo- levadura, lúpulo y agua.</p>
 
-
 <b>Entonces, ¿las tres cervezas se componen de los mismos ingredientes?</b>
 
-<p align="justify">A rasgos generales sí. Una lleva trigo y las demás no, otra lleva tres maltas –una malta caramelo que le da un cierto sabor dulce- y la _Pale Ale_ es más seca y amarga. El sabor varía según el tipo de malta.
-Eso sí, ninguna lleva adjuntos como arroz o maíz, que son ingredientes que se les echa a las cervezas para darles más consistencia, cuerpo... nosotros solo usamos eso cuatro elementos para crear nuestra cerveza.</p>
+<p align="justify">A rasgos generales sí. Una lleva trigo y las demás no, otra lleva tres maltas –una malta caramelo que le da un cierto sabor dulce- y la <i>Pale Ale</i> es más seca y amarga. El sabor varía según el tipo de malta. Eso sí, ninguna lleva adjuntos como arroz o maíz, que son ingredientes que se les echa a las cervezas para darles más consistencia, cuerpo... nosotros solo usamos eso cuatro elementos para crear nuestra cerveza.</p>
 
 <b>¿Cuál es la procedencia de vuestros ingredientes?</b>
 
