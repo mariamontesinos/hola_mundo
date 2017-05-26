@@ -9,7 +9,7 @@ categories: post
 Nos reunimos para charlar con Jorge de Verastegui, socio y productor de la marca cervecera, para que nos cuente más sobre cual es el proceso que sigue la cerveza desde que se muele el grano hasta que llega a nuestra mesa. Además de las dificultades que encuentra una pequeña marca artesana como esta para hacerse hueco en un mercado en auge.</p>
 
 
-<b>¿Cuántas personas formáis el equipo Guimo’s?**
+<b>¿Cuántas personas formáis el equipo Guimo’s?</b>
 
 <p align="justify">Somos dos, mi socio Guillermo López y yo.</p>
 
@@ -38,7 +38,7 @@ Eso sí, ninguna lleva adjuntos como arroz o maíz, que son ingredientes que se 
 
 <b>¿Cuál es la procedencia de vuestros ingredientes?</b>
 
-<p align="justify">La malta es de procedencia alemana. El lúpulo tiene mucha más variedad, hay lúpulos ingleses, alemanes, belgas… según el estilo de cerveza lleva uno u otro. La <i>Pale Ale</i> lleva lúpulos ingleses, la <i>Munich_</i> lúpulos alemanes y <i>La Morenica</i> lleva mezcla.</p>
+<p align="justify">La malta es de procedencia alemana. El lúpulo tiene mucha más variedad, hay lúpulos ingleses, alemanes, belgas… según el estilo de cerveza lleva uno u otro. La <i>Pale Ale</i> lleva lúpulos ingleses, la <i>Munich</i> lúpulos alemanes y <i>La Morenica</i> lleva mezcla.</p>
 
 <b>¿Cuál es el proceso que se sigue para cocinar la cerveza?</b>
 
@@ -46,10 +46,10 @@ Eso sí, ninguna lleva adjuntos como arroz o maíz, que son ingredientes que se 
 
 <b>Eso sin contar la preparación de los materiales, ¿cuánto tiempo puede tardar el proceso completo?</b>
 
-<p align="justify">Calentar el agua, mover de un lado a otro la cerveza, esperar que vuelva a hervir… el proceso completo de cocinado puede llevar entre  6 y 7 horas sin problema.
+<p align="justify">Calentar el agua, mover de un lado a otro la cerveza, esperar que vuelva a hervir… el proceso completo de cocinado puede llevar entre  6 y 7 horas sin problema.</p>
 
 <b>Y qué hay del proceso de reposado... ¿cuánto hay que esperar para que la cerveza pueda ser consumida?</b>
-Depende del tipo de cerveza, puede tardar unas 3 semanas como mínimo. Una vez terminada la primera fase del proceso que es la cocina, llevamos la cerveza a fermentación una vez fría. Dependiendo del estilo, cada una fermenta a una temperaturas distintas. Ahí dejamos que fermente entre 5 días y 15 días.
+<p align="justify">Depende del tipo de cerveza, puede tardar unas 3 semanas como mínimo. Una vez terminada la primera fase del proceso que es la cocina, llevamos la cerveza a fermentación una vez fría. Dependiendo del estilo, cada una fermenta a una temperaturas distintas. Ahí dejamos que fermente entre 5 días y 15 días.
 Cuando ha terminado ese proceso se va al embotellado. Allí, se prepara un almíbar y se mezcla con la cerveza para hacer una segunda fermentación en botella, ésta segunda fermentación no se debe hacer a más de 20º. Hay cervezas que se beben más verdes, recién hechas y se pueden servir ya y hay otras que necesitan madurar un poco –una, dos semanas o incluso un mes- en frío para que suavice el sabor-.</p>
 
 <iframe src="https://giphy.com/embed/8NBoaqb2C3ok0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8NBoaqb2C3ok0">via GIPHY</a></p>
@@ -83,4 +83,4 @@ También está el tema del precio, aunque poco a poco parece que la gente va apr
 
 <p align="justify">Hay muchos tipos de kits. Tenemos uno pensado para elaborar cerveza en casa sin tener que hacer ninguna inversión ni usar cocinas más grandes de las que podemos encontrar en cualquier hogar. Son latas de preparado que se diluyen en agua, se mezcla con levadura, se deja fermentar y listo. Además incluye los accesorios necesarios para rellenar tus botellas. Luego, tenemos uno kits más elaborados con maceradores -o bien de fuego o tipo neveras- con lo que se pueden hacer desde cinco hasta 100 litros, dependiendo de la inversión que cada uno quiera hacer.</p>
 
-<img src="assets/images/guimos/logo.jpg" alt="" />
+<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
