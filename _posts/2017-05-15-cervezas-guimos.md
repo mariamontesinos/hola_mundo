@@ -52,7 +52,7 @@ Eso sí, ninguna lleva adjuntos como arroz o maíz, que son ingredientes que se 
 <p align="justify">Depende del tipo de cerveza, puede tardar unas 3 semanas como mínimo. Una vez terminada la primera fase del proceso que es la cocina, llevamos la cerveza a fermentación una vez fría. Dependiendo del estilo, cada una fermenta a una temperaturas distintas. Ahí dejamos que fermente entre 5 días y 15 días.
 Cuando ha terminado ese proceso se va al embotellado. Allí, se prepara un almíbar y se mezcla con la cerveza para hacer una segunda fermentación en botella, ésta segunda fermentación no se debe hacer a más de 20º. Hay cervezas que se beben más verdes, recién hechas y se pueden servir ya y hay otras que necesitan madurar un poco –una, dos semanas o incluso un mes- en frío para que suavice el sabor-.</p>
 
-<iframe src="https://giphy.com/embed/8NBoaqb2C3ok0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8NBoaqb2C3ok0">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/8NBoaqb2C3ok0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/8NBoaqb2C3ok0">via GIPHY</a></p>
 
 <b>Háblanos de La producción, ¿aproximadamente cuantos litros sacáis?</b>
 
@@ -84,5 +84,3 @@ También está el tema del precio, aunque poco a poco parece que la gente va apr
 <b>Qué hay de los kits de cerveza, porque no sólo producís si no que además vendéis suministros de cerveza para que quién quiera pueda hacer su propia cerveza artesana en casa.</b>
 
 <p align="justify">Hay muchos tipos de kits. Tenemos uno pensado para elaborar cerveza en casa sin tener que hacer ninguna inversión ni usar cocinas más grandes de las que podemos encontrar en cualquier hogar. Son latas de preparado que se diluyen en agua, se mezcla con levadura, se deja fermentar y listo. Además incluye los accesorios necesarios para rellenar tus botellas. Luego, tenemos uno kits más elaborados con maceradores -o bien de fuego o tipo neveras- con lo que se pueden hacer desde cinco hasta 100 litros, dependiendo de la inversión que cada uno quiera hacer.</p>
-
-<div class="4u"><span class="image fit"><img src="assets/images/guimos/cartel.jpg" alt="" /></span></div>
