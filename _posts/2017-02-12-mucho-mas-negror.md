@@ -32,7 +32,7 @@ Aparte de eso he estado pinchado en Murcia en casi todos los lados aunque haya s
 <p align="justify">Es que tuve la genial idea de coger el mixcloud, que es el sitio donde están alojados todos los programas, y cambiar la dirección y ahora el que lo busque como la Gestapo Negra no lo encuentra porque lo cambié bajo el nombre de L.Warlock.</p>
 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321924655&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sup><b>Soundcloud de L.Warlock</b></sup>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321924655&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sup><b>Soundcloud de L.Warlock</b></sup>
 
 <p align="justify">De hecho, ese es el que he encontrado pero ya no he sabido si era el mismo canal, como habían avanzado tanto las publicaciones…
 Claro, es que lo último que hice fueron 52 sesiones en algunas de las cuales, he estado experimentando este último año. Lo que he intentado hacer es una mezcla entre pinchar y continuar con la dinámica del programa de radio, es decir, locutando y que es lo que probablemente ocurra en el futuro.</p>
@@ -44,6 +44,8 @@ Claro, es que lo último que hice fueron 52 sesiones en algunas de las cuales, h
 **¿Y en qué punto estás ahora respecto a esta faceta radiofónica tuya?**
 
 <p align="justify">Pues igual que con el tema de pinchar: intento hacerlo de la forma más espontánea posible. Los últimos programas que he estado haciendo, a parte de estos experimentos que te comentaba, han sido programas con invitados. Cuándo alguien ha sacado un disco recientemente le he invitado y hemos mantenido una entrevista: como fue el caso de la TRK que sacó disco el pasado año o con CK1 de Peligro Records que sacan referencias sobre raperos locales, ahora me imagino que en unos meses sacaremos otro programa con Piezas & Jayder… Y bueno, esa es la historia que te digo. Algo lo más espontáneo posible. Tiene que ser así, cuando yo me veo que estoy haciendo las cosas forzado y tal no es lo mismo.</p>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/giYeaKsXnsI" frameborder="0" allowfullscreen></iframe>
 
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/warlock/warlock2.jpg" alt="" /><sup><b>L.Warlock durante una pinchada</b></sup></span>
 
