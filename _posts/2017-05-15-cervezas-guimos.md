@@ -74,6 +74,8 @@ Cuando ha terminado ese proceso se va al embotellado. Allí, se prepara un almí
 
 <p align="justify">El primer lugar, se trata de la única cerveza que se produce en el municipio de Murcia. Aunque existen otras muchas en la Región, la Guimo’s es la única que se trabaja aquí. Por otro lado, nosotros siempre hemos querido hacer una cerveza que se pueda beber, no hacerla muy amarga o con mucho alcohol para que se distinga del resto por esas cualidades. Hacemos cervezas que le gusten a la gente y para que cualquiera que las pruebe pueda disfutarlas, no solo para eruditos de la cerveza.</p>
 
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/guimos/cartel.jpg" alt="" /></span>
+
 <b>¿Qué dificultades encuentra una pequeña marca artesana como la vuestra a la hora de comercializar su producto?</b>
 
 <p align="justify">Las dificultades son la red de distribución y la red comercial. Al final somos empresas muy pequeñas que nos dedicamos a hacerlo todo nosotros. Habrá gente que tenga comerciales en la calle y les resultará más fácil, pero en nuestro caso, nos gusta venderlas nosotros mismos y tener una relación con el cliente.
@@ -83,4 +85,4 @@ También está el tema del precio, aunque poco a poco parece que la gente va apr
 
 <p align="justify">Hay muchos tipos de kits. Tenemos uno pensado para elaborar cerveza en casa sin tener que hacer ninguna inversión ni usar cocinas más grandes de las que podemos encontrar en cualquier hogar. Son latas de preparado que se diluyen en agua, se mezcla con levadura, se deja fermentar y listo. Además incluye los accesorios necesarios para rellenar tus botellas. Luego, tenemos uno kits más elaborados con maceradores -o bien de fuego o tipo neveras- con lo que se pueden hacer desde cinco hasta 100 litros, dependiendo de la inversión que cada uno quiera hacer.</p>
 
-<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/guimos/cartel.jpg" alt="" /></span>
