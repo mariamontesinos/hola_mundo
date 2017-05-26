@@ -14,7 +14,7 @@ title: Agenda
 <form action="//murciadivergente.us15.list-manage.com/subscribe/post?u=1c367cfae0419d8fe34a858df&amp;id=1def71d038" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Suscríbete a nuestra Newsletter</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="campos obligatorios"><span class="asterisk">*</span> campos obligatorios</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Dirección de email  <span class="asterisk">*</span>
 </label>
