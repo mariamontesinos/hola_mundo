@@ -10,52 +10,44 @@
 
 <body>
 
-    <!-- Wrapper -->
-    <div id="wrapper">
+<!-- Wrapper -->
+<div id="wrapper">
 
         <!-- Main -->
-        <div id="main">
-            <div class="inner">
+    <div id="main">
+        <div class="inner">
 
                 {% include header.html %}
 
                 <!-- Content -->
-                <!-- Banner -->
             <section>
               <div class="content">
-              
-              <div class="row">
-                <div class="12u 12u$(small)">
-                <header>
-                  <h1>{{ page.title }}</h1>
-                </header>
-                {% if page.image %}
-                <span class="image right">
-                  <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="" />
-                </span>
-                 {% endif %}
+                <div class="row">
+                    <div class="7u 12u$(medium)">
+                        
+                        <header>
+                          <h1>{{ page.title }}</h1>
+                        </header>
+                        {% if page.image %}
+                        <span class="image right">
+                        <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="" />
+                        </span>
+                        {% endif %}
 
                 {{ content }}                
 
-                </div>
-
-              </div>  
-              
+                    </div>
+                </div>  
               </div>
-
             </section>
 
 
-            </div>
-            
-
-            </div>
         </div>
+    </div>
 
-      
-
-      </div>
-
+      {% include sidebar.html %}
+    
+</div>
       {% include footer.html %}
 
 </body>
