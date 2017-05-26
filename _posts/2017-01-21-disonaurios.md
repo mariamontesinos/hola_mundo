@@ -52,5 +52,5 @@ De todas formas, para quien quiera escuchar algo de nuestro trabajo, tenemos los
 
 <p align="justify"><b>Enesto:</b> Hay juventud, pero yo creo que lo que no hay son circuitos de movimiento como los que había antes. Todos los fines de semana había algo en distintos lugares donde se organizaban conciertos. Ahora la cosa parece que se ha reducido a un sitio o dos: está Garaje, el Retal, a veces el 12 & medio... -y menos mal-. El tema es que somos muchas bandas y es imposible que habiendo una oferta de locales tan limitada todas encuentren espacios donde poder desarrollar su trabajo. Así que por ahora, tendréis que esperar [risas].</p>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/qwUWKyfIbvg" frameborder="0" allowfullscreen></iframe><sup>Directo de Disonaurios en la feria de Albacete 2016</sup>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/qwUWKyfIbvg" frameborder="0" allowfullscreen></iframe><sup><b>Directo de Disonaurios en la feria de Albacete 2016</b></sup>
                               
