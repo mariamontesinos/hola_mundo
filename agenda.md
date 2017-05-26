@@ -3,6 +3,8 @@ layout: page
 title: Agenda
 ---
 
+¿Quieres recibir nuestra agenda semanal con los planes más interesantes de la ciudad? 
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
