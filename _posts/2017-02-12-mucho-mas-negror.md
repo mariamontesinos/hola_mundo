@@ -45,7 +45,7 @@ Claro, es que lo último que hice fueron 52 sesiones en algunas de las cuales, h
 
 <p align="justify">Pues igual que con el tema de pinchar: intento hacerlo de la forma más espontánea posible. Los últimos programas que he estado haciendo, a parte de estos experimentos que te comentaba, han sido programas con invitados. Cuándo alguien ha sacado un disco recientemente le he invitado y hemos mantenido una entrevista: como fue el caso de la TRK que sacó disco el pasado año o con CK1 de Peligro Records que sacan referencias sobre raperos locales, ahora me imagino que en unos meses sacaremos otro programa con Piezas & Jayder… Y bueno, esa es la historia que te digo. Algo lo más espontáneo posible. Tiene que ser así, cuando yo me veo que estoy haciendo las cosas forzado y tal no es lo mismo.</p>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/giYeaKsXnsI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/giYeaKsXnsI" frameborder="0" allowfullscreen></iframe>
 
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/warlock/warlock2.jpg" alt="" /><sup><b>L.Warlock durante una pinchada</b></sup></span>
 
