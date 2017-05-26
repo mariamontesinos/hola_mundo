@@ -40,4 +40,6 @@ title: Agenda
 
 <!--End mc_embed_signup-->
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/ciudad/femenino.jpg" alt="" /></span>
+<span class="image object">
+      <img src="assets/images/newsletter3.png" alt="" />
+    </span>
