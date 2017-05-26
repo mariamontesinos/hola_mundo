@@ -29,7 +29,7 @@ categories: post
 
 <p align="justify"><b>Jero:</b> Yo si que estuve yendo a unas clases de canto porque me di cuenta de que cada vez que cantaba lo hacía de una manera distinta. Creo que fui unas seis o siete veces, hasta que me di cuenta de que valía mucho dinero y ahí fue cuando decidí que ya sabía cantar [risas].</p>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><sup><b>Disonaurios durante un concierto en la Sala Garaje Beat</b></sup></span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><sup><b>Disonaurios en concierto</b></sup></span>
 
 <p align="justify"><b>Torke:</b> Yo estudié percusión en el conservatorio. Tengo otro grupo, Lobos Humanos en el que llevo tocando la batería desde hace nueve años. Además también tengo un proyecto de versiones de los Operation Ivy pendiente, pero son muchas cosas y se hace lo que se puede.</p>
 
@@ -52,5 +52,5 @@ De todas formas, para quien quiera escuchar algo de nuestro trabajo, tenemos los
 
 <p align="justify"><b>Enesto:</b> Hay juventud, pero yo creo que lo que no hay son circuitos de movimiento como los que había antes. Todos los fines de semana había algo en distintos lugares donde se organizaban conciertos. Ahora la cosa parece que se ha reducido a un sitio o dos: está Garaje, el Retal, a veces el 12 & medio... -y menos mal-. El tema es que somos muchas bandas y es imposible que habiendo una oferta de locales tan limitada todas encuentren espacios donde poder desarrollar su trabajo. Así que por ahora, tendréis que esperar [risas].</p>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/qwUWKyfIbvg" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/qwUWKyfIbvg" frameborder="0" allowfullscreen></iframe><sup>Directo de Disonaurios en la feria de Albacete 2016</sup>
                               

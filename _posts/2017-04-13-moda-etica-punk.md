@@ -24,7 +24,7 @@ categories: post
 <p align="justify"><b>Alexandra:</b> Sí, claro.  No queremos delimitar.</p>
 <p align="justify"><b>Martaé:</b> Eso es. Nosotras nos somos nadie para delimitar y decir si algo es de chico o de chica, nuestra ropa se la puede poner quien quiera.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gJkgHsiJUXo" frameborder="0" allowfullscreen></iframe><sup>Pasarela realizada por Las CulpaSS en el 2º desfile de moda Centro Párraga de Murcia.</sup> 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/gJkgHsiJUXo" frameborder="0" allowfullscreen></iframe><sup>Pasarela realizada por Las CulpaSS en el 2º desfile de moda Centro Párraga de Murcia</sup> 
 
 **Habladme de los materiales que utilizáis, se qué usáis mucho material reciclado ¿de dónde lo sacáis?**
 <p align="justify"><b>Martaé:</b> Para la producción de las colecciones buscamos almacenes de retaleros en la Región y les compramos los tejidos, pero tienen una continuidad muy corta porque son excedentes de fábrica procedentes de grandes colecciones.</p>
