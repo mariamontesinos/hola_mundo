@@ -85,4 +85,4 @@ También está el tema del precio, aunque poco a poco parece que la gente va apr
 
 <p align="justify">Hay muchos tipos de kits. Tenemos uno pensado para elaborar cerveza en casa sin tener que hacer ninguna inversión ni usar cocinas más grandes de las que podemos encontrar en cualquier hogar. Son latas de preparado que se diluyen en agua, se mezcla con levadura, se deja fermentar y listo. Además incluye los accesorios necesarios para rellenar tus botellas. Luego, tenemos uno kits más elaborados con maceradores -o bien de fuego o tipo neveras- con lo que se pueden hacer desde cinco hasta 100 litros, dependiendo de la inversión que cada uno quiera hacer.</p>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/guimos/cartel.jpg" alt="" /></span>
+<div class="4u"><span class="image fit"><img src="assets/images/guimos/cartel.jpg" alt="" /></span></div>
