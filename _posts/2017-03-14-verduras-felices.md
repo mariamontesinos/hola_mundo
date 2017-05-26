@@ -63,6 +63,4 @@ Respondiendo a tu pregunta sobre qué dificultades nos encontramos al cultivar d
 <p align="justify"><b>Alfonso:</b> todo lo que sea de temporada que te puedas imaginar.</p> 
 <p align="justify"><b>Paco:</b> incluso cosas que no se utilizan o que no se gastan mucho por aquí porque la gente no las conoce: como el kale o la coliflor púrpura. Además tenemos apio, ajos, brocolí, rúcula… muchas cosas, aunque también nos faltan otras tantas, cada vez queremos cultivar más y claro, la tierra es la que es y tiene su ritmo, no puede ir más rápido de lo que va [risas].</p> 
 
-<span class="image object">
-      <img src="assets/images/newsletter3.png" alt="" />
-    </span>
+
