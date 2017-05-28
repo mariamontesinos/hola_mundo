@@ -69,7 +69,7 @@ Bueno, las tablas vienen de fábrica. Las compramos a HLC, la mayor distribuidor
 
 Pues depende mucho del tatuador, de los encargos que nos hagan y su procedencia. Hemos distribuido en casi toda Europa, Latinoamérica, y también en  Australia y Nueva Zelanda.
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/skate4.jpg" alt="" /><sup><b><i>Skates originales por Skate Ink Desings</i></b></sup></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/masskate.jpg" alt="" /><sup><b><i>Skates originales por Skate Ink Desings</i></b></sup></span>
 
 <b>¿Cómo es patinar una de las tabla hecha por Skate Ink Desing?</b> 
 
