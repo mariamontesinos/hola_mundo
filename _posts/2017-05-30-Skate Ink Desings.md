@@ -15,6 +15,7 @@ Skate Ink Desing nace en septiembre de 2016, cuando me encargan preparar unas ta
 <b>Y cómo surge la idea de montarte ya como marca especializada en este tipo de diseños?</b>
 
 Todo vino, porque yo ya colaboraba con una persona que se dedicaba al diseño personalizado de tablas. Por cosas del destino, esa colaboración terminó y decidí -con la ayuda y el apoyo de un colega, Myrhwan, que me animó a que no dejara de hacerlo-, en enfocarlo directamente al mundo del tatuaje y el arte. 
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/juanan.jpg" alt="" /><sup><b><i>Juanan con algunos de los diseños</i></b></sup></span>
 
 
 <b>¿Todo el trabajo corre a tu cargo?</b> 
@@ -24,6 +25,8 @@ Lo cierto es que no. Tengo un amigo de todas la vida que es el diseñador gráfi
 <b>¿Cómo es la dinámica de trabajo que entablas con los artistas del tattoo?</b>
 
 Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden un número de unidades, lo habitual es que sean ediciones limitadas y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de Exotic Tattoo, <b>Jumilla Olivares</b> de la Tinta que Habito, <b>Hombre arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.
+
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chill1.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
 
 <b>¿Hay algún colaborador murciano?</b> 
 
@@ -35,7 +38,9 @@ Primero fue el tatto, de hecho lo habitual es que esté enfocado en ese mundo. P
 
 <b>¿Cuáles creen que son los atributos que hacen que tu marca tenga alma?</b> 
 
-Es algo bastante novedoso. El skate siempre ha estado vinculado con el mundo del tatuaje y hasta día de hoy no existe mucha gente que se haya dedicado a orientar el skate a mundo del tattoo y fusionarlo de esta manera.  Yo creo que eso es lo que hace que Skate Ink Desings este teniendo tan buena aceptación. 
+Es algo bastante novedoso. El skate siempre ha estado vinculado con el mundo del tatuaje y hasta día de hoy no existe mucha gente que se haya dedicado a orientar el skate a mundo del tattoo y fusionarlo de esta manera.  Yo creo que eso es lo que hace que Skate Ink Desings este teniendo tan buena aceptación.
+
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/skate1.jpg" alt="" /><sup><b><i>Skates originales por Skate Ink Desings</i></b></sup></span>
 
 <b>Vuestras tablas, son una línea de exposición más que de tabla para hacer skate, ¿cierto?</b>
 
@@ -44,6 +49,9 @@ Sí. Las tablas se pueden patinar 100% pero normalmente, mis tablas van a parar 
 <b>Tu proyecto esta inspirado en algún otro similar, quizá internacional?</b> 
 
 No, ya te digo. Surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo en el que estuve trabajando cómo poder plasmar algo sobre este formato pero la idea, lo que es el enfoque, es 100% mía. 
+
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chill2.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
+
 
 Entonces tu negocio es único en el territorio nacional? 
 
