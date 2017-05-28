@@ -53,7 +53,7 @@ No, ya te digo. Surge de el anterior trabajo en el que estuve colaborando con es
 <span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chill2.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
 
 
-Entonces tu negocio es único en el territorio nacional? 
+<b>Entonces tu negocio es único en el territorio nacional?</b> 
 
 Así es, no hay nadie que lo haga o por lo menos que yo sepa y hasta día de hoy. 
 
