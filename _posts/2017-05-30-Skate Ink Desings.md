@@ -26,7 +26,7 @@ Lo cierto es que no. Tengo un amigo de todas la vida que es el diseñador gráfi
 
 Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden un número de unidades, lo habitual es que sean ediciones limitadas y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de Exotic Tattoo, <b>Jumilla Olivares</b> de la Tinta que Habito, <b>Hombre arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chill1.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil1.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
 
 <b>¿Hay algún colaborador murciano?</b> 
 
@@ -50,7 +50,7 @@ Sí. Las tablas se pueden patinar 100% pero normalmente, mis tablas van a parar 
 
 No, ya te digo. Surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo en el que estuve trabajando cómo poder plasmar algo sobre este formato pero la idea, lo que es el enfoque, es 100% mía. 
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chill2.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil2.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
 
 
 <b>Entonces tu negocio es único en el territorio nacional?</b> 
@@ -79,7 +79,7 @@ Pues solo ha sido patinada una de mis tablas en una ocasión. Fue el hijo de un 
 
 Sí, lo que si que exigimos es una cierta calidad en el diseño, lo que es el tema de la resolución pero claro, cualquier persona puede tener su tabla personalizada. Además, pueden ser encargos de una sola unidad, no es necesario que se sean grandes packs. 
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/pieskate.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
+<span class="image fit"><img src="assets/images/pieskate.jpg" alt="" /></span>
 
 <b>Para más información consulta su web:</b> 
 <a href= " http://skateinkdesigns.com/es/">http://skateinkdesigns.com/es/</a>
