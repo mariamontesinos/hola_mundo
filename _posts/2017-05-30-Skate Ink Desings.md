@@ -59,7 +59,7 @@ Pues solo ha sido patinada una de mis tablas en una ocasión. Fue el hijo de un 
 Sí, lo que si que exigimos es una cierta calidad en el diseño, lo que es el tema de la resolución pero claro, cualquier persona puede tener su tabla personalizada. Además, pueden ser encargos de una sola unidad, no es necesario que se sean grandes packs. 
 
 <span class="image object">
-      <img src="assets/images/skate/pieskate.png" alt="" />
+      <img src="assets/images/pieskate.jpg" alt="" />
     </span>
 
 <b>Para más información consulta su web:</b> 
