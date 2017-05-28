@@ -79,9 +79,7 @@ Pues solo ha sido patinada una de mis tablas en una ocasión. Fue el hijo de un 
 
 Sí, lo que si que exigimos es una cierta calidad en el diseño, lo que es el tema de la resolución pero claro, cualquier persona puede tener su tabla personalizada. Además, pueden ser encargos de una sola unidad, no es necesario que se sean grandes packs. 
 
-<span class="image object">
-      <img src="assets/images/pieskate.jpg" alt="" />
-    </span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/pieskate.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
 
 <b>Para más información consulta su web:</b> 
 <a href= " http://skateinkdesigns.com/es/">http://skateinkdesigns.com/es/</a>
