@@ -6,7 +6,7 @@ image: skateportada.jpg
 categories: post
 ---
 
-Skate Ink Desings es una marca murciana diseñadora de tablas de skates enfocadas al mundo del tatuaje. Aunque llevan poco tiempo rodando en esto del diseño customizado, ya reciben encargos de todo el territorio nacional. Además 
+Skate Ink Desings es una marca murciana que se dedica a diseñar tablas de skate enfocadas al mundo del tatuaje. Aunque llevan poco tiempo rodando en esto del diseño customizado, ya reciben encargos de todo el territorio nacional.  
 
 <b>¿Cuánto tiempo lleva rodando Skate Ink Desings?</b> 
 
