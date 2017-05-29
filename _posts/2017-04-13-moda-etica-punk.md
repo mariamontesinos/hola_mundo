@@ -63,4 +63,4 @@ categories: post
 <p align="justify"><b>Martaé:</b> A parte de eso, participar en todo lo que nos propongan. Este año queremos viajar más. Nos gustaría subir a Bilbao para ver si podemos movernos más por el Norte.</p>
 <p align="justify"><b>Alexandra:</b> Sí, poder movernos un poquito. Que nos de la empresa para eso [risas].</p>
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/culpass/showroom.jpg" alt="" /></a><sup><b>Entrada al Showroom de Las Culpass</b></sup>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/culpass/showroom.jpg" alt="" /></a><sup>Entrada al Showroom de Las Culpass</sup>
