@@ -43,5 +43,5 @@ title: Agenda
 <!--End mc_embed_signup-->
 
 <span class="image object">
-      <img src="assets/images/newsletter3.png" alt="" />
+      <img src="assets/images/suscribete.jpg" alt="" />
     </span>
