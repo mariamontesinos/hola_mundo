@@ -14,7 +14,7 @@ categories: post
 
 <b>Y cómo surge la idea de montarte ya como marca especializada en este tipo de diseños?</b>
 
-<p align="justify">Todo vino, porque yo ya colaboraba con una persona que se dedicaba al diseño personalizado de tablas. Por cosas del destino, esa colaboración terminó y decidí -con la ayuda y el apoyo de un colega, <b><i>Myrhwan</b></i>, que me animó a que no dejara de hacerlo-, en enfocarlo directamente al mundo del tatuaje y el arte.</p> 
+<p align="justify">Todo vino, porque yo ya colaboraba con una persona que se dedicaba al diseño personalizado de tablas. Por cosas del destino, esa colaboración terminó y decidí -con la ayuda y el apoyo de un colega, <b>Myrhwan</b>, que me animó a que no dejara de hacerlo-, en enfocarlo directamente al mundo del tatuaje y el arte.</p> 
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/juanan.jpg" alt="" /><sup><b>Juanan con algunos de los diseños</b></sup></span>
 
 <b>¿Todo el trabajo corre a tu cargo?</b> 
