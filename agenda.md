@@ -42,6 +42,4 @@ title: Agenda
 
 <!--End mc_embed_signup-->
 
-<span class="image object">
-      <img src="assets/images/sucribete.jpg" alt="" />
-    </span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/sucribete.jpg" alt="" /></a>
