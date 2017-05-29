@@ -96,9 +96,6 @@ Yo no puedo pedir visibilidad, normalización e igualdad de derechos y luego hac
 
 <p align="justify">Es un premio que realizamos desde hace cuatro años y va de la mano del Orgullo. Empezó todo por sacar la fiesta a la calle. Como te he comentado se han hecho distintas cosas pero creo que por el miedo a pasar vergüenza no se ha llegado a hacer cosas más grandes. Así es como el primer año sacamos 30 coches a la calle, engañando a amigos y tal, lo celebramos de aquella manera con una caravana de coches y salió la gente a bailar y bueno… nos planteamos añadirle algo más a la fiesta del Orgullo y de ahí salió la idea de crear <b><i>La Pluma de Plata</i></b>. La pluma siempre ha sido un símbolo de vergüenza, un término despectivo hacía el colectivo. Así que decidimos llamarlo así.</p>
 
-
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/no te prives/zerolo2.jpg" alt="" /></span>
-
 **¿Y a quién la entregáis?**
 
 <p align="justify">Lo entregamos a personas, entidades que luchen o ayuden a la reivindicación que tiene el colectivo. El primer año se le dio a la Filmoteca Regional que ya lleva 12 años cediéndonos un espacio para la muestra de cine LGTBI. Deberíamos habérsela dado a el director de la Filmoteca, Ángel Cruz, que es quien la pone al servicio de todas las asociaciones. Él entiende que es un espacio público, en el que cualquier persona con unos fines lógicos que de un servicio a la comunidad puede utilizarlo.
@@ -107,6 +104,7 @@ También se le dio al Ayuntamiento y fue muy criticado. Nos acusaron de peperos 
 
 Después de aquello se la dimos a Pedro Zerolo, que como ya estaba muy enfermo no pudo venir a recogerla, pero nos acogió en su casa en un acto que fue muy emotivo. En 2016 se la dimos a Carla Antonelli, y este año tengo el orgullo de dársela a Fernando Grande Marlasca que viene a recibirla aquí a Murcia.</p>
 
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/no te prives/zerolo2.jpg" alt="" /></a> 
 
 
 
