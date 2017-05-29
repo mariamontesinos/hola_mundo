@@ -18,7 +18,7 @@ Nos reunimos para charlar con Jorge de Verastegui, socio y productor de la marca
 <b>¿Qué productos podemos encontrar bajo la marca Guimo’s?</b>
 <p align="justify">Ahora mismo tenemos tres referencias: <i>la Munich</i>, <i>la Pale Ale</i> y <i>La Morenica</i>. La <i>Munich</i> es de perfil belga, la <i>Pale Ale</i> inglesa y <i>La Morenica</i> es una cerveza oscura de trigo que no llega a ser negra.</p>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/guimos/cartel.jpg" alt="" /></span> 
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/guimos/cartel.jpg" alt="" /></span><sup>Foto: Ruben Muñoz</sup>
 
 <b>¿Cuáles son los ingredientes que tiene una Guimo’s?</b>
 <p align="justify">Únicamente malta –de cebada o de trigo- levadura, lúpulo y agua.</p>
