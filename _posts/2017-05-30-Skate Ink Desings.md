@@ -23,7 +23,7 @@ categories: post
 
 <b>¿Cómo es la dinámica de trabajo que entablas con los artistas del tattoo?</b>
 
-<p align="justify">Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden un número de unidades, lo habitual es que sean ediciones limitadas y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de Exotic Tattoo, <b>Jumilla Olivares</b> de la Tinta que Habito, <b>Hombre arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.</p>
+<p align="justify">Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden un número de unidades, lo habitual es que sean ediciones limitadas y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de <i>Exotic Tattoo</i>, <b>Jumilla Olivares</b> de <i>La Tinta que Habito</i>, <b>Hombre arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.</p>
 
 <span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil1.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
 
@@ -33,7 +33,7 @@ categories: post
 
 <b>A parte de los skates orientados al tatto tenéis una línea más ‘clásica’ que incluye skates con diseños de artistas como Caravaggio o Miguel Ángel… ¿qué fue antes?</b>
 
-<p align="justify">Primero fue el tatto, de hecho lo habitual es que esté enfocado en ese mundo. Pero de vez en cuando también sacamos líneas con artistas más clásicos. Tenemos una gama de skates muy guapa con artistas como Carravaggio, Boticelli, El Bosco o Miguel Ángel.</p>  
+<p align="justify">Primero fue el tatto, de hecho lo habitual es que esté enfocado en ese mundo. Pero de vez en cuando también sacamos líneas con artistas más clásicos. Tenemos una gama de skates muy guapa con artistas como <b>Carravaggio</b>, <b>Boticelli</b>, <b>El Bosco</b> o <b>Miguel Ángel</b>.</p>  
 
 <b>¿Cuáles creen que son los atributos que hacen que tu marca tenga alma?</b> 
 
