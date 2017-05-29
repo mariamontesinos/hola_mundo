@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Skate Ink Desings"
-excerpt: ""
+excerpt: "<p align="justify"><b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje en unas tablas que plasman lo mejor en tinta de grandes artistas de la escena tattoo del país, y que ya han cruzado el charco.</p>"
 image: skateportada.jpg
 categories: post
 ---
 
-++++++++++++++++
-
+<p align="justify"><b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje en unas tablas que plasman lo mejor en tinta de grandes artistas de la escena tattoo del país, y que ya han cruzado el charco.</p> 
+  
 <b>¿Cuánto tiempo lleva rodando Skate Ink Desings?</b> 
 
 <p align="justify">Skate Ink Desing nace en septiembre de 2016, cuando me encargan preparar unas tablas para unos amigos, artistas del tattoo, que querían mostrar en la Expo de tatuajes de Barcelona de 2016.</p> 
@@ -15,7 +15,7 @@ categories: post
 <b>Y cómo surge la idea de montarte ya como marca especializada en este tipo de diseños?</b>
 
 <p align="justify">Todo vino, porque yo ya colaboraba con una persona que se dedicaba al diseño personalizado de tablas. Por cosas del destino, esa colaboración terminó y decidí -con la ayuda y el apoyo de un colega, Myrhwan, que me animó a que no dejara de hacerlo-, en enfocarlo directamente al mundo del tatuaje y el arte.</p> 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/juanan.jpg" alt="" /><sup><b><i>Juanan con algunos de los diseños</i></b></sup></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/juanan.jpg" alt="" /><sup><b>Juanan con algunos de los diseños</b></sup></span>
 
 <b>¿Todo el trabajo corre a tu cargo?</b> 
 
@@ -25,7 +25,7 @@ categories: post
 
 <p align="justify">Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden un número de unidades, lo habitual es que sean ediciones limitadas y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de Exotic Tattoo, <b>Jumilla Olivares</b> de la Tinta que Habito, <b>Hombre arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.</p>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil1.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil1.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
 
 <b>¿Hay algún colaborador murciano?</b> 
 
@@ -39,7 +39,7 @@ categories: post
 
 <p align="justify">Es algo bastante novedoso. El skate siempre ha estado vinculado con el mundo del tatuaje y hasta día de hoy no existe mucha gente que se haya dedicado a orientar el skate a mundo del tattoo y fusionarlo de esta manera.  Yo creo que eso es lo que hace que Skate Ink Desings este teniendo tan buena aceptación.</p> 
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/skate1.jpg" alt="" /><sup><b><i>Skates originales por Skate Ink Desings</i></b></sup></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/skate1.jpg" alt="" /><sup><b>Skates by Skate Ink Desings</b></sup></span>
 
 <b>Vuestras tablas, son una línea de exposición más que de tabla para hacer skate, ¿cierto?</b>
 
@@ -49,7 +49,7 @@ categories: post
 
 <p align="justify">No, ya te digo. Surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo en el que estuve trabajando cómo poder plasmar algo sobre este formato pero la idea, lo que es el enfoque, es 100% mía. </p> 
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil2.jpg" alt="" /><sup><b><i>Diseño por Víctor Chil</i></b></sup></span>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil2.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
 
 <b>Entonces tu negocio es único en el territorio nacional?</b> 
 <p align="justify">Así es, no hay nadie que lo haga o por lo menos que yo sepa y hasta día de hoy.</p>  
@@ -60,7 +60,7 @@ categories: post
 
 <b>¿A día de hoy, dónde las distribuís?</b> 
 <p align="justify">Pues depende mucho del tatuador, de los encargos que nos hagan y su procedencia. Hemos distribuido en casi toda Europa, Latinoamérica, y también en  Australia y Nueva Zelanda.</p> 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/masskate.jpg" alt="" /><sup><b><i>Skates originales por Skate Ink Desings</i></b></sup></span>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/masskate.jpg" alt="" /><sup><b>Skates by Julio Medina</b></sup></span>
 <b>¿Cómo es patinar una de las tabla hecha por Skate Ink Desings?</b> 
 <p align="justify">Pues solo ha sido patinada una de mis tablas en una ocasión. Fue el hijo de un amigo, un skater de la zona y que nos confimó lo que ya sabíamos, que las tablas son 100% patinables. Van preparadas para ello. Pero claro, al ser un producto tan exclusivo lo habitual es que mis tablas acaben como exposición. Además, el precio es un poco más elevado, para patinarlo.</p>  
 <b>Cualquiera pueda realizar con vosotros una tabla customizada, es decir, ¿Quién quiera puede mandaros el diseño y hacerse un skate propio?</b>
