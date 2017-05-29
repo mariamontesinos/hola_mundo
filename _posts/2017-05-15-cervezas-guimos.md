@@ -24,7 +24,7 @@ Nos reunimos para charlar con Jorge de Verastegui, socio y productor de la marca
 <p align="justify">Ahora mismo tenemos tres referencias: <i>la Munich</i>, <i>la Pale Ale</i> y <i>La Morenica</i>. La <i>Munich</i> es de perfil belga, la <i>Pale Ale</i> inglesa y <i>La Morenica</i> es una cerveza oscura de trigo que no llega a ser negra.</p>
 
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/guimos/logo.jpg" alt="" /></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/guimos/logo.jpg" alt="" /></a> 
 
 <b>¿Cuáles son los ingredientes que tiene una Guimo’s?</b>
 
