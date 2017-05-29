@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skate Ink Desings"
-excerpt: "<b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje, en unas tablas que plasman lo mejor en tinta de algunos de los grandes artistas de la escena tattoo del país, y que además, ya han logrado cruzar el charco."
+excerpt: "Skate Ink Desings es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje, en unas tablas que plasman lo mejor en tinta de algunos de los grandes artistas de la escena tattoo del país, y que además, ya han logrado cruzar el charco."
 image: skateportada.jpg
 categories: post
 ---
@@ -45,16 +45,16 @@ categories: post
 
 <p align="justify">Sí. Las tablas se pueden patinar 100% pero normalmente, mis tablas van a parar a alguna pared de algún estudio de tatuaje, negocio, casa… son para exposición. Sirven como elemento decorativo mayoritariamente.</p>  
 
-<b>Tu proyecto esta inspirado en algún otro similar, quizá internacional?</b> 
+<b>¿Tu proyecto esta inspirado en algún otro similar, quizá internacional?</b> 
 
-<p align="justify">No, ya te digo. Surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo en el que estuve trabajando cómo poder plasmar algo sobre este formato pero la idea, lo que es el enfoque, es 100% mía. </p> 
+<p align="justify">No, ya te digo. Surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo pero lo que es el enfoque, es 100% mía. </p> 
 
 <span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil2.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
 
-<b>Entonces tu negocio es único en el territorio nacional?</b> 
+<b>¿Entonces tu negocio es único en el territorio nacional?</b> 
 <p align="justify">Así es, no hay nadie que lo haga o por lo menos que yo sepa y hasta día de hoy.</p>  
 <b>¿La producción se queda en Murcia?</b>
-<p align="justify">Sí, las tablas están hechas una a una.  Son hechas a mano. Por lo tanto la producción se queda en Murcia.</p>  
+<p align="justify">Sí, las tablas están hechas una a una. Son hechas a mano. Por lo tanto la producción se queda en Murcia.</p>  
 <b>¿De dónde provienen las tablas?</b> 
 <p align="justify">Bueno, las tablas vienen de fábrica. Las compramos a HLC, la mayor distribuidora Europea con sede en Irún. Son tablas originales, de la mayor calidad y <i>Made in Spain</i>.</p>  
 
