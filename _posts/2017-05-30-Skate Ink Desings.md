@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Skate Ink Desings"
-excerpt: "<b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje en unas tablas que plasman lo mejor en tinta de grandes artistas de la escena tattoo del país, y que ya han cruzado el charco."
+excerpt: "<b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje, en unas tablas que plasman lo mejor en tinta de algunos de los grandes artistas de la escena tattoo del país, y que además, ya han logrado cruzar el charco."
 image: skateportada.jpg
 categories: post
 ---
 
-<p align="justify"><b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje en unas tablas que plasman lo mejor en tinta de grandes artistas de la escena tattoo del país, y que ya han cruzado el charco.</p> 
+<p align="justify"><b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje en unas tablas que plasman lo mejor en tinta de algunos de los grandes artistas de la escena tattoo del país, y que además, ya han logrado cruzar el charco.</p> 
   
 <b>¿Cuánto tiempo lleva rodando Skate Ink Desings?</b> 
 
@@ -14,7 +14,7 @@ categories: post
 
 <b>Y cómo surge la idea de montarte ya como marca especializada en este tipo de diseños?</b>
 
-<p align="justify">Todo vino, porque yo ya colaboraba con una persona que se dedicaba al diseño personalizado de tablas. Por cosas del destino, esa colaboración terminó y decidí -con la ayuda y el apoyo de un colega, Myrhwan, que me animó a que no dejara de hacerlo-, en enfocarlo directamente al mundo del tatuaje y el arte.</p> 
+<p align="justify">Todo vino, porque yo ya colaboraba con una persona que se dedicaba al diseño personalizado de tablas. Por cosas del destino, esa colaboración terminó y decidí -con la ayuda y el apoyo de un colega, <b><i>Myrhwan</b></i>, que me animó a que no dejara de hacerlo-, en enfocarlo directamente al mundo del tatuaje y el arte.</p> 
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/juanan.jpg" alt="" /><sup><b>Juanan con algunos de los diseños</b></sup></span>
 
 <b>¿Todo el trabajo corre a tu cargo?</b> 
