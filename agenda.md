@@ -3,7 +3,7 @@ layout: page
 title: Agenda
 ---
 
-<b>¿Quieres recibir nuestra agenda semanal con los planes alternativos más interesantes de la ciudad? Es muy sencillo, tan solo tienes que rellenar el formulario que te presentamos aquí abajo y cada lunes la recibirás en tu correo electrónico.</b>  
+¿Quieres recibir nuestra agenda semanal con los planes alternativos más interesantes de la ciudad? Es muy sencillo, tan solo tienes que rellenar el formulario que te presentamos aquí abajo y cada lunes la recibirás en tu correo electrónico.  
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -42,4 +42,4 @@ title: Agenda
 
 <!--End mc_embed_signup-->
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/sucribete.jpg" alt="" /></a>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/news.jpg" alt="" /></a>
