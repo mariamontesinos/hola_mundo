@@ -3,7 +3,7 @@ layout: page
 title: Agenda
 ---
 
-¿Quieres recibir nuestra agenda semanal con los planes alternativos más interesantes de la ciudad? Es muy sencillo, tan solo tienes que rellenar el formulario que te presentamos aquí abajo y cada lunes la recibirás en tu correo electrónico.  
+¿Quieres recibir nuestra agenda semanal con los planes alternativos más interesantes de la ciudad? ¡Te lo hemos puesto muy fácil! solo tienes que rellenar el mini formulario que te presentamos aquí abajo y cada lunes la recibirás en tu correo electrónico.  
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
