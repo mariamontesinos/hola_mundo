@@ -19,7 +19,7 @@ categories: post
 
 <b>¿Todo el trabajo corre a tu cargo?</b> 
 
-<p align="justify">Lo cierto es que no. Tengo un amigo de toda la vida que es el diseñador gráfico. El se encarga de los montajes virtuales y del encaje de los diseños.</p> 
+<p align="justify">Lo cierto es que no. Tengo un amigo de toda la vida que es el diseñador gráfico. Él se encarga de los montajes virtuales y del encaje de los diseños.</p> 
 
 <b>¿Cómo es la dinámica de trabajo que entablas con los artistas del tattoo?</b>
 
@@ -47,12 +47,12 @@ categories: post
 
 <b>¿Tu proyecto esta inspirado en algún otro similar, quizá internacional?</b> 
 
-<p align="justify">No, ya te digo... surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas, pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo pero lo que es el enfoque es 100% mío. </p> 
+<p align="justify">No, ya te digo... surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas, pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo, pero lo que es el enfoque es 100% mío. </p> 
 
 <span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil2.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
 
 <b>¿Entonces tu negocio es único en el territorio nacional?</b> 
-<p align="justify">Así es, no hay nadie que lo haga o por lo menos que yo sepa y hasta día de hoy.</p>  
+<p align="justify">Así es, no hay nadie que lo haga o por lo menos que yo sepa hasta el día de hoy.</p>  
 <b>¿La producción se queda en Murcia?</b>
 <p align="justify">Sí, las tablas están hechas una a una. Son hechas a mano. Por lo tanto la producción se queda en Murcia.</p>  
 <b>¿Y de dónde provienen las tablas?</b> 
@@ -62,8 +62,8 @@ categories: post
 <p align="justify">Pues depende mucho del tatuador, de los encargos que nos hagan y su procedencia. Hemos distribuido en casi toda Europa, Latinoamérica, y también en Australia y Nueva Zelanda.</p> 
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/masskate.jpg" alt="" /><sup><b>Skates by Julio Medina</b></sup></span>
 <b>Me comentabas que tus tablas son mayoritariamente de exposición pero, ¿cómo es patinar una de las tablas hecha por Skate Ink Desings?</b> 
-<p align="justify">Pues solo ha sido patinada una en una ocasión. Fue el hijo de un amigo, un skater de la zona y nos confimó lo que ya sabíamos, que las tablas son 100% patinables. Van preparadas para ello. Pero claro, al ser un producto tan exclusivo lo habitual es que mis tablas acaben como exposición. Además, el precio es un poco más elevado como para 'destrozarla'.</p>  
-<b>Cualquiera pueda realizar con vosotros una tabla customizada, es decir, ¿Quién quiera puede mandaros el diseño y hacerse un skate propio?</b>
+<p align="justify">Pues solo ha sido patinada una de ellas en una ocasión. Fue el hijo de un amigo, un skater de la zona y nos confimó lo que ya sabíamos, que las tablas son 100% patinables. Van preparadas para ello. Pero claro, al ser un producto tan exclusivo lo habitual es que mis tablas acaben como exposición. Además, el precio es un poco más elevado como para 'destrozarlas'.</p>  
+<b>Cualquiera puede realizar con vosotros una tabla customizada, es decir, ¿quién quiera puede mandaros el diseño y hacerse un skate propio?</b>
 
 <p align="justify">Sí, lo que si que exigimos es una cierta calidad en el diseño, en cuanto a lo que es la resolución, pero claro, cualquier persona puede tener su tabla personalizada. Además, pueden ser encargos de una sola unidad, y tener así un producto 100% exclusivo, no es necesario que se sean grandes packs.</p>  
 
