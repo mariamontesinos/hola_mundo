@@ -17,7 +17,7 @@ categories: post
 <p align="justify"><b>Paco:</b> Yo vengo de una familia de campesinos, de agricultores de aquí, de toda la vida del Esparragal. Me crié en la huerta, he nacido aquí, he mamado desde siempre la idea de que, lo que uno cultiva siempre es lo mejor. 
 Hace ya unos años empezaron a introducirse los productos químicos y aquello cada vez fue a más. Por ponerte un ejemplo: antiguamente se escardaban las lechugas, es decir, se le quitaba la hierba, dos veces antes de cortarlas. Poco a poco las fumigaciones fueron avanzando y ya se escardaba solo una vez, hasta que, incluso llegó el momento en el que ya se fumigaba y no se le quitaba la hierbas. Una práctica que fue a más porque de la otra manera lleva mucho tiempo, y sin embargo así abaratas muchos costes. Cuando fumigas, pagas por un líquido que te dan, que no sabes ni siquiera que contiene. Te aseguran que sigue unas medidas de seguridad y que no pasa nada. Poco a poco, te vas dando cuenta que la única forma que tienes de saber lo que lleva es cultivando tu mismo.</p>
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/bancal/alfonsoypaco.jpg" alt="" /><sup><b>Alfonso y Paco en uno de sus huertos</b></sup></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/bancal/alfonsoypaco.jpg" alt="" /><sup><b>Alfonso y Paco en uno de sus huertos</b></sup></a>
 
 **¿Todo esto lo sacáis adelante vosotros solos?**
 
@@ -54,8 +54,7 @@ Al principio si que éramos solo nosotros. Esto empezó poco a poco, y teníamos
 
 Respondiendo a tu pregunta sobre qué dificultades nos encontramos al cultivar de forma ecológica y que no tenga la agricultura tradicional... creo que en general, estamos más expuestos a perder parte de la cosecha de lo que lo están otro tipo de agricultores.</p>  
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/bancal/bancal1.jpg" alt="" /></a><b>Del Bancal a Casa en el mercado</b>
-
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/bancal/bancal1.jpg" alt="" /><sup><b>Del Bancal a Casa en el mercado</b></sup></a>
 **Y a la hora de darle salida a vuestra producción, ¿encontráis respuesta por parte del consumidor?**
 
 <p align="justify"><b>Paco:</b> eso es lo mejor. A la gente en cuanto le dices que has sido tu quien la ha cultivado y de dónde viene... les damos nuestra web e incluso los invitamos a venir a los huertos para que ellos mismos comprueben que nuestra producción es ecológica, que no fumigamos ni gastamos químicos. Además la gente quiere productos frescos de aquí, de temporada. Que estén recién cortados y sean producto local. Quién los prueba, repite.</p> 

@@ -52,7 +52,7 @@ categories: post
 **Y los nombres de vuestras colecciones cómo se os ocurren, porque son super graciosos, ¿primero os viene el nombre y luego sacáis la colección?**
 <p align="justify"><b>Alexandra:</b> Van de la mano. A veces se nos ha ocurrido el nombre, o simplemente nos gusta y queremos usarlo como el de <b><i>¿Somos punkis o gominolas?</i></b> Que es una frase que dicen los colegas y nos hace mucha gracia, o en el caso de <b><i>Periodo de guerra</i></b> -que fue una colección sobre la menstruación- nos surgió a raíz de un <i>brainstorming</i> de palabras que tuviesen relación con el tema.</p>
 <p align="justify"><b>Martaé:</b> La última, <b><i>Culpables de la extinción de los dinosaurios</i></b> es por una amiga que le dice mucho culpable a sus perros y entonces fue en plan “culpables hasta de la extinción de los dinosaurios” [risas].</p>
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/culpass/culpass2.jpg" alt="" /><sup><b>Foto: LasCulpass</b></sup></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/culpass/culpass2.jpg" alt="" /><sup><b>Colección <i>Culpables de la Extinción de los Dinosaurios</i></b></sup></a>
 **También hay otros más serios como es el caso de Evolución o Barbarie, ¿qué me decís de ese?**
 <p align="justify"><b>Alexandra:</b> Sí, bueno. Ese es el menos gracioso. Ahí estábamos muy cabreadas [risas] lo cual tampoco esta mal para transmitirlo de vez en cuando.</p>
 **Sin duda, habéis logrado crear una buena comunidad culpable...**
@@ -63,4 +63,4 @@ categories: post
 <p align="justify"><b>Martaé:</b> A parte de eso, participar en todo lo que nos propongan. Este año queremos viajar más. Nos gustaría subir a Bilbao para ver si podemos movernos más por el Norte.</p>
 <p align="justify"><b>Alexandra:</b> Sí, poder movernos un poquito. Que nos de la empresa para eso [risas].</p>
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/culpass/showroom.jpg" alt="" /></a><sup><b>Entrada al Showroom de Las Culpass</b></sup>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/culpass/showroom.jpg" alt="" /><sup><b>Entrada al Showroom de Las Culpass</b></sup></a>
