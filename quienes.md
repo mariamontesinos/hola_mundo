@@ -7,10 +7,6 @@ title: Quiénes somos
 
 <div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://giphy.com/embed/EW7oIWlc3Nhyo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/maquinas-EW7oIWlc3Nhyo">via GIPHY</a></p> 
 
-<li><b>Equipo:</b></li> 
-María Montesinos. 1986. 
-Periodista especializada en innovación. 
-Mujer orquesta y murcianica de adopción desde hace más de una década. 
 
 
 
