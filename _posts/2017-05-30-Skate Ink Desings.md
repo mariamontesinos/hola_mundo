@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tinta plasmada en tu skate"
+title: "Tinta en tu skate"
 excerpt: "Skate Ink Desings es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje, en unas tablas que plasman lo mejor en tinta de algunos de los grandes artistas de la escena tattoo del país, y cuyos diseños además, han logrado cruzar el charco."
 image: skateportada.jpg
 categories: post
