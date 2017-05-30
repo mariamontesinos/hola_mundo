@@ -23,7 +23,7 @@ categories: post
 
 <b>¿Cómo es la dinámica de trabajo que entablas con los artistas del tattoo?</b>
 
-<p align="justify">Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden x número de unidades -lo habitual es que sean ediciones limitadas-, y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de <i>Exotic Tattoo</i>, <b>Jumilla Olivares</b> de <i>La Tinta que Habito</i>, <b>Hombre Arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.</p>
+<p align="justify">Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden "x" número de unidades -lo habitual es que sean ediciones limitadas-, y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de <i>Exotic Tattoo</i>, <b>Jumilla Olivares</b> de <i>La Tinta que Habito</i>, <b>Hombre Arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.</p>
 
 <span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil1.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
 
@@ -33,7 +33,7 @@ categories: post
 
 <b>A parte de los skates orientados al tatto tenéis una línea más ‘clásica’ que incluye skates con diseños de artistas como Caravaggio o Miguel Ángel… ¿qué fue antes?</b>
 
-<p align="justify">Primero fue el tattoo, de hecho lo habitual es que esté enfocado en ese mundo. Pero de vez en cuando también sacamos líneas con artistas más clásicos. Tenemos una gama de skates muy guapa con artistas como <b>Carravaggio</b>, <b>Boticelli</b>, <b>El Bosco</b> o <b>Miguel Ángel</b>.</p>  
+<p align="justify">Primero fue el tattoo, de hecho lo habitual es que esté enfocado en ese mundo. Pero de vez en cuando también sacamos líneas con artistas más clásicos. Tenemos una gama de skates muy guapa con diseños de <b>Carravaggio</b>, <b>Boticelli</b>, <b>El Bosco</b> o <b>Miguel Ángel</b>.</p>  
 
 <b>¿Cuáles crees que son los atributos que hacen que tu marca tenga alma?</b> 
 
@@ -47,7 +47,7 @@ categories: post
 
 <b>¿Tu proyecto esta inspirado en algún otro similar, quizá internacional?</b> 
 
-<p align="justify">No, ya te digo. Surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas, pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo pero lo que es el enfoque, es 100% mío. </p> 
+<p align="justify">No, ya te digo... surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas, pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo pero lo que es el enfoque es 100% mío. </p> 
 
 <span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil2.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
 
@@ -58,14 +58,14 @@ categories: post
 <b>¿Y de dónde provienen las tablas?</b> 
 <p align="justify">Bueno, las tablas vienen de fábrica. Las compramos a HLC, la mayor distribuidora Europea con sede en Irún. Son tablas originales, de la mayor calidad y <i>Made in Spain</i>.</p>  
 
-<b>¿A día de hoy, dónde las distribuís?</b> 
+<b>A día de hoy, ¿dónde las distribuís?</b> 
 <p align="justify">Pues depende mucho del tatuador, de los encargos que nos hagan y su procedencia. Hemos distribuido en casi toda Europa, Latinoamérica, y también en Australia y Nueva Zelanda.</p> 
 <span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/masskate.jpg" alt="" /><sup><b>Skates by Julio Medina</b></sup></span>
-<b>Me comentabas que tus tablas son mayoritariamente de exposición pero, ¿cómo es patinar una de las tabla hecha por Skate Ink Desings?</b> 
-<p align="justify">Pues solo ha sido patinada una en una ocasión. Fue el hijo de un amigo, un skater de la zona y nos confimó lo que ya sabíamos, que las tablas son 100% patinables. Van preparadas para ello. Pero claro, al ser un producto tan exclusivo lo habitual es que mis tablas acaben como exposición. Además, el precio es un poco más elevado como para patinarlas.</p>  
+<b>Me comentabas que tus tablas son mayoritariamente de exposición pero, ¿cómo es patinar una de las tablas hecha por Skate Ink Desings?</b> 
+<p align="justify">Pues solo ha sido patinada una en una ocasión. Fue el hijo de un amigo, un skater de la zona y nos confimó lo que ya sabíamos, que las tablas son 100% patinables. Van preparadas para ello. Pero claro, al ser un producto tan exclusivo lo habitual es que mis tablas acaben como exposición. Además, el precio es un poco más elevado como para 'destrozarla'.</p>  
 <b>Cualquiera pueda realizar con vosotros una tabla customizada, es decir, ¿Quién quiera puede mandaros el diseño y hacerse un skate propio?</b>
 
-<p align="justify">Sí, lo que si que exigimos es una cierta calidad en el diseño, en cuanto lo que es la resolución pero claro, cualquier persona puede tener su tabla personalizada. Además, pueden ser encargos de una sola unidad, y tener así un producto 100% exclusivo, no es necesario que se sean grandes packs.</p>  
+<p align="justify">Sí, lo que si que exigimos es una cierta calidad en el diseño, en cuanto a lo que es la resolución, pero claro, cualquier persona puede tener su tabla personalizada. Además, pueden ser encargos de una sola unidad, y tener así un producto 100% exclusivo, no es necesario que se sean grandes packs.</p>  
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/skate/pieskate.jpg" alt="" /></a> 
 

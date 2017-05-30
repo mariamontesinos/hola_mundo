@@ -29,7 +29,7 @@ categories: post
 
 <p align="justify"><b>Jero:</b> Yo si que estuve yendo a unas clases de canto porque me di cuenta de que cada vez que cantaba lo hacía de una manera distinta. Creo que fui unas seis o siete veces, hasta que me di cuenta de que valía mucho dinero y ahí fue cuando decidí que ya sabía cantar [risas].</p>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><sup><b>Disonaurios en concierto</b></sup></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/disonaurios/disonaurios2.jpg" alt="" /><sup><b>Disonaurios durante un concierto en Garaje Beat Club</b></sup></a>
 
 <p align="justify"><b>Torke:</b> Yo estudié percusión en el conservatorio. Tengo otro grupo, Lobos Humanos en el que llevo tocando la batería desde hace nueve años. Además también tengo un proyecto de versiones de los Operation Ivy pendiente, pero son muchas cosas y se hace lo que se puede.</p>
 

@@ -82,7 +82,7 @@ Lo más cercano a unos datos reales recabados que tenemos son los referentes a u
 
 Yo no puedo pedir visibilidad, normalización e igualdad de derechos y luego hacer mi propio mundo aparte. En un momento dado estaba justificado porque salías a la calle y podías morir por ello, o te metían a la cárcel. Yo ahí sólo puedo reconocer el mérito que tienen todos los travestis -o travelos como los llamaban en su momento- que salían a la calle y que estaban discriminados por tener pluma y ser amanerados, pero en realidad eran los que tenían un par de cojones para hacerlo con Franco gobernando. Venían los grises y los metían a la cárcel y hacían lo que querían con ellos. Ahora, son mariconas viejas. Lo digo como un insulto que se les da, no reconocemos que tuvieron mil veces más valor del que tengo yo antes de morirme. Por que a mí no me van a meter a la cárcel por maricón. Una de las cosas que queremos hacer es recuperar esa memoria histórica. La pluma de plata del año que viene queremos que vaya por ahí, en reconocer el valor y exigir la memoria histórica de las personas LGTBI del Franquismo que fueron las ultimas en salir de la cárcel. Cuando comenzaron a darse los indultos y a salir los presos políticos fueron las últimas personas en hacerlo, y en muchas ocasiones enviados a posteriori a campos de concentración, por ejemplo en Francia.</p>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/no te prives/was.jpg" alt="" /></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/no te prives/was.jpg" alt="" /></a> 
 
 **Volviendo ahora a un tema más desenfadado... ¿desde cuándo celebráis el Orgullo en Murcia?**
 
@@ -98,11 +98,11 @@ Yo no puedo pedir visibilidad, normalización e igualdad de derechos y luego hac
 
 **¿Y a quién la entregáis?**
 
-<p align="justify">Lo entregamos a personas, entidades que luchen o ayuden a la reivindicación que tiene el colectivo. El primer año se le dio a la Filmoteca Regional que ya lleva 12 años cediéndonos un espacio para la muestra de cine LGTBI. Deberíamos habérsela dado a el director de la Filmoteca, Ángel Cruz, que es quien la pone al servicio de todas las asociaciones. Él entiende que es un espacio público, en el que cualquier persona con unos fines lógicos que de un servicio a la comunidad puede utilizarlo.
+<p align="justify">Lo entregamos a personas, entidades que luchen o ayuden a la reivindicación que tiene el colectivo. El primer año se le dio a la <b>Filmoteca Regional</b> que ya lleva 12 años cediéndonos un espacio para la muestra de cine LGTBI. Deberíamos habérsela dado a el director de la Filmoteca, <b>Ángel Cruz</b>, que es quien la pone al servicio de todas las asociaciones. Él entiende que es un espacio público, en el que cualquier persona con unos fines lógicos que de un servicio a la comunidad puede utilizarlo.
 
 También se le dio al Ayuntamiento y fue muy criticado. Nos acusaron de peperos por darle la Pluma de Plata al Alcalde, cosa que no fue cierta. Fue para el Ayuntamiento de Murcia aunque su representante -que es el Alcalde- fue el que vino a recoger el premio… pero vamos a ver, hay que ser capaz de leerlo al revés ¿quién se ha hecho la foto con la Pluma de plata? Pues eso.
 
-Después de aquello se la dimos a Pedro Zerolo, que como ya estaba muy enfermo no pudo venir a recogerla, pero nos acogió en su casa en un acto que fue muy emotivo. En 2016 se la dimos a Carla Antonelli, y este año tengo el orgullo de dársela a Fernando Grande Marlasca que viene a recibirla aquí a Murcia.</p>
+Después de aquello se la dimos a <b>Pedro Zerolo</b>, que como ya estaba muy enfermo no pudo venir a recogerla, pero nos acogió en su casa en un acto que fue muy emotivo. En 2016 se la dimos a <b>Carla Antonelli</b>, y este año tengo el orgullo de dársela a <b>Fernando Grande Marlasca</b> que viene a recibirla aquí a Murcia.</p>
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/no te prives/zerolo2.jpg" alt="" /></a> 
 
