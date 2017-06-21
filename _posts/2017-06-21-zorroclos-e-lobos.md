@@ -76,9 +76,9 @@ categories: post
 
 <b>Y qué hay del Zorroclocos… ¿en qué momento decidís organizar vuestro propio festival de autoedición?</b>  
 
-<p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en <b>Tenderete</b>, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius</b> y yo. Magius es de Murcia y cada uno conocíamos el trabajo del otro pero no en persona. Allí fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa.</p>     
+<p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en <b>Tenderete</b>, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius</b> y yo. Magius es de Murcia y aunque cada uno conocíamos el trabajo del otro no nos conociamos en persona. Allí fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa.</p>     
 
-<p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con otro colega suyo montaron un festival llamado <b>Burundanga</b> en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron fueron sí asistieron como público. También estaba participando a <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos la Feria de Autoedición.</p>     
+<p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con otro colega suyo montaron un festival llamado <b>Burundanga</b> en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron fueron sí asistieron como público. También estaba participando a <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos con la Feria de Autoedición.</p>     
 
 <p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general como la ilustración.</p>     
 
