@@ -131,7 +131,7 @@ categories: post
 
 <p align="justify"><b>Ansia lánguida:</b> Son cosas que no te permite Internet.</p>     
 
-<p align="justify"><b>Fran: </b> Incluso una editorial tampoco te lo va a permitir porque saldría muy caro.</p>      
+<p align="justify"><b>Fran: </b> Incluso una editorial tampoco te lo va a permitir porque saldría muy caro...</p>      
 
 <p align="justify"><b>Ansia Lánguida: </b> A nosotros, en Ansia Lánguida era una de las cosas que más nos llamaba la atención, ese juego. Desde la misma portada, tu no puedes leer el texto si no te vas a un espejo. La autoedición es crear una experiencia.</p>      
 
@@ -139,12 +139,12 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> Tu empiezas haciendo fanzine de grapa y llega un momento en que buscas que tu fanzine sea un objeto en sí mismo.</p>      
 
-<p align="justify"><b>Godoy:</b> Aunque hay gente que sigue haciendo el clásico con grapas, La democratización de hoy que comentaba Akira hace que te plantees con más facilidad jugar con los formatos, lo que te lleva a explorar todas estas posibilidades.</p>      
+<p align="justify"><b>Godoy:</b> Aunque hay gente que sigue haciendo el clásico con grapas, la democratización de hoy que comentaba Akira hace que te plantees con más facilidad jugar con los formatos, lo que te lleva a explorar todas estas posibilidades.</p>      
 
 
 <b>¿Para cuándo la próxima edición del Zorroclocos?</b>  
 
-<p align="justify"><b>Godoy:</b>Tenemos que cerrar fechas pero en principio para noviembre, suele ser cada 6 meses. Así que para noviembre más menos, cae.</p>      
+<p align="justify"><b>Godoy:</b> Tenemos que cerrar fechas pero en principio para noviembre, suele ser cada 6 meses. Así que para noviembre más menos, cae.</p>      
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro1.jpg" alt="" /><sup>Foto: Facebook Zorroclocos E LOBOS</sup></a>
 
