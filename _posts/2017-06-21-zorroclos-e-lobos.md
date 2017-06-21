@@ -38,7 +38,6 @@ categories: post
 <p align="justify"><b>Ansia Lánguida:</b> Por aquel entonces a eso se le llamaba procine. Les llamábamos así, y de hecho, había cierta reticencia ya que era considerado demasiado “guay”. </p>    
 
 <p align="justify"><b>Godoy:</b> Yo recuerdo participar en un fanzine de Manu Riquelme, que todavía lo hacía fotocopiado, recortando y pegando, y volviendo a fotocopiar, que es como se hacían en un principio. Eso es lo que digamos que la gente más ‘pureta’ entiende como fanzine.</p>   
-
 <p align="justify">Como decía Akira, ahora mismo son fronteras muy difusas, porque en la práctica es muy raro que hagas un fanzine en fotocopia hoy día. Lo normal es que vayas a una copistería. Al final se trata de algo que te hayas pagado tu de tu bolsillo.</p>
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro5.jpg" alt="" /><sup>Foto: Isidoro Puerta</sup></a>
@@ -49,7 +48,7 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <i>Momic</i>.</p>   
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></a><sup>Foto: Zorroclocos E LOBOS</sup></a> 
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></a><sup>Foto: Zorroclocos E LOBOS</sup> 
 
 
 <b>¿Qué es el Momic?</b> 
