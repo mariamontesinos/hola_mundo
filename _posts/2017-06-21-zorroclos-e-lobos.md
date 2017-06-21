@@ -146,5 +146,5 @@ categories: post
 
 <p align="justify"><b>Godoy:</b>Tenemos que cerrar fechas pero en principio para noviembre, suele ser cada 6 meses. Así que para noviembre más menos, cae.</p>      
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro1.jpg" alt="" /><sup>Foto: Zorroclocos E LOBOS</sup></a>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro1.jpg" alt="" /><sup>Foto: Facebook Zorroclocos E LOBOS</sup></a>
 
