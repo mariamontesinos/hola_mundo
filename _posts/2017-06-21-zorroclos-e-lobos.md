@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Zorroclocos E LOBOS"
-excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
+excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban a dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
 image: zorroportada.jpg
 categories: post
 ---
 
-<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
+<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban a dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
 
 <p align="justify">Nos reunimos con <a href= "http://javigodoy.com/"><b>Godoy</b></a>, <a href= "http://www.akirasanz.com/"><b>Akira Sanz</b></a>, <a href= "http://tbomuybien.blogspot.com.es/?zx=73ed102810e78a29"><b>Fran Sythe</b></a> y, <a href= "https://www.facebook.com/ansialanguida/"><b>Ansia Lánguida</b></a>, cuatro de los integrantes del Zorroclocos, que junto con <a href= "http://fogcomix.wixsite.com/magius"><b>Magius</b></a>, <a href= "http://satanlovesdoctorzombie.tumblr.com/"><b>Dr.Zombie</b></a>, <a href= "http://rodeorodenas.tumblr.com/"><b>Rodeo Ródenas</b></a> y <a href= "http://nastyfranky.tumblr.com/"><b>Nasty Franky</b></a> forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y sobre el origen de la feria de Autoedición de la Región de Murcia.</p>   
 
@@ -31,7 +31,7 @@ categories: post
 
 <b>¿Qué diferencia un fanzine de una publicación digamos más profesional? 
 
-<p align="justify"><b>Godoy:</b> Se suele distinguir entre si magazine es una revista profesional, fanzine es una revista amateur, hecha por fans.</p>   
+<p align="justify"><b>Godoy:</b> Se podría decir que un magazine es una revista profesional y un fanzine una revista amateur, hecha por fans.</p>   
 
 <p align="justify"><b>Akira Sanz:</b> Ahora mismo esa línea es un poco difusa. Gracias a la tecnología, hay una democratización de la impresión. Hay cosas que ves rollo fanzines “entre comillas” que son de tapa dura, a color, con encuadernación y lomo…</p>    
 
@@ -49,7 +49,8 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <i>Momic</i>.</p>   
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></a> 
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></a><sup>Foto: Zorroclocos E LOBOS</sup></a> 
+
 
 <b>¿Qué es el Momic?</b> 
 
