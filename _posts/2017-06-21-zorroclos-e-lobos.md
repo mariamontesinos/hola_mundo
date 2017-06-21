@@ -55,7 +55,7 @@ categories: post
 
 <p align="justify"><b>Ansia Lánguida:</b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabó convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
 
-<p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <i>Momic</i>. Primero sacamos unos números, después se dejo parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
+<p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <i>Momic</i>. Primero sacamos unos números, después se dejó parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
 
 <p align="justify"><b>Ansia Lánguida:</b> Era tan grande que ni cerraba…Yo estoy convencido de que si eso saliera ahora Murcia explotaba, ¿60 páginas por 1€? Con toda la mierda que había ahí…</p>  
 
@@ -63,13 +63,13 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> Lo cierto es que era muy diferente todo, un cajón de sastre lleno de contenidos.</p>   
 
-<b>Para los que no lo hemos conocido, qué clase de contenidos podías encontrar en el Momic?</b> 
+<b>¿Para los que no lo hemos conocido, qué clase de contenidos podías encontrar en el Momic?</b> 
 
-<p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el tipo de humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <i>Momic</i>, era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra. Te puedes imaginar todo lo que había ahí metido…</p>   
+<p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el tipo de humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <i>Momic</i> era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra…</p>   
 
 <p align="justify"><b>Akira Sanz:</b> Lo mejor era que gente nos preguntaba que cuando íbamos a sacar el siguiente. ¡Era auténtica diarrea mental!</p>    
 
-<p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos pero no estaba tan de moda. No lo digo como una crítica, sino que tu entras al mundo del fanzine festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. A día de hoy, el fanzine ya aparece en publicaciones como <i>Mondosonoro</i>, <i>PlayGround</i> o <i>Vice</i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros era una macarrada.</p>    
+<p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos, no estaba tan de moda. No lo digo como una crítica, sino que tú entras al mundo del fanzine y ya existen festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. A día de hoy, el fanzine ya aparece en publicaciones como <i>Mondosonoro</i>, <i>PlayGround</i> o <i>Vice</i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros era una macarrada.</p>    
 
 <p align="justify"><b>Ansia Lánguida:</b> Un fanzine cubre una necesidad. Ya sea a nivel individual para darte a conocer o enseñar tu material, o bien a nivel colectivo para cubrir esa necesidad de hacer cosas con tus colegas y acabar dándoles forma. Y eso fue lo que pasó.</p>    
 
