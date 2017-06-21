@@ -97,12 +97,12 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que siendo autoedición, que sean cosas alternativas y que se salgan cosas de la corriente principal.</p>      
 
-<p align="justify"><b>Akira Sanz: </b> Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia que pese a la diversidad la envuelve e un mismo hilo conductor.</p>       
+<p align="justify"><b>Akira Sanz: </b> Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia, que pese a la diversidad de artistas la envuelve con un mismo hilo conductor.</p>       
 
 <b>¿Y el nombre Zorroclocos E LOBOS de dónde viene?</b>  
 
-<p align="justify"><b>Godoy:</b> Fue idea de Magius, el es muy fan del fólcrore Murciano, es un termino que significa ‘día en el cualo no se trabaja ná’, o sea, un día de fiesta. Y también tiene una connotación de un personaje pícaro, en fin… por la cosa del autoeditor, sería un personaje que se lo guisa y se lo come, al margen de la corriente principal.</p>      
-
+<p align="justify"><b>Godoy:</b> Fue idea de <b>Magius</b>, el es muy fan del fólcrore Murciano, es un termino que significa ‘día en el cualo no se trabaja ná’, o sea, un día de fiesta. Y también tiene una connotación de un personaje pícaro, en fin… por la cosa del autoeditor, sería un personaje que se lo guisa y se lo come, al margen de la corriente principal.</p>      
+     
 <b>¿Cuál  diríais que es la filosofía de la autoedición?</b>
 
 <p align="justify"><b>Fran:</b> Es un término que tiene cierta ambigüedad hoy en día, ¿qué es autoedición? ¿el que se ha hecho el fanzine entero o el que lo ha llevado a una imprenta ya no lo consideramos autoedición por que no lo ha impreso el mismo? Es un término que da mucho juego. </p>      
