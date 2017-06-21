@@ -17,13 +17,13 @@ categories: post
 
 <p align="justify"><b>Akira Sanz: </b> Los salones que se montan en España, al igual que los que tienen lugar aquí en Murcia, como podría ser el Salón del Manga, se montan para recaudar pasta. Y lo que da pasta es que venga un artista que vende muñecos u otro tipo de merchan que tengan tirón y que te pague. Incluso hay libros de tebeo que pasan de ir a esos salones porque no les sale a cuento.</p>   
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorrocartel.jpg" alt="" /><span>Cartel del Zorroclos E LOBOS 6</b></sup></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorrocartel.jpg" alt="" /><sup>Cartel del Zorroclos E LOBOS 6</sup>
 
 <b>¿Qué requisitos tiene que tener una publicación para ser considerada un Fanzine? </b> 
 
-<p align="justify"><b>Godoy:</b>El Fanzine puede ser un comic, puede ser ilustración, político, agenda cultural (o contracultural) como es el caso del fanzine local ‘Murcia Tropical’… Depende de con quien hables puede enfocarlo más en una cosa u otra. El fanzine es un continente y puede abarcar cualquier contenido. </p>    
+<p align="justify"><b>Godoy:</b> El Fanzine puede ser un comic, puede ser ilustración, político, agenda cultural (o contracultural) como es el caso del fanzine local ‘Murcia Tropical’… Depende de con quien hables puede enfocarlo más en una cosa u otra. El fanzine es un continente y puede abarcar cualquier contenido. </p>    
 
-<p align="justify"><b>Akira Sanz:</b>Un fanzine puede ser de poesía, literatura, una mezcla de todas las cosas…</p>   
+<p align="justify"><b>Akira Sanz:</b> Un fanzine puede ser de poesía, literatura, una mezcla de todas las cosas…</p>   
 
 <b>¿Sería un formato que lo admite todo? </b>
 
@@ -49,13 +49,13 @@ categories: post
 
 <p align="justify"><b>Godoy:</b>En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <b>Momic</b>.</p>   
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /><<span> 
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></a> 
 
 <b>¿Qué es el Momic?</b> 
 
-<p align="justify"><b>Ansia Lánguida: </b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabo convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
+<p align="justify"><b>Ansia Lánguida:</b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabo convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
 
-<p align="justify"><b>Godoy: </b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <b>Momic</b>. Primero sacamos unos números, después se dejo parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
+<p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <b>Momic</b>. Primero sacamos unos números, después se dejo parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
 
 <p align="justify"><b>Ansia Lánguida:</b> Era tan grande que ni cerraba…Yo estoy convencido de que si eso saliera ahora Murcia explotaba, ¿60 páginas por 1€? Con toda la mierda que había ahí…</p>  
 
@@ -110,7 +110,7 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger. </p>   
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><<span>   
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><sup><b>Foto: Isidoro Puerta</b></sup></a>   
 
 <b>¿Por qué seguís editando en papel?</b>  
 
