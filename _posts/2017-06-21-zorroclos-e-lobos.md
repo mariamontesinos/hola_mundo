@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Zorroclocos E LOBOS"
-excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
+excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
 image: zorroportada.jpg
 categories: post
 ---
 
-<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <b>Zorroclocos E LOBOS</b>.</p>  
+<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <b>Zorroclocos E LOBOS</b>.</p>  
 
 <p align="justify">Nos reunimos con Godoy, Akira Sanz, Fran Scythe y Ansia Lánguida, cuatro de los integrantes del Zorroclocos, que junto con Magius, Dr.Zombie, Rodeo Ródenas y Nasty Franky forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y el momento actual en el que se encuentra la feria de Autoedición de la Región de Murcia.</p>   
 
