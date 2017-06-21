@@ -93,21 +93,21 @@ categories: post
 
 <p align="justify"><b>Ansia Lánguida:</b> Cada uno vota según como entienda la autoedición y así es como salen los paricipantes.</p>      
 
-<p align="justify"><b>Fran:</b> A veces no es que te comas la cabeza pensando como quiere que sea el festival, es simplemente que ves algo que te gusta y quieres que entre. </p>      
+<p align="justify"><b>Fran:</b> A veces no es que te comas la cabeza pensando como quieres que sea el festival, es simplemente que ves algo que te gusta y quieres que entre. </p>      
 
-<p align="justify"><b>Godoy:</b> El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que siendo autoedición, que sean cosas alternativas y que se salgan cosas de la corriente principal.</p>      
+<p align="justify"><b>Godoy:</b> El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que aún siendo autoedición, sean cosas alternativas y que se salgan de la corriente principal.</p>      
 
 <p align="justify"><b>Akira Sanz: </b> Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia, que pese a la diversidad de artistas la envuelve con un mismo hilo conductor.</p>       
 
 <b>¿Y el nombre Zorroclocos E LOBOS de dónde viene?</b>  
 
-<p align="justify"><b>Godoy:</b> Fue idea de <b>Magius</b>, el es muy fan del fólcrore Murciano, es un termino que significa ‘día en el cualo no se trabaja ná’, o sea, un día de fiesta. Y también tiene una connotación de un personaje pícaro, en fin… por la cosa del autoeditor, sería un personaje que se lo guisa y se lo come, al margen de la corriente principal.</p>      
+<p align="justify"><b>Godoy:</b> Fue idea de <b>Magius</b>, él es muy fan del fólcrore murciano, es un termino que significa ‘día en el cualo no se trabaja ná’, o sea, un día de fiesta. Y también tiene una connotación de un personaje pícaro, en fin… por la cosa del autoeditor, sería un personaje que se lo guisa y se lo come, al margen de la corriente principal.</p>      
      
 <b>¿Cuál  diríais que es la filosofía de la autoedición?</b>
 
-<p align="justify"><b>Fran:</b> Es un término que tiene cierta ambigüedad hoy en día, ¿qué es autoedición? ¿el que se ha hecho el fanzine entero o el que lo ha llevado a una imprenta ya no lo consideramos autoedición por que no lo ha impreso el mismo? Es un término que da mucho juego. </p>      
+<p align="justify"><b>Fran:</b> Es un término que tiene cierta ambigüedad hoy en día, ¿qué es autoedición? ¿el qué se ha hecho el fanzine entero o el que lo ha llevado a una imprenta ya no lo consideramos autoedición por qué no lo ha impreso el mismo? Es un término que da mucho juego. </p>      
 
-<p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el DIY o hazlo tu mismo. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos y más en este país, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
+<p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el <i>DIY</i> o 'Hazlo tú mismo'. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos y más en este país, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
 
 <p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger.</p>   
 
