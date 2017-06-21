@@ -1,74 +1,149 @@
 ---
 layout: post
-title: "Tinta en tu skate"
-excerpt: "Skate Ink Desings es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje, en unas tablas que plasman lo mejor en tinta de algunos de los grandes artistas de la escena tattoo del país, y cuyos diseños además, ya han cruzado el charco."
-image: skateportada.jpg
+title: "Zorroclocos E LOBOS"
+excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de <b>Zorroclocos E LOBOS</b>."
+image: zorroportada.jpg
 categories: post
 ---
 
-<p align="justify"><b>Skate Ink Desings</b> es una marca <i>Made in Murcia</i> que se dedica al diseño customizado de tablas de skate. Hasta aquí, podría tratarse de un proyecto emprendedor cualquiera sino fuese por que han dado con una tecla que antes nadie había tocado: aunar dos mundos hermanados como son el skate y el tatuaje en unas tablas que plasman lo mejor en tinta de algunos de los grandes artistas de la escena tattoo del país, y cuyos diseños además, ya han cruzado el charco.</p> 
-  
-<b>¿Cuánto tiempo lleva rodando Skate Ink Desings?</b> 
+<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <b>Zorroclocos E LOBOS</b>.</p>  
 
-<p align="justify">Skate Ink Desing nace en septiembre de 2016, cuando me encargan preparar unas tablas para unos amigos, artistas del tattoo, que querían mostrar en la Expo de tatuajes de Barcelona de ese mismo año.</p> 
+<p align="justify">Nos reunimos con Godoy, Akira Sanz, Fran Scythe y Ansia Lánguida, cuatro de los integrantes del Zorroclocos, que junto con Magius, Dr.Zombie, Rodeo Ródenas y Nasty Franky forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y el momento actual en el que se encuentra la feria de Autoedición de la Región de Murcia.</p>   
 
-<b>Y cómo surge la idea de montarte ya como marca especializada en este tipo de diseños?</b>
 
-<p align="justify">Todo vino, porque yo ya colaboraba con una persona que se dedicaba al diseño personalizado de tablas. Por cosas del destino, esa colaboración terminó y decidí -con la ayuda y el apoyo de un colega, <b>Myrhwan</b>, que me animó a que no dejara de hacerlo-, enfocarlo directamente al mundo del tatuaje y el arte.</p> 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/juanan.jpg" alt="" /><sup><b>Juanan con algunos de los diseños</b></sup></span>
+<b>¿Por qué decidís montar un festival de autoedición? </b> 
 
-<b>¿Todo el trabajo corre a tu cargo?</b> 
+<p align="justify"><b>Godoy:</b> Bueno, estos festivales los solemos montar la gente que hacemos cosas que por economía y por espíritu no vemos que tengamos cabida en otro sitio. </p>    
 
-<p align="justify">Lo cierto es que no. Tengo un amigo de toda la vida que es el diseñador gráfico. Él se encarga de los montajes virtuales y del encaje de los diseños.</p> 
+<p align="justify"><b>Akira Sanz: </b> Los salones que se montan en España, al igual que los que tienen lugar aquí en Murcia, como podría ser el Salón del Manga, se montan para recaudar pasta. Y lo que da pasta es que venga un artista que vende muñecos u otro tipo de merchan que tengan tirón y que te pague. Incluso hay libros de tebeo que pasan de ir a esos salones porque no les sale a cuento.</p>   
 
-<b>¿Cómo es la dinámica de trabajo que entablas con los artistas del tattoo?</b>
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorrocartel.jpg" alt="" /><sup><b>Cartel del Zorroclos E LOBOS 6</b></sup></span>
 
-<p align="justify">Bueno, yo trabajo de dos formas: a veces recibo encargos por parte de los tatuadores que me piden "x" número de unidades -lo habitual es que sean ediciones limitadas-, y por otra parte, tengo mis colaboradores: <b>Myrhwan</b> de <i>Exotic Tattoo</i>, <b>Jumilla Olivares</b> de <i>La Tinta que Habito</i>, <b>Hombre Arrugado</b> de Madrid, <b>Raúl Moreno Coslado</b> de BCN, <b>Víctor Chil</b>… además de otros artistas que me estoy dejando en el tintero.</p>
+<b>¿Qué requisitos tiene que tener una publicación para ser considerada un Fanzine? </b> 
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil1.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
+<p align="justify"><b>Godoy:</b>El Fanzine puede ser un comic, puede ser ilustración, político, agenda cultural (o contracultural) como es el caso del fanzine local ‘Murcia Tropical’… Depende de con quien hables puede enfocarlo más en una cosa u otra. El fanzine es un continente y puede abarcar cualquier contenido. </p>    
 
-<b>¿Hay algún colaborador murciano?</b> 
+<p align="justify"><b>Akira Sanz:</b>Un fanzine puede ser de poesía, literatura, una mezcla de todas las cosas…</p>   
 
-<p align="justify">Sí, en la web tenemos disponible la colección del <b>Ganga</b>, que es un tatuador murciano que se dedica al realismo en blanco y negro. Y sí, claro, el también es colaborador de <b>Skate Ink Desing</b></p> 
+<b>¿Sería un formato que lo admite todo? </b>
 
-<b>A parte de los skates orientados al tatto tenéis una línea más ‘clásica’ que incluye skates con diseños de artistas como Caravaggio o Miguel Ángel… ¿qué fue antes?</b>
+<p align="justify"><b>Godoy:</b> Sí, el fanzine es un continente, en él cabe cualquier tipo de arte o de expresión.</p>    
 
-<p align="justify">Primero fue el tattoo, de hecho lo habitual es que esté enfocado en ese mundo. Pero de vez en cuando también sacamos líneas con artistas más clásicos. Tenemos una gama de skates muy guapa con diseños de <b>Carravaggio</b>, <b>Boticelli</b>, <b>El Bosco</b> o <b>Miguel Ángel</b>.</p>  
+<b>¿Qué diferencia un fanzine de una publicación digamos más profesional? 
 
-<b>¿Cuáles crees que son los atributos que hacen que tu marca tenga alma?</b> 
+<p align="justify"><b>Godoy:</b> Se suele distinguir entre si magazine es una revista profesional, fanzine es una revista amateur, hecha por fans.</p>   
 
-<p align="justify">Es algo bastante novedoso. El skate siempre ha estado vinculado con el mundo del tatuaje y hasta día de hoy no existe mucha gente que se haya dedicado a orientar el skate a mundo del tattoo y fusionarlo de esta manera. Yo creo que eso es lo que hace que <b>Skate Ink Desings</b> este teniendo tan buena aceptación.</p> 
+<p align="justify"><b>Akira Sanz:</b> Ahora mismo esa línea es un poco difusa. Gracias a la tecnología, hay una democratización de la impresión. Hay cosas que ves rollo fanzines “entre comillas” que son de tapa dura, a color, con encuadernación y lomo…</p>    
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/skate1.jpg" alt="" /><sup><b>Skates by Skate Ink Desings</b></sup></span>
+<p align="justify"><b>Ansia Lánguida:</b> Por aquel entonces a eso se le llamaba procine. Les llamábamos así, y de hecho, había cierta reticencia ya que era considerado demasiado “guay”. </p>    
 
-<b>Vuestros skates, son más una línea de exposición que de tabla para patinar, ¿cierto?</b>
+<p align="justify"><b>Godoy:</b> Yo recuerdo participar en un fanzine de Manu Riquelme, que todavía lo hacía fotocopiado, recortando y pegando, y volviendo a fotocopiar, que es como se hacían en un principio. Eso es lo que digamos que la gente más ‘pureta’ entiende como fanzine.</p>   
 
-<p align="justify">Sí. Las tablas se pueden patinar 100% pero normalmente mis tablas van a parar a alguna pared de algún estudio de tatuaje, negocio, casa… son para exposición. Sirven como elemento decorativo mayoritariamente.</p>  
+<p align="justify">Como decía Akira, ahora mismo son fronteras muy difusas, porque en la práctica es muy raro que hagas un fanzine en fotocopia hoy día. Lo normal es que vayas a una copistería. Al final se trata de algo que te hayas pagado tu de tu bolsillo.</p>
 
-<b>¿Tu proyecto esta inspirado en algún otro similar, quizá internacional?</b> 
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro5.jpg" alt="" /><sup><b>Foto: Isidoro Puerta</b></sup></a>
 
-<p align="justify">No, ya te digo... surge de el anterior trabajo en el que estuve colaborando con esta persona que se dedicaba al tema de customizar tablas, pero nada que ver con el mundo del tatuaje. Se puede decir que la idea me la aportó ese periodo, pero lo que es el enfoque es 100% mío. </p> 
+<b>¿Cuál fue vuestra primera publicación?</b>
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/skate/chil2.jpg" alt="" /><sup><b>Diseño por Víctor Chil</b></sup></span>
+<p align="justify"><b>Ansia Lánguida:</b> Nosotros nos juntábamos para dibujar, beber y fumar canutos. Nuestra primera publicación empezó a raíz de un momento en el que los colegas se separaban, muchos se iban a Barcelona a vivir… y en el que decidimos hacer un blog dónde volcar nuestras movidas. De ahí surgió todo.</p>  
 
-<b>¿Entonces tu negocio es único en el territorio nacional?</b> 
-<p align="justify">Así es, no hay nadie que lo haga o por lo menos que yo sepa hasta el día de hoy.</p>  
-<b>¿La producción se queda en Murcia?</b>
-<p align="justify">Sí, las tablas están hechas una a una. Son hechas a mano. Por lo tanto la producción se queda en Murcia.</p>  
-<b>¿Y de dónde provienen las tablas?</b> 
-<p align="justify">Bueno, las tablas vienen de fábrica. Las compramos a HLC, la mayor distribuidora Europea con sede en Irún. Son tablas originales, de la mayor calidad y <i>Made in Spain</i>.</p>  
+<p align="justify"><b>Godoy:</b>En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <b>Momic</b>.</p>   
 
-<b>A día de hoy, ¿dónde las distribuís?</b> 
-<p align="justify">Pues depende mucho del tatuador, de los encargos que nos hagan y su procedencia. Hemos distribuido en casi toda Europa, Latinoamérica, y también en Australia y Nueva Zelanda.</p> 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/skate/masskate.jpg" alt="" /><sup><b>Skates by Julio Medina</b></sup></span>
-<b>Me comentabas que tus tablas son mayoritariamente de exposición pero, ¿cómo es patinar una de las tablas hecha por Skate Ink Desings?</b> 
-<p align="justify">Pues solo ha sido patinada una de ellas en una ocasión. Fue el hijo de un amigo, un skater de la zona y nos confimó lo que ya sabíamos, que las tablas son 100% patinables. Van preparadas para ello. Pero claro, al ser un producto tan exclusivo lo habitual es que mis tablas acaben como exposición. Además, el precio es un poco más elevado como para 'destrozarlas'.</p>  
-<b>Cualquiera puede realizar con vosotros una tabla customizada, es decir, ¿quién quiera puede mandaros el diseño y hacerse un skate propio?</b>
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></span>
 
-<p align="justify">Sí, lo que si que exigimos es una cierta calidad en el diseño, en cuanto a lo que es la resolución, pero claro, cualquier persona puede tener su tabla personalizada. Además, pueden ser encargos de una sola unidad, y tener así un producto 100% exclusivo, no es necesario que se sean grandes packs.</p>  
+<b>¿Qué es el Momic?</b> 
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/skate/pieskate.jpg" alt="" /></a> 
+<p align="justify"><b>Ansia Lánguida: </b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabo convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
 
-<b>Para más información consulta su web:</b> 
-<a href= " http://skateinkdesigns.com/es/">http://skateinkdesigns.com/es/</a>
+<p align="justify"><b>Godoy: </b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <b>Momic</b>. Primero sacamos unos números, después se dejo parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
+
+<p align="justify"><b>Ansia Lánguida:</b> Era tan grande que ni cerraba…Yo estoy convencido de que si eso saliera ahora Murcia explotaba, ¿60 páginas por 1€? Con toda la mierda que había ahí…</p>  
+
+<p align="justify"><b>Godoy:</b> Lo bueno que tuvo el <b>Momic</b>, es que nos soltamos mucho. Había de todo: dibujo, tebeo… era un fanzine muy de letra, narrativo y de chiste. No solo de ilustración sin más. </p>   
+
+<p align="justify"><b>Akira Sanz:</b> Lo cierto es que era muy diferente todo, un cajón de sastre lleno de contenidos.</p>   
+
+<b>Para los que no lo hemos conocido, qué clase de contenidos podías encontrar en el Momic?</b> 
+
+<p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el tipo de humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <b>Momic</b>, era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra. Te puedes imaginar todo lo que había ahí metido…</p>   
+
+<p align="justify"><b>Akira Sanz:</b> Lo mejor era que gente nos preguntaba que cuando íbamos a sacar el siguiente. ¡Era auténtica diarrea mental!</p>    
+
+<p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos pero no estaba tan de moda. No lo digo como una crítica, sino que tu entras al mundo del fanzine festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. A día de hoy, el fanzine ya aparece en publicaciones como <i>Mondosonoro/i>, <i>PlayGround/i> o <i>Vice/i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros era una macarrada.</p>    
+
+<p align="justify"><b>Ansia Lánguida: Un fanzine cubre una necesidad. Ya sea a nivel individual para darte a conocer o enseñar tu material, o bien a nivel colectivo para cubrir esa necesidad de hacer cosas con tus colegas y acabar dándoles forma. Y eso fue lo que pasó.</p>    
+
+
+<b>Y qué hay del Zorroclocos… ¿en qué momento decidís organizar vuestro propio festival de autoedición?</b>  
+
+<p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en Tenderete, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius y yo. Magius es de Murcia y cada uno conocíamos el trabajo de el otro pero no en persona. Allí, fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa. </p>     
+
+<p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con  otro colega suyo montaron un festival llamado Burundanga en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron fueron sí asistieron como público. También estaba participando a <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos la Feria de Autoedición. </p>     
+
+<p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general.</p>     
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen></iframe><sup>La sexta edición de la Feria de Autoedición de Murcia</sup>
+
+<b>¿Cuales son los requisitos para entrar en el Zorroclocos?</b>
+
+<p align="justify"><b>Godoy:</b> Lo que nos interesa es que prime el concepto de autoedición. La norma general es que no entre nadie que no tenga Fanzine.</p>     
+
+<p align="justify"><b>Akira Sanz:</b> Cada uno cuando se hacen las votaciones, cada uno tiene en mente como quiere que sea el festival.</p>      
+
+<p align="justify"><b>Ansia Lánguida:</b> Cada uno como entiende la autoedición y según eso se vota y sale la gente.</p>      
+
+<p align="justify"><b>Fran:</b>  A veces no es que te comas la cabeza pensando como quiere que sea el zorroclocos, es simplemente que ves algo que te gusta y quieres que entre. </p>      
+
+<p align="justify"><b>Godoy: </b>  El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que siendo autoedición, que sean cosas alternativas y que se salgan cosas de la corriente principal.</p>      
+
+<p align="justify"><b>Akira Sanz: </b>  Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia que pese a la diversidad la envuelve e un mismo hilo conductor.</p>       
+
+<b>¿Y el nombre Zorroclocos E LOBOS de dónde viene? </b>  
+
+<p align="justify"><b>Godoy: </b> Fue idea de Magius, el es muy fan del fólcrore Murciano, es un termino que significa ‘día en el cualo no se trabaja ná’, o sea, un día de fiesta. Y también tiene una connotación de un personaje pícaro, en fin… por la cosa del autoeditor, sería un personaje que se lo guisa y se lo come, al margen de la corriente principal.</p>      
+
+<b>¿Cuál  diríais que es la filosofía de la autoedición?</b>
+
+<p align="justify"><b>Fran:</b> Es un término que tiene cierta ambigüedad hoy en día, ¿qué es autoedición? ¿el que se ha hecho el fanzine entero o el que lo ha llevado a una imprenta ya no lo consideramos autoedición por que no lo ha impreso el mismo? Es un término que da mucho juego. </p>      
+
+<p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el DIY o hazlo tu mismo. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos y más en este país, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
+
+<p align="justify"><b>Akira Sanz: </b>La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger. </p>   
+
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /></span>   
+
+<b>¿Por qué seguís editando en papel?</b>  
+
+<p align="justify"><b>Godoy:</b> Es interesante porque es una época en la que todos esos contenidos podrían estar en Internet pero a nosotros nos apetece tenerlos en físico. Es para un publico que esta interesado en el papel. Yo en mi caso hasta que no lo veo en papel y grapa, no tengo la sensación de haberlo terminado. </p>      
+
+<p align="justify"><b>Akira Sanz:</b> Todos venimos del formato físico. Nos hemos criado con eso. Nos gusta tocar la textura del papel cuando leemos, ir de adelante para atrás… la experiencia que te da el papel. </p>      
+
+<p align="justify"><b>Ansia Lánguida:</b> La autoedición va por ahí, cubres la necesidad de enseñar tu material, pero a parte entiendes como fin último de ese material que sea una cosa tangible. </p>      
+
+<p align="justify"><b>Fran:</b> Para mi, el fin último es la feria dónde ya acabas de compartir ese trabajo una vez finalizado.</p>      
+
+<b>¿Cuál es el valor añadido que da el papel a un seguidor del fanzine?</b>
+
+<p align="justify"><b>Akira Sanz:</b> El papel admite todo tipo de formatos.</p>      
+
+<p align="justify"><b>Godoy:</b> Si tu tienes un fanzine pensado, como el que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra. El tipo del papel, el formato, si es cuadrado, apaisado… jugar con el formato de tal manera, que tu cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
+
+<p align="justify"><b>Ansia lánguida:</b> Son cosas que no te permite Internet. </p>     
+
+<p align="justify"><b>Fran: </b> Incluso una editorial tampoco te lo va a permitir porque saldría muy caro.</p>      
+
+<p align="justify"><b>Ansia Lánguida: </b> A nosotros, en Ansia Lánguida era una de las cosas que más nos llamaba la atención, ese juego. Desde la misma portada, tu no puedes leer el texto si no te vas a un espejo. La autoedición es crear una experiencia.</p>      
+
+<p align="justify"><b>Godoy:</b> Hay otros fanzines que son desplegables y depende de cómo lo pongas coinciden unas imágenes con otras. No es un mero coger lo que hay en la pantalla e imprimirlo, sino que se juega con el formato.</p>      
+
+<p align="justify"><b>Akira Sanz:</b> Tu empiezas haciendo fanzine de grapa y llega un momento en que buscas que tu fanzine sea un objeto en sí mismo.</p>      
+
+<p align="justify"><b>Godoy:</b> Aunque hay gente que sigue haciendo el clásico con grapas, La democratización de hoy que comentaba Akira hace que te plantees con más facilidad jugar con los formatos, lo que te lleva a explorar todas estas posibilidades.</p>      
+
+
+<b>¿Para cuándo la próxima edición del Zorroclocos?</b>  
+
+<p align="justify"><b>Godoy:</b>Tenemos que cerrar fechas pero en principio para noviembre, suele ser cada 6 meses. Así que para noviembre más menos, cae.</p>      
+
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro1.jpg" alt="" /><sup><b>Foto: Zorroclocos E LOBOS</b></sup></a>
 
