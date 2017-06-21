@@ -82,7 +82,7 @@ categories: post
 
 <p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general.</p>     
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen><sup>La sexta edición de la Feria de Autoedición de Murcia</sup></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen><sup>La sexta edición de la Feria de Autoedición de Murcia</sup></iframe>
 
 <b>¿Cuales son los requisitos para entrar en el Zorroclocos?</b>
 
