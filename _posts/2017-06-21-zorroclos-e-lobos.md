@@ -44,16 +44,16 @@ categories: post
 
 <b>¿Cuál fue vuestra primera publicación?</b>
 
-<p align="justify"><b>Ansia Lánguida:</b> Nosotros nos juntábamos para dibujar, beber y fumar canutos. Nuestra primera publicación empezó a raíz de un momento en el que los colegas se separaban, muchos se iban a Barcelona a vivir… y en el que decidimos hacer un blog dónde volcar nuestras movidas. De ahí surgió todo.</p>  
+<p align="justify"><b>Ansia Lánguida:</b> Nosotros nos juntábamos para dibujar, beber y fumar canutos. Nuestra primera publicación empezó a raíz de un momento en el que los colegas se separaban, muchos se iban a Barcelona a vivir… y en el que decidimos hacer un blog donde volcar nuestras movidas. De ahí surgió todo.</p>  
 
-<p align="justify"><b>Godoy:</b> En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <i>Momic</i>.</p>   
+<p align="justify"><b>Godoy:</b> En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material fue cuando decidimos seleccionarlo y sacarlo, así surgió el <i>Momic</i>.</p>   
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /><sup>Foto: Zorroclocos E LOBOS</sup></a> 
 
 
 <b>¿Qué es el Momic?</b> 
 
-<p align="justify"><b>Ansia Lánguida:</b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabo convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
+<p align="justify"><b>Ansia Lánguida:</b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabó convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
 
 <p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <i>Momic</i>. Primero sacamos unos números, después se dejo parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
 
