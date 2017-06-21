@@ -65,7 +65,7 @@ categories: post
 
 <b>Para los que no lo hemos conocido, qué clase de contenidos podías encontrar en el Momic?</b> 
 
-<p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el tipo de humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <b>Momic</b>, era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra. Te puedes imaginar todo lo que había ahí metido…</p>   
+<p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el tipo de humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <i>Momic</i>, era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra. Te puedes imaginar todo lo que había ahí metido…</p>   
 
 <p align="justify"><b>Akira Sanz:</b> Lo mejor era que gente nos preguntaba que cuando íbamos a sacar el siguiente. ¡Era auténtica diarrea mental!</p>    
 
@@ -82,7 +82,7 @@ categories: post
 
 <p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general.</p>     
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen><sup>La sexta edición de la Feria de Autoedición de Murcia</sup></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen></iframe><sup>La sexta edición de la Feria de Autoedición de Murcia</sup>
 
 <b>¿Cuales son los requisitos para entrar en el Zorroclocos?</b>
 
