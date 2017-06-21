@@ -109,7 +109,7 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el DIY o hazlo tu mismo. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos y más en este país, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
 
-<p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger. </p>   
+<p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger.</p>   
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><sup>Foto: Isidoro Puerta</sup></a>   
 
