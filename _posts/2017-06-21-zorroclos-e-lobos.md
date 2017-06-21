@@ -15,7 +15,7 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> Bueno, estos festivales los solemos montar la gente que hacemos cosas que por economía y por espíritu no vemos que tengamos cabida en otro sitio. </p>    
 
-<p align="justify"><b>Akira Sanz: </b> Los salones que se montan en España, al igual que los que tienen lugar aquí en Murcia, como podría ser el Salón del Manga, se montan para recaudar pasta. Y lo que da pasta es que venga un artista que vende muñecos u otro tipo de merchan que tengan tirón y que te pague. Incluso hay libros de tebeo que pasan de ir a esos salones porque no les sale a cuento.</p>   
+<p align="justify"><b>Akira Sanz: </b> Los salones que se montan en España, al igual que los que tienen lugar aquí en Murcia, como podría ser el Salón del Manga, se montan para recaudar pasta. Y lo que da pasta es que venga un artista que vende muñecos u otro tipo de merchan que tengan tirón y que te pague. Incluso hay tiendas de tebeo que pasan de ir a esos salones porque no les sale a cuento.</p>   
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorrocartel.jpg" alt="" /><sup>Cartel del Zorroclos E LOBOS 6</sup>
 
@@ -35,16 +35,16 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> Ahora mismo esa línea es un poco difusa. Gracias a la tecnología, hay una democratización de la impresión. Hay cosas que ves rollo fanzines “entre comillas” que son de tapa dura, a color, con encuadernación y lomo…</p>    
 
-<p align="justify"><b>Ansia Lánguida:</b> Por aquel entonces a eso se le llamaba procine. Les llamábamos así, y de hecho, había cierta reticencia ya que era considerado demasiado “guay”. </p>    
+<p align="justify"><b>Ansia Lánguida:</b> Por aquel entonces a eso se le llamaba proZine. Les llamábamos así, y de hecho, había cierta reticencia ya que era considerado demasiado “guay”. </p>    
 
 <p align="justify"><b>Godoy:</b> Yo recuerdo participar en un fanzine de Manu Riquelme, que todavía lo hacía fotocopiado, recortando y pegando, y volviendo a fotocopiar, que es como se hacían en un principio. Eso es lo que digamos que la gente más ‘pureta’ entiende como fanzine.</p>   
-<p align="justify">Como decía Akira, ahora mismo son fronteras muy difusas, porque en la práctica es muy raro que hagas un fanzine en fotocopia hoy día. Lo normal es que vayas a una copistería. Al final se trata de algo que te hayas pagado tú de tu bolsillo.</p>
+<p align="justify">Como decía Akira, ahora mismo son fronteras muy difusas, porque en la práctica es muy raro que hagas un fanzine en fotocopia hoy día. Lo normal es que vayas a una copistería e imprimas en digital. Al final se trata de algo que te hayas pagado tú de tu bolsillo.</p>
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro5.jpg" alt="" /><sup>Foto: Isidoro Puerta</sup></a>
 
 <b>¿Cuál fue vuestra primera publicación?</b>
 
-<p align="justify"><b>Ansia Lánguida:</b> Nosotros nos juntábamos para dibujar, beber y fumar canutos. Nuestra primera publicación empezó a raíz de un momento en el que los colegas se separaban, muchos se iban a Barcelona a vivir… y en el que decidimos hacer un blog donde volcar nuestras movidas. De ahí surgió todo.</p>  
+<p align="justify"><b>Ansia Lánguida:</b> Nosotros cuatro nos juntábamos para dibujar, beber y fumar canutos. Nuestra primera publicación empezó a raíz de un momento en el que los colegas se separaban, muchos se iban a Barcelona a vivir… y en el que decidimos hacer un blog donde volcar nuestras movidas. De ahí surgió todo.</p>  
 
 <p align="justify"><b>Godoy:</b> En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material fue cuando decidimos seleccionarlo y sacarlo, así surgió el <i>Momic</i>.</p>   
 
@@ -95,7 +95,7 @@ categories: post
 
 <p align="justify"><b>Fran:</b> A veces no es que te comas la cabeza pensando como quieres que sea el festival, es simplemente que ves algo que te gusta y quieres que entre. </p>      
 
-<p align="justify"><b>Godoy:</b> El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que aún siendo autoedición, sean cosas alternativas y que se salgan de la corriente principal.</p>      
+<p align="justify"><b>Godoy:</b> Creo que el requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que aún siendo autoedición, sean cosas alternativas y que se salgan de la corriente principal.Aunque damos especial importancia al fanzine</p>      
 
 <p align="justify"><b>Akira Sanz: </b> Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia, que pese a la diversidad de artistas la envuelve con un mismo hilo conductor.</p>       
 
@@ -127,7 +127,7 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> El papel admite todo tipo de formatos.</p>      
 
-<p align="justify"><b>Godoy:</b> Si tú tienes un fanzine pensado, como el que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra. El tipo del papel, el formato, si es cuadrado, apaisado… jugar con el formato de tal manera, que tú cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
+<p align="justify"><b>Godoy:</b> Si tú tienes un fanzine pensado, como 'Fiebre Amarilla', el homenaje a los <i>Simpsoms</i> que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra. El tipo del papel, el formato, si es cuadrado, apaisado… jugar con el formato de tal manera, que tú cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
 
 <p align="justify"><b>Ansia lánguida:</b> Son cosas que no te permite Internet.</p>     
 
