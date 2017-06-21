@@ -76,11 +76,11 @@ categories: post
 
 <b>Y qué hay del Zorroclocos… ¿en qué momento decidís organizar vuestro propio festival de autoedición?</b>  
 
-<p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en Tenderete, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius</b> y yo. Magius es de Murcia y cada uno conocíamos el trabajo del otro pero no en persona. Allí fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa.</p>     
+<p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en <b>Tenderete</b>, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius</b> y yo. Magius es de Murcia y cada uno conocíamos el trabajo del otro pero no en persona. Allí fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa.</p>     
 
-<p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con  otro colega suyo montaron un festival llamado Burundanga en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron fueron sí asistieron como público. También estaba participando a <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos la Feria de Autoedición.</p>     
+<p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con otro colega suyo montaron un festival llamado <b>Burundanga</b> en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron fueron sí asistieron como público. También estaba participando a <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos la Feria de Autoedición.</p>     
 
-<p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general.</p>     
+<p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general como la ilustración.</p>     
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen></iframe><sup>La sexta edición de la Feria de Autoedición de Murcia</sup>
 
@@ -89,15 +89,15 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> Lo que nos interesa es que prime el concepto de autoedición. La norma general es que no entre nadie que no tenga Fanzine.</p>     
 
-<p align="justify"><b>Akira Sanz:</b> Cada uno cuando se hacen las votaciones, cada uno tiene en mente como quiere que sea el festival.</p>      
+<p align="justify"><b>Akira Sanz:</b> Cuando se hacen las votaciones, cada uno tiene en mente como quiere que sea el festival.</p>      
 
-<p align="justify"><b>Ansia Lánguida:</b> Cada uno como entiende la autoedición y según eso se vota y sale la gente.</p>      
+<p align="justify"><b>Ansia Lánguida:</b> Cada uno vota según como entienda la autoedición y así es como salen los paricipantes.</p>      
 
-<p align="justify"><b>Fran:</b> A veces no es que te comas la cabeza pensando como quiere que sea el zorroclocos, es simplemente que ves algo que te gusta y quieres que entre. </p>      
+<p align="justify"><b>Fran:</b> A veces no es que te comas la cabeza pensando como quiere que sea el festival, es simplemente que ves algo que te gusta y quieres que entre. </p>      
 
 <p align="justify"><b>Godoy:</b> El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que siendo autoedición, que sean cosas alternativas y que se salgan cosas de la corriente principal.</p>      
 
-<p align="justify"><b>Akira Sanz: </b>  Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia que pese a la diversidad la envuelve e un mismo hilo conductor.</p>       
+<p align="justify"><b>Akira Sanz: </b> Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia que pese a la diversidad la envuelve e un mismo hilo conductor.</p>       
 
 <b>¿Y el nombre Zorroclocos E LOBOS de dónde viene?</b>  
 
