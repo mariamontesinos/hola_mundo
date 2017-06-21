@@ -82,7 +82,7 @@ categories: post
 
 <p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general.</p>     
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen></iframe><sup>La sexta edición de la Feria de Autoedición de Murcia</sup>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen><sup>La sexta edición de la Feria de Autoedición de Murcia</sup></iframe>
 
 <b>¿Cuales son los requisitos para entrar en el Zorroclocos?</b>
 
@@ -92,15 +92,15 @@ categories: post
 
 <p align="justify"><b>Ansia Lánguida:</b> Cada uno como entiende la autoedición y según eso se vota y sale la gente.</p>      
 
-<p align="justify"><b>Fran:</b>  A veces no es que te comas la cabeza pensando como quiere que sea el zorroclocos, es simplemente que ves algo que te gusta y quieres que entre. </p>      
+<p align="justify"><b>Fran:</b> A veces no es que te comas la cabeza pensando como quiere que sea el zorroclocos, es simplemente que ves algo que te gusta y quieres que entre. </p>      
 
-<p align="justify"><b>Godoy: </b>  El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que siendo autoedición, que sean cosas alternativas y que se salgan cosas de la corriente principal.</p>      
+<p align="justify"><b>Godoy:</b> El requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que siendo autoedición, que sean cosas alternativas y que se salgan cosas de la corriente principal.</p>      
 
 <p align="justify"><b>Akira Sanz: </b>  Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia que pese a la diversidad la envuelve e un mismo hilo conductor.</p>       
 
-<b>¿Y el nombre Zorroclocos E LOBOS de dónde viene? </b>  
+<b>¿Y el nombre Zorroclocos E LOBOS de dónde viene?</b>  
 
-<p align="justify"><b>Godoy: </b> Fue idea de Magius, el es muy fan del fólcrore Murciano, es un termino que significa ‘día en el cualo no se trabaja ná’, o sea, un día de fiesta. Y también tiene una connotación de un personaje pícaro, en fin… por la cosa del autoeditor, sería un personaje que se lo guisa y se lo come, al margen de la corriente principal.</p>      
+<p align="justify"><b>Godoy:</b> Fue idea de Magius, el es muy fan del fólcrore Murciano, es un termino que significa ‘día en el cualo no se trabaja ná’, o sea, un día de fiesta. Y también tiene una connotación de un personaje pícaro, en fin… por la cosa del autoeditor, sería un personaje que se lo guisa y se lo come, al margen de la corriente principal.</p>      
 
 <b>¿Cuál  diríais que es la filosofía de la autoedición?</b>
 
@@ -108,17 +108,17 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el DIY o hazlo tu mismo. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos y más en este país, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
 
-<p align="justify"><b>Akira Sanz: </b>La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger. </p>   
+<p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger. </p>   
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><<span>   
 
 <b>¿Por qué seguís editando en papel?</b>  
 
-<p align="justify"><b>Godoy:</b> Es interesante porque es una época en la que todos esos contenidos podrían estar en Internet pero a nosotros nos apetece tenerlos en físico. Es para un publico que esta interesado en el papel. Yo en mi caso hasta que no lo veo en papel y grapa, no tengo la sensación de haberlo terminado. </p>      
+<p align="justify"><b>Godoy:</b> Es interesante porque es una época en la que todos esos contenidos podrían estar en Internet pero a nosotros nos apetece tenerlos en físico. Es para un publico que esta interesado en el papel. Yo en mi caso hasta que no lo veo en papel y grapa, no tengo la sensación de haberlo terminado.</p>      
 
-<p align="justify"><b>Akira Sanz:</b> Todos venimos del formato físico. Nos hemos criado con eso. Nos gusta tocar la textura del papel cuando leemos, ir de adelante para atrás… la experiencia que te da el papel. </p>      
+<p align="justify"><b>Akira Sanz:</b> Todos venimos del formato físico. Nos hemos criado con eso. Nos gusta tocar la textura del papel cuando leemos, ir de adelante para atrás… la experiencia que te da el papel.</p>      
 
-<p align="justify"><b>Ansia Lánguida:</b> La autoedición va por ahí, cubres la necesidad de enseñar tu material, pero a parte entiendes como fin último de ese material que sea una cosa tangible. </p>      
+<p align="justify"><b>Ansia Lánguida:</b> La autoedición va por ahí, cubres la necesidad de enseñar tu material, pero a parte entiendes como fin último de ese material que sea una cosa tangible.</p>      
 
 <p align="justify"><b>Fran:</b> Para mi, el fin último es la feria dónde ya acabas de compartir ese trabajo una vez finalizado.</p>      
 
@@ -128,7 +128,7 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> Si tu tienes un fanzine pensado, como el que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra. El tipo del papel, el formato, si es cuadrado, apaisado… jugar con el formato de tal manera, que tu cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
 
-<p align="justify"><b>Ansia lánguida:</b> Son cosas que no te permite Internet. </p>     
+<p align="justify"><b>Ansia lánguida:</b> Son cosas que no te permite Internet.</p>     
 
 <p align="justify"><b>Fran: </b> Incluso una editorial tampoco te lo va a permitir porque saldría muy caro.</p>      
 
