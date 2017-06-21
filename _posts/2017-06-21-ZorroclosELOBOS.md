@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zorroclocos E LOBOS"
-excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de <b>Zorroclocos E LOBOS</b>."
+excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
 image: zorroportada.jpg
 categories: post
 ---
@@ -69,9 +69,9 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> Lo mejor era que gente nos preguntaba que cuando íbamos a sacar el siguiente. ¡Era auténtica diarrea mental!</p>    
 
-<p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos pero no estaba tan de moda. No lo digo como una crítica, sino que tu entras al mundo del fanzine festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. A día de hoy, el fanzine ya aparece en publicaciones como <i>Mondosonoro/i>, <i>PlayGround/i> o <i>Vice/i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros era una macarrada.</p>    
+<p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos pero no estaba tan de moda. No lo digo como una crítica, sino que tu entras al mundo del fanzine festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. A día de hoy, el fanzine ya aparece en publicaciones como <i>Mondosonoro</i>, <i>PlayGround</i> o <i>Vice</i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros era una macarrada.</p>    
 
-<p align="justify"><b>Ansia Lánguida: Un fanzine cubre una necesidad. Ya sea a nivel individual para darte a conocer o enseñar tu material, o bien a nivel colectivo para cubrir esa necesidad de hacer cosas con tus colegas y acabar dándoles forma. Y eso fue lo que pasó.</p>    
+<p align="justify"><b>Ansia Lánguida:</b> Un fanzine cubre una necesidad. Ya sea a nivel individual para darte a conocer o enseñar tu material, o bien a nivel colectivo para cubrir esa necesidad de hacer cosas con tus colegas y acabar dándoles forma. Y eso fue lo que pasó.</p>    
 
 
 <b>Y qué hay del Zorroclocos… ¿en qué momento decidís organizar vuestro propio festival de autoedición?</b>  
