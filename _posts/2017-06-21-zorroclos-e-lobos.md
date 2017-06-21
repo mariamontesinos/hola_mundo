@@ -84,6 +84,7 @@ categories: post
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen></iframe><sup>La sexta edición de la Feria de Autoedición de Murcia</sup>
 
+
 <b>¿Cuales son los requisitos para entrar en el Zorroclocos?</b>
 
 <p align="justify"><b>Godoy:</b> Lo que nos interesa es que prime el concepto de autoedición. La norma general es que no entre nadie que no tenga Fanzine.</p>     
