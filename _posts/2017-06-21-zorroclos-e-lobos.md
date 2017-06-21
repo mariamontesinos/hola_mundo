@@ -67,16 +67,16 @@ categories: post
 
 <p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el tipo de humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <i>Momic</i> era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra…</p>   
 
-<p align="justify"><b>Akira Sanz:</b> Lo mejor era que gente nos preguntaba que cuando íbamos a sacar el siguiente. ¡Era auténtica diarrea mental!</p>    
+<p align="justify"><b>Akira Sanz:</b> Lo mejor era que la gente nos preguntaba que cuando íbamos a sacar el siguiente. ¡Era auténtica diarrea mental!</p>    
 
-<p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos, no estaba tan de moda. No lo digo como una crítica, sino que tú entras al mundo del fanzine y ya existen festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. A día de hoy, el fanzine ya aparece en publicaciones como <i>Mondosonoro</i>, <i>PlayGround</i> o <i>Vice</i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros era una macarrada.</p>    
+<p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos, no estaba tan de moda. No lo digo como una crítica, sino que hoy día tú entras al mundo del fanzine y ya existen festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. En la actualidad el fanzine ya aparece en publicaciones como <i>Mondosonoro</i>, <i>PlayGround</i> o <i>Vice</i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros todo esto era una macarrada.</p>    
 
 <p align="justify"><b>Ansia Lánguida:</b> Un fanzine cubre una necesidad. Ya sea a nivel individual para darte a conocer o enseñar tu material, o bien a nivel colectivo para cubrir esa necesidad de hacer cosas con tus colegas y acabar dándoles forma. Y eso fue lo que pasó.</p>    
 
 
 <b>Y qué hay del Zorroclocos… ¿en qué momento decidís organizar vuestro propio festival de autoedición?</b>  
 
-<p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en Tenderete, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius</b> y yo. Magius es de Murcia y cada uno conocíamos el trabajo de el otro pero no en persona. Allí, fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa.</p>     
+<p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en Tenderete, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius</b> y yo. Magius es de Murcia y cada uno conocíamos el trabajo del otro pero no en persona. Allí fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa.</p>     
 
 <p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con  otro colega suyo montaron un festival llamado Burundanga en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron fueron sí asistieron como público. También estaba participando a <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos la Feria de Autoedición.</p>     
 
