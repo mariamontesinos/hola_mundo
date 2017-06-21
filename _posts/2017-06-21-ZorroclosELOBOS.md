@@ -17,7 +17,7 @@ categories: post
 
 <p align="justify"><b>Akira Sanz: </b> Los salones que se montan en España, al igual que los que tienen lugar aquí en Murcia, como podría ser el Salón del Manga, se montan para recaudar pasta. Y lo que da pasta es que venga un artista que vende muñecos u otro tipo de merchan que tengan tirón y que te pague. Incluso hay libros de tebeo que pasan de ir a esos salones porque no les sale a cuento.</p>   
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorrocartel.jpg" alt="" /><sup><b>Cartel del Zorroclos E LOBOS 6</b></sup></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorrocartel.jpg" alt="" /><span>Cartel del Zorroclos E LOBOS 6</b></sup></span>
 
 <b>¿Qué requisitos tiene que tener una publicación para ser considerada un Fanzine? </b> 
 
@@ -49,7 +49,7 @@ categories: post
 
 <p align="justify"><b>Godoy:</b>En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <b>Momic</b>.</p>   
 
-<span class="image right"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></span>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /><<span> 
 
 <b>¿Qué es el Momic?</b> 
 
@@ -110,7 +110,7 @@ categories: post
 
 <p align="justify"><b>Akira Sanz: </b>La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger. </p>   
 
-<span class="image left"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /></span>   
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><<span>   
 
 <b>¿Por qué seguís editando en papel?</b>  
 
