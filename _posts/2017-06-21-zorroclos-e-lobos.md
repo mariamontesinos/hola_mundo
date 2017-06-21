@@ -105,9 +105,9 @@ categories: post
      
 <b>¿Cuál  diríais que es la filosofía de la autoedición?</b>
 
-<p align="justify"><b>Fran:</b> Es un término que tiene cierta ambigüedad hoy en día, ¿qué es autoedición? ¿el qué se ha hecho el fanzine entero o el que lo ha llevado a una imprenta ya no lo consideramos autoedición por qué no lo ha impreso el mismo? Es un término que da mucho juego. </p>      
+<p align="justify"><b>Fran:</b> Es un término que tiene cierta ambigüedad hoy en día, ¿qué es autoedición? ¿el qué se ha hecho el fanzine entero o el que lo ha llevado a una imprenta ya no lo consideramos autoedición por qué no lo ha impreso él mismo? Es un término que da mucho juego. </p>      
 
-<p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el <i>DIY</i> o 'Hazlo tú mismo'. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos y más en este país, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
+<p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el <i>DIY</i> o 'Hazlo tú mismo'. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos -y más en este país-, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
 
 <p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger.</p>   
 
@@ -115,29 +115,29 @@ categories: post
 
 <b>¿Por qué seguís editando en papel?</b>  
 
-<p align="justify"><b>Godoy:</b> Es interesante porque es una época en la que todos esos contenidos podrían estar en Internet pero a nosotros nos apetece tenerlos en físico. Es para un publico que esta interesado en el papel. Yo en mi caso hasta que no lo veo en papel y grapa, no tengo la sensación de haberlo terminado.</p>      
+<p align="justify"><b>Godoy:</b> Es interesante porque es una época en la que todos esos contenidos podrían estar en Internet pero a nosotros nos apetece tenerlos en físico. Es para un público que esta interesado en el papel. Yo en mi caso hasta que no lo veo en papel y grapa, no tengo la sensación de haberlo terminado.</p>      
 
 <p align="justify"><b>Akira Sanz:</b> Todos venimos del formato físico. Nos hemos criado con eso. Nos gusta tocar la textura del papel cuando leemos, ir de adelante para atrás… la experiencia que te da el papel.</p>      
 
 <p align="justify"><b>Ansia Lánguida:</b> La autoedición va por ahí, cubres la necesidad de enseñar tu material, pero a parte entiendes como fin último de ese material que sea una cosa tangible.</p>      
 
-<p align="justify"><b>Fran:</b> Para mi, el fin último es la feria dónde ya acabas de compartir ese trabajo una vez finalizado.</p>      
+<p align="justify"><b>Fran:</b> Para mi, el fin último es la feria donde ya acabas de compartir ese trabajo una vez finalizado.</p>      
 
 <b>¿Cuál es el valor añadido que da el papel a un seguidor del fanzine?</b>
 
 <p align="justify"><b>Akira Sanz:</b> El papel admite todo tipo de formatos.</p>      
 
-<p align="justify"><b>Godoy:</b> Si tu tienes un fanzine pensado, como el que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra. El tipo del papel, el formato, si es cuadrado, apaisado… jugar con el formato de tal manera, que tu cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
+<p align="justify"><b>Godoy:</b> Si tú tienes un fanzine pensado, como el que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra. El tipo del papel, el formato, si es cuadrado, apaisado… jugar con el formato de tal manera, que tú cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
 
 <p align="justify"><b>Ansia lánguida:</b> Son cosas que no te permite Internet.</p>     
 
 <p align="justify"><b>Fran: </b> Incluso una editorial tampoco te lo va a permitir porque saldría muy caro...</p>      
 
-<p align="justify"><b>Ansia Lánguida: </b> A nosotros, en Ansia Lánguida era una de las cosas que más nos llamaba la atención, ese juego. Desde la misma portada, tu no puedes leer el texto si no te vas a un espejo. La autoedición es crear una experiencia.</p>      
+<p align="justify"><b>Ansia Lánguida: </b> A nosotros, en Ansia Lánguida era una de las cosas que más nos llamaba la atención, ese juego. Desde la misma portada, no puedes leer el texto si no te vas a un espejo. La autoedición es crear una experiencia.</p>      
 
 <p align="justify"><b>Godoy:</b> Hay otros fanzines que son desplegables y depende de cómo lo pongas coinciden unas imágenes con otras. No es un mero coger lo que hay en la pantalla e imprimirlo, sino que se juega con el formato.</p>      
 
-<p align="justify"><b>Akira Sanz:</b> Tu empiezas haciendo fanzine de grapa y llega un momento en que buscas que tu fanzine sea un objeto en sí mismo.</p>      
+<p align="justify"><b>Akira Sanz:</b> Normalmente empiezas haciendo fanzine de grapa y llega un momento en que buscas que tu fanzine sea un objeto en sí mismo.</p>      
 
 <p align="justify"><b>Godoy:</b> Aunque hay gente que sigue haciendo el clásico con grapas, la democratización de hoy que comentaba Akira hace que te plantees con más facilidad jugar con los formatos, lo que te lleva a explorar todas estas posibilidades.</p>      
 
