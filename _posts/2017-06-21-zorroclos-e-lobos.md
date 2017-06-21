@@ -6,7 +6,7 @@ image: zorroportada.jpg
 categories: post
 ---
 
-<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <b>Zorroclocos E LOBOS</b>.</p>  
+<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
 
 <p align="justify">Nos reunimos con Godoy, Akira Sanz, Fran Scythe y Ansia Lánguida, cuatro de los integrantes del Zorroclocos, que junto con Magius, Dr.Zombie, Rodeo Ródenas y Nasty Franky forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y el momento actual en el que se encuentra la feria de Autoedición de la Región de Murcia.</p>   
 
@@ -41,13 +41,13 @@ categories: post
 
 <p align="justify">Como decía Akira, ahora mismo son fronteras muy difusas, porque en la práctica es muy raro que hagas un fanzine en fotocopia hoy día. Lo normal es que vayas a una copistería. Al final se trata de algo que te hayas pagado tu de tu bolsillo.</p>
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro5.jpg" alt="" /><sup><b>Foto: Isidoro Puerta</b></sup></a>
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro5.jpg" alt="" /><sup>Foto: Isidoro Puerta</sup></a>
 
 <b>¿Cuál fue vuestra primera publicación?</b>
 
 <p align="justify"><b>Ansia Lánguida:</b> Nosotros nos juntábamos para dibujar, beber y fumar canutos. Nuestra primera publicación empezó a raíz de un momento en el que los colegas se separaban, muchos se iban a Barcelona a vivir… y en el que decidimos hacer un blog dónde volcar nuestras movidas. De ahí surgió todo.</p>  
 
-<p align="justify"><b>Godoy:</b>En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <b>Momic</b>.</p>   
+<p align="justify"><b>Godoy:</b> En principio el blog era para nosotros, era como un juego. Una vez que vimos que se acumulaba material en el blog, decidimos seleccionar el material y sacarlo, así surgió el <i>Momic</i>.</p>   
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro2.jpg" alt="" /></a> 
 
@@ -55,11 +55,11 @@ categories: post
 
 <p align="justify"><b>Ansia Lánguida:</b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabo convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
 
-<p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <b>Momic</b>. Primero sacamos unos números, después se dejo parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
+<p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <i>Momic</i>. Primero sacamos unos números, después se dejo parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
 
 <p align="justify"><b>Ansia Lánguida:</b> Era tan grande que ni cerraba…Yo estoy convencido de que si eso saliera ahora Murcia explotaba, ¿60 páginas por 1€? Con toda la mierda que había ahí…</p>  
 
-<p align="justify"><b>Godoy:</b> Lo bueno que tuvo el <b>Momic</b>, es que nos soltamos mucho. Había de todo: dibujo, tebeo… era un fanzine muy de letra, narrativo y de chiste. No solo de ilustración sin más. </p>   
+<p align="justify"><b>Godoy:</b> Lo bueno que tuvo el <i>Momic</i>, es que nos soltamos mucho. Había de todo: dibujo, tebeo… era un fanzine muy de letra, narrativo y de chiste. No solo de ilustración sin más.</p>   
 
 <p align="justify"><b>Akira Sanz:</b> Lo cierto es que era muy diferente todo, un cajón de sastre lleno de contenidos.</p>   
 
@@ -110,7 +110,7 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger. </p>   
 
-<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><sup><b>Foto: Isidoro Puerta</b></sup></a>   
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><sup>Foto: Isidoro Puerta</sup></a>   
 
 <b>¿Por qué seguís editando en papel?</b>  
 
