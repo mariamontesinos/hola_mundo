@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Zorroclocos E LOBOS"
-excerpt: "Lo que empezó siendo un grupo de colegas que se juntaban a dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
+excerpt: "Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
 image: zorroportada.jpg
 categories: post
 ---
 
-<p align="justify">Lo que empezó siendo un grupo de colegas que se juntaban a dibujar mientras bebían, fumaban y se echaban unas risas, acabó convirtiéndose en un desvarío de papel, tinta y grapa que con el paso de los años, y respondiendo a la necesidad de expresión de estos artistas del fanzine, ha acabado por culminar en la feria de Autoedición  que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
+<p align="justify">Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
 
-<p align="justify">Nos reunimos con <a href= "http://javigodoy.com/"><b>Godoy</b></a>, <a href= "http://www.akirasanz.com/"><b>Akira Sanz</b></a>, <a href= "http://tbomuybien.blogspot.com.es/?zx=73ed102810e78a29"><b>Fran Sythe</b></a> y, <a href= "https://www.facebook.com/ansialanguida/"><b>Ansia Lánguida</b></a>, cuatro de los integrantes del Zorroclocos, que junto con <a href= "http://fogcomix.wixsite.com/magius"><b>Magius</b></a>, <a href= "http://satanlovesdoctorzombie.tumblr.com/"><b>Dr.Zombie</b></a>, <a href= "http://rodeorodenas.tumblr.com/"><b>Rodeo Ródenas</b></a> y <a href= "http://nastyfranky.tumblr.com/"><b>Nasty Franky</b></a> forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y sobre el origen de la feria de Autoedición de la Región de Murcia.</p>   
+<p align="justify">Nos reunimos con <a href= "http://javigodoy.com/"><b>Godoy</b></a>, <a href= "http://www.akirasanz.com/"><b>Akira Sanz</b></a>, <a href= "http://tbomuybien.blogspot.com.es/?zx=73ed102810e78a29"><b>Fran Sythe</b></a> y, <a href= "https://www.facebook.com/ansialanguida/"><b>Ansia Lánguida</b></a>, cuatro de los integrantes del Zorroclocos, que junto con <a href= "http://fogcomix.wixsite.com/magius"><b>Magius</b></a>, <a href= "http://satanlovesdoctorzombie.tumblr.com/"><b>Dr.Zombie</b></a>, <a href= "http://rodeorodenas.tumblr.com/"><b>Rodeo Ródenas</b></a> y <a href= "http://nastyfranky.tumblr.com/"><b>Nasty Franky</b></a> forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y el origen de la feria de Autoedición de la Región de Murcia.</p>   
 
 
 <b>¿Por qué decidís montar un festival de autoedición? </b> 
@@ -35,7 +35,7 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> Ahora mismo esa línea es un poco difusa. Gracias a la tecnología, hay una democratización de la impresión. Hay cosas que ves rollo fanzines “entre comillas” que son de tapa dura, a color, con encuadernación y lomo…</p>    
 
-<p align="justify"><b>Ansia Lánguida:</b> Por aquel entonces a eso se le llamaba proZine. Les llamábamos así, y de hecho, había cierta reticencia ya que era considerado demasiado “guay”. </p>    
+<p align="justify"><b>Ansia Lánguida:</b> Por aquel entonces a eso se le llamaba prozine. Les llamábamos así, y de hecho, había cierta reticencia ya que era considerado demasiado “guay”. </p>    
 
 <p align="justify"><b>Godoy:</b> Yo recuerdo participar en un fanzine de Manu Riquelme, que todavía lo hacía fotocopiado, recortando y pegando, y volviendo a fotocopiar, que es como se hacían en un principio. Eso es lo que digamos que la gente más ‘pureta’ entiende como fanzine.</p>   
 <p align="justify">Como decía Akira, ahora mismo son fronteras muy difusas, porque en la práctica es muy raro que hagas un fanzine en fotocopia hoy día. Lo normal es que vayas a una copistería e imprimas en digital. Al final se trata de algo que te hayas pagado tú de tu bolsillo.</p>
