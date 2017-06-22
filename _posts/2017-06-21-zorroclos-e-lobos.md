@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Zorroclocos E LOBOS"
-excerpt: "Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que para muchxs comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la creación de la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
+excerpt: "Papel, tinta y grapa son tres de los básicos con los que estos artistas se iniciaron en el mundo del fanzine. Lo que para muchxs comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la creación de la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
 image: zorroportada.jpg
 categories: post
 ---
 
-<p align="justify">Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que para muchxs comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la creación de la feria de Autoedición que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
+<p align="justify">Papel, tinta y grapa son tres de los básicos con los que estos artistas se iniciaron en el mundo del fanzine. Lo que para muchxs comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la creación de la feria de Autoedición que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
 
 <p align="justify">Nos reunimos con <a href= "http://javigodoy.com/"><b>Godoy</b></a>, <a href= "http://www.akirasanz.com/"><b>Akira Sanz</b></a>, <a href= "http://tbomuybien.blogspot.com.es/?zx=73ed102810e78a29"><b>Fran Sythe</b></a> y, <a href= "https://www.facebook.com/ansialanguida/"><b>Ansia Lánguida</b></a>, cuatro de los integrantes del Zorroclocos, que junto con <a href= "http://fogcomix.wixsite.com/magius"><b>Magius</b></a>, <a href= "http://satanlovesdoctorzombie.tumblr.com/"><b>Dr.Zombie</b></a>, <a href= "http://rodeorodenas.tumblr.com/"><b>Rodeo Ródenas</b></a> y <a href= "http://nastyfranky.tumblr.com/"><b>Nasty Franky</b></a> forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y el origen de la feria de Autoedición de la Región de Murcia.</p>   
 
