@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Zorroclocos E LOBOS"
-excerpt: "Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
+excerpt: "Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la creación de la feria de Autoedición que hoy conocemos bajo el nombre de Zorroclocos E LOBOS."
 image: zorroportada.jpg
 categories: post
 ---
 
-<p align="justify">Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la feria de Autoedición que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
+<p align="justify">Papel, tinta y grapa son tres de los básicos con los que la mayoría de estos artistas se iniciaron en el mundo del fanzine. Lo que comenzó como una necesidad de expresión durante la adolescencia, ha acabado por culminar en la creación de la feria de Autoedición que hoy conocemos bajo el nombre de <a href= "http://zorroclocos.tumblr.com/"><b>Zorroclocos E LOBOS</b></a>.</p>  
 
 <p align="justify">Nos reunimos con <a href= "http://javigodoy.com/"><b>Godoy</b></a>, <a href= "http://www.akirasanz.com/"><b>Akira Sanz</b></a>, <a href= "http://tbomuybien.blogspot.com.es/?zx=73ed102810e78a29"><b>Fran Sythe</b></a> y, <a href= "https://www.facebook.com/ansialanguida/"><b>Ansia Lánguida</b></a>, cuatro de los integrantes del Zorroclocos, que junto con <a href= "http://fogcomix.wixsite.com/magius"><b>Magius</b></a>, <a href= "http://satanlovesdoctorzombie.tumblr.com/"><b>Dr.Zombie</b></a>, <a href= "http://rodeorodenas.tumblr.com/"><b>Rodeo Ródenas</b></a> y <a href= "http://nastyfranky.tumblr.com/"><b>Nasty Franky</b></a> forman el equipo organizador del festival, para que nos cuenten más sobre la fanzineología, sus inicios en esto de la autoedición y el origen de la feria de Autoedición de la Región de Murcia.</p>   
 
@@ -72,6 +72,8 @@ categories: post
 <p align="justify"><b>Godoy:</b>  Partimos de un momento en el que, aunque ya existían fanzines desde antes de que naciéramos, no estaba tan de moda. No lo digo como una crítica, sino que hoy día tú entras al mundo del fanzine y ya existen festivales como el Zorroclocos, incluso en una ciudad pequeñita como es Murcia. En la actualidad el fanzine ya aparece en publicaciones como <i>Mondosonoro</i>, <i>PlayGround</i> o <i>Vice</i>. Es decir, ya hay una popularidad y sabes a lo que vas. Pero por aquel entonces para nosotros todo esto era una macarrada.</p>    
 
 <p align="justify"><b>Ansia Lánguida:</b> Un fanzine cubre una necesidad. Ya sea a nivel individual para darte a conocer o enseñar tu material, o bien a nivel colectivo para cubrir esa necesidad de hacer cosas con tus colegas y acabar dándoles forma. Y eso fue lo que pasó.</p>    
+
+<a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro6.jpg" alt="" /><sup>Foto: Isidoro Puerta</sup></a>
 
 
 <b>Y qué hay del Zorroclocos… ¿en qué momento decidís organizar vuestro propio festival de autoedición?</b>  
