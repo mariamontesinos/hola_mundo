@@ -129,7 +129,7 @@ categories: post
 
 <p align="justify"><b>Akira Sanz:</b> El papel admite todo tipo de formatos.</p>      
 
-<p align="justify"><b>Godoy:</b> Si tú tienes un fanzine pensado, como 'Fiebre Amarilla' el homenaje a los <i>Simpsoms</i> que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra. El tipo del papel, el formato, si es cuadrado, apaisado… jugar con el formato de tal manera, que tú cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
+<p align="justify"><b>Godoy:</b> Si tú tienes un fanzine pensado, como fue 'Fiebre Amarilla' el homenaje a los <i>Simpsoms</i> que hizo Joaquín, que era un papel muy grueso (cartón de kilo lo llamaba yo), amarillo, impresión tinta negra... el tipo del papel, el formato, si es cuadrado, apaisado… el papel te permite jugar con el formato de tal manera, que tú cuando lo ves en el ordenador no puedes percibir todos esos detalles.</p>      
 
 <p align="justify"><b>Ansia lánguida:</b> Son cosas que no te permite Internet.</p>     
 
