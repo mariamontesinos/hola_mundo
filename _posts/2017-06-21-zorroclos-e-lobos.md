@@ -55,7 +55,7 @@ categories: post
 
 <p align="justify"><b>Ansia Lánguida:</b> Fue el primer fanzine que lanzamos allá por el 2003-2004, que funcionó a modo de revista. De hecho, el primero salió de imprenta a una tinta. Nos juntamos todos los colegas  y cada uno aportó lo suyo. Fue muy bonito porque aquello desvarió de una forma tremenda. No fue empezar desde muy abajo, con cosas muy seleccionadas y acabar siendo una cosa muy grande. Sino que aspiramos a hacer algo muy grande, ya que por aquel entonces éramos muy diseñadores, íbamos muy del palo y queríamos hacer una cosa muy cuidada, y aquello acabó convirtiéndose en una auténtica maravilla llena de mierda [risas].</p>  
 
-<p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <i>Momic</i>. Primero sacamos unos números, después se dejó parado un tiempo y cuando lo retomamos, fuimos picando a colegas e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones y en ese momento fue cuando sacamos  tres números cada uno de 60 páginas. </p>   
+<p align="justify"><b>Godoy:</b> Viendo que en el blog no paraba de acumularse el material decidimos sacar el <i>Momic</i>. Primero sacamos unos números, después se dejó parado un tiempo y cuando lo retomamos, fuimos picando a colegas, e incluso la gente a la que le gustaba el blog nos mandaba colaboraciones, y en ese momento fue cuando sacamos tres números cada uno de 60 páginas. </p>   
 
 <p align="justify"><b>Ansia Lánguida:</b> Era tan grande que ni cerraba…Yo estoy convencido de que si eso saliera ahora Murcia explotaba, ¿60 páginas por 1€? Con toda la mierda que había ahí…</p>  
 
@@ -65,7 +65,7 @@ categories: post
 
 <b>¿Para los que no lo hemos conocido, qué clase de contenidos podías encontrar en el Momic?</b> 
 
-<p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el tipo de humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <i>Momic</i> era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra…</p>   
+<p align="justify"><b>Godoy: </b>  Quizá, la línea o el hilo narrativo era el humor escatológico…era muy canalla. Para que te hagas un idea, mi primera colaboración en el <i>Momic</i> era un tebeo mudo de tres páginas, una mezcla entre Francis Bacon y David Lynch. Una cosa muy bizarra…</p>   
 
 <p align="justify"><b>Akira Sanz:</b> Lo mejor era que la gente nos preguntaba que cuando íbamos a sacar el siguiente. ¡Era auténtica diarrea mental!</p>    
 
@@ -80,9 +80,9 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> La primera vez que se habló de ello fue estando en <b>Tenderete</b>, en Valencia. Allí nos conocimos en persona Diego Corbalán alias <b>Magius</b> y yo. Magius es de Murcia y aunque cada uno conocíamos el trabajo del otro no nos conociamos en persona. Allí fue cuando se habló de que en Murcia molaría que se hiciera alguna cosa.</p>     
 
-<p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con otro colega suyo montaron un festival llamado <b>Burundanga</b> en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron fueron sí asistieron como público. También estaba participando a <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos con la Feria de Autoedición.</p>     
+<p align="justify">Un poco más adelante <b>Fran Fernández</b>, autor de tebeos, junto con otro colega suyo montaron un festival llamado <b>Burundanga</b> en la Nave Puente Tocinos. Allí fue donde conocimos a <b>Nasty Franky</b> y  a <b>Dr.Zombie</b>, que aunque no participaron sí asistieron como público. También estaba participando <b>Joaquín Guirao</b>, todos ellos, parte integrante de los que empezamos con la Feria de Autoedición.</p>     
 
-<p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabo delimitando que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general como la ilustración.</p>     
+<p align="justify">En 2014, Diego alias Magius nos dijo que estaba organizando un mercadillo en Ficciones. La mayoría de los que participábamos hacíamos fanzine, por lo que al final se acabó por delimitar que el Zorroclocos fuera más centrado en la autoedición en sí, que en un sentido más general como la ilustración.</p>     
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNEdqi9uMlk" frameborder="0" allowfullscreen></iframe><sup>La sexta edición de la Feria de Autoedición de Murcia</sup>
 
@@ -97,7 +97,7 @@ categories: post
 
 <p align="justify"><b>Fran:</b> A veces no es que te comas la cabeza pensando como quieres que sea el festival, es simplemente que ves algo que te gusta y quieres que entre. </p>      
 
-<p align="justify"><b>Godoy:</b> Creo que el requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que lo veamos en otra feria o salón del comic. Nosotros vamos buscando que aún siendo autoedición, sean cosas alternativas y que se salgan de la corriente principal.Aunque damos especial importancia al fanzine</p>      
+<p align="justify"><b>Godoy:</b> Creo que el requisito es que sea autoedición y que sean cosas que no tengan cabida en otro lugar. Puede haber gente muy guay estéticamente y que haga algo que veamos en otra feria o salón del comic. Nosotros vamos buscando que aún siendo autoedición, sean cosas alternativas y que se salgan de la corriente principal. Aunque damos especial importancia al fanzine</p>      
 
 <p align="justify"><b>Akira Sanz: </b> Si te das una vuelta por la feria, hay un cierto espíritu, una cierta coherencia, que pese a la diversidad de artistas la envuelve con un mismo hilo conductor.</p>       
 
@@ -111,7 +111,7 @@ categories: post
 
 <p align="justify"><b>Godoy:</b> Yo creo que tiene que ver con una filosofía, con una actitud. Lo que hoy en día se le llama el <i>DIY</i> o 'Hazlo tú mismo'. No necesitas que esto te lo publique una gran editorial, y precisamente vivimos unos tiempos -y más en este país-, en donde aspirar a ganarte la vida con la ilustración es muy complicado. Con lo cual, es un momento que invita bastante a hacerlo cada uno a su bola, corriendo con los gastos por su cuenta. </p>      
 
-<p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes, te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial porque no te va a coger.</p>   
+<p align="justify"><b>Akira Sanz:</b> La democratización de la tecnología que comentaba antes te permite autoeditarte y hacer algo por tu cuenta que en muchas ocasiones sabes que no podría tener cabida en una editorial.</p>   
 
 <a href="#" class="image fit"><img src="{{ site.baseurl }}/assets/images/zorroclocos/zorro3.jpg" alt="" /><sup>Foto: Isidoro Puerta</sup></a>   
 
